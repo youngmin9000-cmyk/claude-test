@@ -1,0 +1,156 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P2",
+ "batch": 12,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "1WQEjppA8Qa2zaj2cbJsTrh_q9bZWoYys (P2 A01665-A01672; A01671/A01672 HOLD_SOURCE_SIZE 13.6MB/23.5MB not downloaded; released for COMPLETE sources)",
+ "sources": [
+  {
+   "queue_id": "A01665",
+   "drive_id": "1r0ZUZJq738f5FIvu8nyDcucavEIR63_5",
+   "name": "지학사_고_대수_2_서술형 문제.pdf",
+   "sha256": "431055f6a295423772bf8ff9d5ecfd79a8c346e466da1366f70dd9e12c055e5c",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-10 (전체)",
+   "canonical_rows": 10,
+   "verdicts": {
+    "PASS": 10
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01666",
+   "drive_id": "1uS1cjHVApjzWj66M3A81bIcOn6PIG_Sk",
+   "name": "지학사_고_대수_1_서술형 문제.pdf",
+   "sha256": "42d40a741622677543a5335b0c98348e4646a53513696495f617b2d1ccce04b6",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-10 (전체)",
+   "canonical_rows": 10,
+   "verdicts": {
+    "PASS": 9,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01667",
+   "drive_id": "1SwAC_8RdtTUNTV_BCCFp5F5Tb8WIO9Kc",
+   "name": "지학사_고_대수_3_서술형 문제.pdf",
+   "sha256": "f00d87f7f5928c7dbac31a785c83032e74b313affeacf131ee52f41576fcb98a",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-10 (전체)",
+   "canonical_rows": 10,
+   "verdicts": {
+    "PASS_WITH_DEFECT": 1,
+    "PASS": 9
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01668",
+   "drive_id": "1rGiZ3is1I7uOtNwGoCMss3xDuo-MZzNf",
+   "name": "지학사_고_대수_2_대단원 기출.pdf",
+   "sha256": "2910c66be7628f80f18fdd50cff8d2aac6bd0e97db8a42df26270e0fad0eed5c",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 20
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01669",
+   "drive_id": "1uhMrKBoFMhrdRyw6vhWLeQAomxSUjeTS",
+   "name": "지학사_고_대수_1_대단원 기출.pdf",
+   "sha256": "154538f2350f65b7358f0159b9d0853f513dbe294edd3b7b6ece15e9e2ef6afd",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 20
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01670",
+   "drive_id": "10OlPF9NLSVyzwEDJeRqEesAPYfLS8YjX",
+   "name": "지학사_고_대수_3_대단원 기출.pdf",
+   "sha256": "3e77a007c2d341e5514519dcd687a87cff7c54ef52e9fd561e062a95f7438034",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 20
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 90,
+ "detail_rows_added": 0,
+ "PASS": 88,
+ "PASS_WITH_DEFECT": 2,
+ "REVIEW": 0,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 89,
+  "REVIEW": 1
+ },
+ "new_repair_queue_additions": 2,
+ "repair_queue": [
+  {
+   "phase": "P2",
+   "queue_id": "A01666",
+   "source": "1uS1cjHVApjzWj66M3A81bIcOn6PIG_Sk",
+   "question": "06",
+   "page": "p2",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: '접할 때'는 성립 불가(a=√2이면 y=x와 x=2,4에서 교차, 접하지 않음; 접하는 경우는 a=e^(1/e), 점(e,e)뿐). '만날 때'로 정정해야 함. 의도된 답 2√2.",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01667",
+   "source": "1SwAC_8RdtTUNTV_BCCFp5F5Tb8WIO9Kc",
+   "question": "01",
+   "page": "p1",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설: 단계1 '제10항이 24이므로'는 '제10항이 23'의 오기(식 5+9d=23과 답 15는 정상).",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  }
+ ],
+ "cumulative_rows": 7675,
+ "last_verified_completed_point": "A01670 미주순번 20 (source end)",
+ "next_actual_unfinished_point": "P2 YBM A01561→A01522 (verifying); A01565-A01647 지학사 교과서류 deferred",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO"
+}

@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch016_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=16 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A03096 1gT-qMAqazdAK6G2szn_pOctmuuTxImDb [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 01. 다항식 94제(편집완성본).hwp rows=94 COMPLETE (LOCK released for this source) repair_pending=YES; A03095 1dafpd9kRfh8gGUn_SsMRQiQugKLI97eu [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 02. 방정식과 부등식(1) 92제(편집완성본).hwp rows=92 COMPLETE (LOCK released for this source) repair_pending=YES; A03094 116Bl3xkSh2bJyacMYrSLPn1SE3e-RlMN [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 03. 방정식과 부등식(2) 79제(편집완성본).hwp rows=79 COMPLETE (LOCK released for this source) repair_pending=YES; A03093 1w57Ro_k4hqTKYFaCUXYxIeGwHQouW78G [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 04. 도형의 방정식(1) 63제(편집완성본).hwp rows=63 COMPLETE (LOCK released for this source) repair_pending=YES; A03092 1sQ-60n8opJ57f6ThR2GynUBd_pcXjujh [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 06. 집합과 명제(1) 75제(편집완성본).hwp rows=75 COMPLETE (LOCK released for this source) repair_pending=YES; A03091 1zO8zAzL_Ivn5cYijn-dGiRmgXYOxzcYA [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 07. 집합과 명제(2) 54제(편집완성본).hwp rows=54 COMPLETE (LOCK released for this source) repair_pending=YES; A03026 1w6qCk8ZYGIFokZWQgO4HD4OTJQyyqHJG [공통수학1][04_01_핼렬과 그 연산][기출 유형 정복][완].hwp rows=238 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=695 (detail 0) PASS=653 PASS_WITH_DEFECT=42 REVIEW=0 HOLD=0 FAIL=0 production_ready={'YES': 666, 'REVIEW': 29}
+cumulative rows=9841; repair queue additions=42
+last verified completed point: A03026 미주순번 238 (source end)
+next actual unfinished point: P1 EBS A03089/A03088/A03087 (verifying), A03176/A03189, 23빠사 A02391-A02386 (verifying), then A02385→A02196 (lock pending upload)
+LOCK: 1j5C640u8x4tQeSP1anYxqiIKfUf1_QiH (P1 A02386-A03109; COMPLETE sources released)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

@@ -1,0 +1,1024 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P2",
+ "batch": 13,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "1Y4wJaxGYwaP75M3fFWQ0WxeR9Jkuxved (P2 A01522-A01561 YBM; released for COMPLETE sources). Also A01488-A01504 학습 지도안 = NO_ITEMS (lock 1bHBnRDBdCEngXqcf1XbkjTOBu__yl1T-, released)",
+ "sources": [
+  {
+   "queue_id": "A01561",
+   "drive_id": "1NZXf36GVlBW7HgKLqd60d75xNtnw-IOz",
+   "name": "[대단원 종합 문제] Ⅰ. 지수함수와 로그함수.hwp",
+   "sha256": "445006097c41045f7226ac2323c8122be9f99fe0db21e6331c61a5ac04a5b8b3",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-28 (전체)",
+   "canonical_rows": 28,
+   "verdicts": {
+    "PASS": 26,
+    "PASS_WITH_DEFECT": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01560",
+   "drive_id": "1hxn9pvbokK0HiydO6x5dEmgqct0SdC8d",
+   "name": "[대단원 종합 문제] Ⅱ. 삼각함수.hwp",
+   "sha256": "f5cb02a16353e14e347669c836ff3d33e4ef5659ebcb5d12317582cc9f4bf72e",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-30 (전체)",
+   "canonical_rows": 30,
+   "verdicts": {
+    "PASS": 29,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01559",
+   "drive_id": "195_Kyc4OtpJ0wuIjMqqzZ6IHLIMxkUMw",
+   "name": "[대단원 종합 문제] Ⅲ. 수열.hwp",
+   "sha256": "72293f48495683fcb7b055a02db029365e498fa224568b2bfd5912830ec28d85",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-28 (전체)",
+   "canonical_rows": 28,
+   "verdicts": {
+    "PASS": 27,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01558",
+   "drive_id": "1YeftKdsRB6JdeG5DuxlzXlg2wDlXTp20",
+   "name": "[대단원 평가 문제] Ⅰ. 지수함수와 로그함수.hwp",
+   "sha256": "d80026aa85bf24cf02f26b633ce812416c54de564a1fa81232e35ef1f154aed2",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-22 (전체)",
+   "canonical_rows": 22,
+   "verdicts": {
+    "PASS": 20,
+    "PASS_WITH_DEFECT": 1,
+    "HOLD": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01557",
+   "drive_id": "1b85SXXhkDPIe0vZNt-7HDvlM-Ki5SkDp",
+   "name": "[대단원 평가 문제] Ⅱ. 삼각함수.hwp",
+   "sha256": "79c6bad5319bf479784ec8027235b773f21c16e14afa73f54026a3433a3ac987",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-23 (전체)",
+   "canonical_rows": 23,
+   "verdicts": {
+    "PASS": 23
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01556",
+   "drive_id": "1MFFAqaqYvmXQgOF8-EWrFTMmoIWid7w3",
+   "name": "[대단원 평가 문제] Ⅲ. 수열.hwp",
+   "sha256": "452669c8b593f8693670fec7171f37b0690b706630256da7a87405b2a769a7c1",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-23 (전체)",
+   "canonical_rows": 23,
+   "verdicts": {
+    "PASS": 21,
+    "PASS_WITH_DEFECT": 1,
+    "REVIEW": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01555",
+   "drive_id": "1vLrw2mFsNx7enz2V9tAgEkR_zk9exiEs",
+   "name": "[실력 UP 문제] Ⅰ_7. 지수함수와 로그함수의 활용.hwp",
+   "sha256": "0424f79486a44233ab9655daf0f7f1b19cf2713eddbe700fd3471f45788564b3",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 3,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01554",
+   "drive_id": "1ItOetDQqbCSXqR_WBQz4dcEtQA7awsRW",
+   "name": "[실력 UP 문제] Ⅰ_6. 로그함수의 뜻과 그래프.hwp",
+   "sha256": "d94faa759f58781117fc07d0ffce880fa486f281ef761414e64489f0e0b854cf",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01553",
+   "drive_id": "1JwXw90L68d-UstBVphpnQyfTHNSSU19F",
+   "name": "[실력 UP 문제] Ⅰ_5. 지수함수의 뜻과 그래프.hwp",
+   "sha256": "a8977fcfcbfcf1dfe00176d9efa5d973844469c6da1e88dfce9ead2e9973b7aa",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01552",
+   "drive_id": "1OnNaAHFr2ANanHEyXig9JYrZ6M29Wv5p",
+   "name": "[실력 UP 문제] Ⅰ_4. 상용로그.hwp",
+   "sha256": "34978ab5eb502a7595d744e9f9f00e8cef7f2c56345394711e065a6c6445d255",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01551",
+   "drive_id": "1slBqbj25IBavqvft-M0Ri3xJBGLNYUi5",
+   "name": "[실력 UP 문제] Ⅰ_3. 로그의 뜻과 성질.hwp",
+   "sha256": "1153995f919055d5a48f517a15a678d9513a7f1e958ea25e11347813201bd290",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 2,
+    "PASS_WITH_DEFECT": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01550",
+   "drive_id": "1HYwftrycpr6Qkosk7m9A5emXZ97IRkHv",
+   "name": "[실력 UP 문제] Ⅰ_2. 지수의 확장과 지수법칙.hwp",
+   "sha256": "53ecbb90c66da1754d4d2652ddf76b5d699407be06b019a65141cc1352db9768",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01549",
+   "drive_id": "1xjEbhx1_ilhX6OfLpsZaNECGN42I31LH",
+   "name": "[실력 UP 문제] Ⅰ_1. 거듭제곱과 거듭제곱근.hwp",
+   "sha256": "b15daa08a582439503791fb95c7510eaa6b2da7a3fde48c8b46f24babead4ffe",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-5 (전체)",
+   "canonical_rows": 5,
+   "verdicts": {
+    "PASS": 5
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01548",
+   "drive_id": "14lggyQgJA2wHDbLNa65Pbaf0RCif1f-8",
+   "name": "[실력 UP 문제] Ⅱ_4. 사인법칙과 코사인법칙.hwp",
+   "sha256": "f53576c6408cfe98100956f01e9f3b6de255e0ea58d0283d5d34c0cd7b478c34",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01547",
+   "drive_id": "1yIl0MTfxN5K1oAp1kY9MiDcOoyStMypo",
+   "name": "[실력 UP 문제] Ⅱ_3. 삼각함수의 그래프.hwp",
+   "sha256": "82abf913c3938a8571cd9e6850837c068de8a865f1d515bb34d86d39b5db27ea",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01546",
+   "drive_id": "1Y1rWAYTC-IwzzSEZCsv1GASS45l5Ntor",
+   "name": "[실력 UP 문제] Ⅱ_2. 삼각함수.hwp",
+   "sha256": "6f985b30f1a421385e293adad46df17174eaa7878bb0d7866aee313f420c030e",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01545",
+   "drive_id": "1uS0Xt6yXy6KJmVH8xx6OGIFtCdLpUpzr",
+   "name": "[실력 UP 문제] Ⅱ_1. 일반각과 호도법.hwp",
+   "sha256": "b0f454c3d8780c1ab876028de0d98e89dbd6d11dd6d88f8ac57bb4c6962ddd48",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01544",
+   "drive_id": "1lMziHgdAFqyYKW4J8Uyx6YxndGbvSeRP",
+   "name": "[실력 UP 문제] Ⅲ_6. 수학적 귀납법.hwp",
+   "sha256": "0a2370e3b24038797efa0cf327ceb024a35e02e0926c45c304c144bc183c3465",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 1,
+    "REVIEW": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01543",
+   "drive_id": "1l2bxgmo1jBua15NKVKkAgUW9Q7A1vTA1",
+   "name": "[실력 UP 문제] Ⅲ_5. 수열의 귀납적 정의.hwp",
+   "sha256": "1a08dc6cebe3b90acc5dd80f76cac508d57fd5d870494483cdd03c06d363a030",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 2,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01542",
+   "drive_id": "1U-HDKnVTwGTsrQhJ5n5M4wAqmwesj-Tg",
+   "name": "[실력 UP 문제] Ⅲ_4. 수열의 합.hwp",
+   "sha256": "b0571267a3310d8d38fc2f2581cf7363f2e8d9d9fd19359f0e691f236de535c7",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01541",
+   "drive_id": "1-nG2HuARFhMARSoXwAWTliO9nGNmMPZT",
+   "name": "[실력 UP 문제] Ⅲ_3. 등비수열.hwp",
+   "sha256": "197c137664f9cf78812d2cfbbab8a2834c3518249bd8a9832468b8efc38cd5a8",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01540",
+   "drive_id": "1FeLvzTRVzGjW5NMQLbc-ayMcx8kecr1c",
+   "name": "[실력 UP 문제] Ⅲ_2. 등차수열.hwp",
+   "sha256": "81bb4f182c3f586f70e965d36397b55cea9e83f06b033aaaa98fa42e396840eb",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01539",
+   "drive_id": "1e-HQ9zjkQY5u3pIfn9hMA_rYc79hv_MD",
+   "name": "[실력 UP 문제] Ⅲ_1. 수열의 뜻.hwp",
+   "sha256": "3c7fe87acfdb602775cd9d9bd22daf3ac9a9f8211c0e45224922fba6ae1a66ea",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01538",
+   "drive_id": "1ZVN1Fun_N-fJ3z5-7Xz4SY9ZYanfB-SN",
+   "name": "[기초 UP 문제] Ⅰ_7. 지수함수와 로그함수의 활용.hwp",
+   "sha256": "7ee96bfce206cd4629f68e0456def3a2bc2114f2195e81fb1b1bbe84759fdf4a",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01537",
+   "drive_id": "1u8Zqyf6WHNlGWAJC9Iok_L0QXmry-Gwk",
+   "name": "[기초 UP 문제] Ⅰ_6. 로그함수의 뜻과 그래프.hwp",
+   "sha256": "c878f8f14a275b94a242e77bbfe4a4cd279f22a8e5d776bdb195b606bed69386",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01536",
+   "drive_id": "1pWP4ECQKn4MQygnEWSER1XYzPZ-woTkr",
+   "name": "[기초 UP 문제] Ⅰ_5. 지수함수의 뜻과 그래프.hwp",
+   "sha256": "747887647bbebefbac0134ff3f7399de952107dff80f8757510ec17e06548062",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01535",
+   "drive_id": "1V95UXE4vBEvNYJatuuPK1jiVddpDYZRh",
+   "name": "[기초 UP 문제] Ⅰ_4. 상용로그.hwp",
+   "sha256": "9223ac9775e3e8d0ab7f120e6db743f27574d5bf05689bdc1dd9d5c21c47989c",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01534",
+   "drive_id": "1Vyary9eqXVkxm9HxpYmAnPC8Pr8Iz9WT",
+   "name": "[기초 UP 문제] Ⅰ_3. 로그의 뜻과 성질.hwp",
+   "sha256": "29e9d0b8db47561bfc9feda5555a804d876a23e799efc30f80abf49c81c8c44c",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01533",
+   "drive_id": "1SQ2UFSOKKnX-jZCPrZKTpscvpRC_CLV_",
+   "name": "[기초 UP 문제] Ⅰ_2. 지수의 확장과 지수법칙.hwp",
+   "sha256": "df848f00e86960df7261d9e07e788f72e298c0d65fd70a3aa04bd3d53f3651cf",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01532",
+   "drive_id": "1v53T0ka6eTaz-m-_NwIeh0xSlYzbTU9L",
+   "name": "[기초 UP 문제] Ⅰ_1. 거듭제곱과 거듭제곱근.hwp",
+   "sha256": "b45ed6e248c4f8b89c5185a58382ab54376861f1492675e85fd2e1d5bf9e0d19",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01531",
+   "drive_id": "1-AW8uoqZzmhib1nZ_tKFKFRxggqPPD0u",
+   "name": "[기초 UP 문제] Ⅱ_4. 사인법칙과 코사인법칙.hwp",
+   "sha256": "b5a84d1cdfdd36bbe8d1d3dcb3127c25224a8ac1203b17dec640962a89e04caf",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01530",
+   "drive_id": "1OIPryOyWnosINn9j_LhBczC7Ips6yryh",
+   "name": "[기초 UP 문제] Ⅱ_3. 삼각함수의 그래프.hwp",
+   "sha256": "f1065c8a67a55e435753623923f4f2a1642ea94a7b90823810b0ec4450f87703",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-5 (전체)",
+   "canonical_rows": 5,
+   "verdicts": {
+    "PASS": 5
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01529",
+   "drive_id": "1t6lUadIkeY_lychcdSZWjjme0kcJNb__",
+   "name": "[기초 UP 문제] Ⅱ_2. 삼각함수.hwp",
+   "sha256": "aabd94243097d3d9c511e5c78e12956d1487845072be21f60fee7fa27244b4b3",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-5 (전체)",
+   "canonical_rows": 5,
+   "verdicts": {
+    "PASS": 5
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01528",
+   "drive_id": "1l1ypTuNMG2aWzPbf0Fm9JzOLR9nd45Lo",
+   "name": "[기초 UP 문제] Ⅱ_1. 일반각과 호도법.hwp",
+   "sha256": "b4ec7573ca86b4bfc5cdc0b9269104f1df3cf7dc016b0914c9481617365d0e13",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01527",
+   "drive_id": "1E8izaYTGu8-WooRc4eABdL3ku9FtsRNB",
+   "name": "[기초 UP 문제] Ⅲ_6. 수학적 귀납법.hwp",
+   "sha256": "645d3352e9904b7e877a12cdfddd66b06ff4a92a9f61278dc2b5f0a448849c37",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01526",
+   "drive_id": "1QbZsOziL9_sE9sfEKADtObLAwLfHmcVW",
+   "name": "[기초 UP 문제] Ⅲ_5. 수열의 귀납적 정의.hwp",
+   "sha256": "3a2f09fa7cf679d348cc242da7bffad27e734e6f119dc59a48531a648a406fff",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01525",
+   "drive_id": "1mJBhLnXlCtl53xkQH9StSzQTG8jzd83r",
+   "name": "[기초 UP 문제] Ⅲ_4. 수열의 합.hwp",
+   "sha256": "e5a9e18281e9174d94014281e5da36acea8a43323e27fc065bb2b848e44eb760",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-5 (전체)",
+   "canonical_rows": 5,
+   "verdicts": {
+    "PASS": 4,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01524",
+   "drive_id": "1OHrmM7jMa0UJhQkN5onL4qf8p9GWJTMW",
+   "name": "[기초 UP 문제] Ⅲ_3. 등비수열.hwp",
+   "sha256": "8ec00af1fe33c247eebcab57d9a4b3988204934f5462e2974758052de60b3fa3",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-6 (전체)",
+   "canonical_rows": 6,
+   "verdicts": {
+    "PASS": 6
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01523",
+   "drive_id": "1_Gb9Eey_dr6AksGEtncOxSFH20zgxG4D",
+   "name": "[기초 UP 문제] Ⅲ_2. 등차수열.hwp",
+   "sha256": "a191f90464cf07183e3840b788f609853be63ae9f5bc90c26959a9b00c638460",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-6 (전체)",
+   "canonical_rows": 6,
+   "verdicts": {
+    "PASS": 5,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01522",
+   "drive_id": "1gNFT-Qb4FauYldN6Q5097EthQ4stl4h8",
+   "name": "[기초 UP 문제] Ⅲ_1. 수열의 뜻.hwp",
+   "sha256": "80e475afb04a0c902be64212c380f0b15b6676317e1c537ae375e79489d5b0f9",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-4 (전체)",
+   "canonical_rows": 4,
+   "verdicts": {
+    "PASS": 3,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 294,
+ "detail_rows_added": 0,
+ "PASS": 277,
+ "PASS_WITH_DEFECT": 13,
+ "REVIEW": 3,
+ "HOLD": 1,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 277,
+  "REVIEW": 16,
+  "NO": 1
+ },
+ "new_repair_queue_additions": 17,
+ "repair_queue": [
+  {
+   "phase": "P2",
+   "queue_id": "A01561",
+   "source": "1NZXf36GVlBW7HgKLqd60d75xNtnw-IOz",
+   "question": "18",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: HWP 수식 스크립트에 지수 괄호 누락((1/9)^2x-1) — (1/9)^{2x-1}로 해석해야 성립",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01561",
+   "source": "1NZXf36GVlBW7HgKLqd60d75xNtnw-IOz",
+   "question": "21",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 수식 스크립트 4^x-1(지수 괄호 누락). 문자 그대로 4^x−1이면 상수항 불일치로 성립 안 함, 4^{x-1}로 해석",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01560",
+   "source": "1hxn9pvbokK0HiydO6x5dEmgqct0SdC8d",
+   "question": "30",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: '반원에 접하는 사각형'은 '반원에 내접하는 사각형'의 오기(그림상 꼭짓점이 반원 위)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01559",
+   "source": "195_Kyc4OtpJ0wuIjMqqzZ6IHLIMxkUMw",
+   "question": "27",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 분기 조건이 'n은 홀수/짝수'로 되어 있으나 정답 71은 'a_n이 홀수/짝수'일 때의 값(본문 그대로면 a1=17 하나뿐이라 '모든 a1의 합' 질문과 부자연). a_n 홀짝 조건으로 보면 71 확정",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01558",
+   "source": "1YeftKdsRB6JdeG5DuxlzXlg2wDlXTp20",
+   "question": "16",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 두 번째 항 수식이 log`2(x+5)로 밑 2가 첨자 처리되지 않음 — log_2(x+5)로 해석",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01558",
+   "source": "1YeftKdsRB6JdeG5DuxlzXlg2wDlXTp20",
+   "question": "19",
+   "page": "HWP(쪽없음)",
+   "status": "HOLD",
+   "reason": "정답표: 본문대로면 t²+at+9=0 → m²=36. 정답 32는 상수항 +6(t²+at+8)일 때의 값 — 정답표 오류 또는 본문 상수 오기 중 하나, 원본 해설 확인 필요; HOLD_ANSWER",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01556",
+   "source": "1MFFAqaqYvmXQgOF8-EWrFTMmoIWid7w3",
+   "question": "17",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 선지 ③·④가 모두 46으로 중복(④는 48의 오기로 보임). 정답 ①에는 영향 없음",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01556",
+   "source": "1MFFAqaqYvmXQgOF8-EWrFTMmoIWid7w3",
+   "question": "23",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01555",
+   "source": "1vLrw2mFsNx7enz2V9tAgEkR_zk9exiEs",
+   "question": "2",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 수식 스크립트 '4^x+1 -2^x+3'이 지수 묶음 없이 입력되어 문자 그대로는 4^x+1-2^x+3(최솟값 15/4)로 읽힘. 의도(4^{x+1}-2^{x+3})로 정답 -4 확정",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01551",
+   "source": "1slBqbj25IBavqvft-M0Ri3xJBGLNYUi5",
+   "question": "2",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: 밑 4이면 log4x+log4y=3 → 최댓값 9/4. 정답 9는 밑 2(log2) 기준 값으로 문항과 불일치",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01551",
+   "source": "1slBqbj25IBavqvft-M0Ri3xJBGLNYUi5",
+   "question": "3",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 판별식 4-20<0이라 두 근이 허근 → log2a, log2b(실수)가 될 수 없음. 형식적 계산값 -6/5 (근 실수 되도록 계수 수정 필요)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01544",
+   "source": "1lMziHgdAFqyYKW4J8Uyx6YxndGbvSeRP",
+   "question": "2",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01544",
+   "source": "1lMziHgdAFqyYKW4J8Uyx6YxndGbvSeRP",
+   "question": "3",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01543",
+   "source": "1l2bxgmo1jBua15NKVKkAgUW9Q7A1vTA1",
+   "question": "3",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 조건이 'aₙ은 홀수/짝수'로 표기되어 a₃=−3/5에서 정의 불가; 'n이 홀수/짝수'의 오기(그 해석으로 정답 18 일치).",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01525",
+   "source": "1mJBhLnXlCtl53xkQH9StSzQTG8jzd83r",
+   "question": "5",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: '모 자연수' 오타('모든 자연수')",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01523",
+   "source": "1_Gb9Eey_dr6AksGEtncOxSFH20zgxG4D",
+   "question": "3",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 지시문이 '수열 {a_n}의 일반항이 다음과 같을 때 a3+a4+a5의 값'으로 잘못 들어감(다른 문항 지시문 복사). 의도는 '다음 수열이 등차수열을 이룰 때 x,y의 값'",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01522",
+   "source": "1gNFT-Qb4FauYldN6Q5097EthQ4stl4h8",
+   "question": "3",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: (3)의 정답 1/2은 오류, 올바른 값은 1/3-1/6=1/6",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  }
+ ],
+ "cumulative_rows": 7969,
+ "last_verified_completed_point": "A01522 미주순번 4 (source end)",
+ "next_actual_unfinished_point": "P2 지학사 A01562-A01647 (downloading); then P1 A03191→ (lock pending)",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO",
+ "non_build_sources": [
+  {
+   "queue_id": "A01488",
+   "drive_id": "1swGFPqAbEZXqylNmjrOzCw8gaE-bgCSQ",
+   "name": "[학습 지도안] Ⅰ_7. 지수함수와 로그함수의 활용.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01489",
+   "drive_id": "1_8IbogVVXhmXfc6ZIvp_t2SixJFYqEzX",
+   "name": "[학습 지도안] Ⅰ_6. 로그함수의 뜻과 그래프.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01490",
+   "drive_id": "1U1GDIw3Nc4UasPKb6RsEpqms2iil44uF",
+   "name": "[학습 지도안] Ⅰ_5. 지수함수의 뜻과 그래프.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01491",
+   "drive_id": "1qiDyyUI2ujB8cNkAw6USSmx3ZI1Dzzm7",
+   "name": "[학습 지도안] Ⅰ_4. 상용로그.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01492",
+   "drive_id": "1nMGjS64KQTNpcqibzWlIFQR9z2KeBa_I",
+   "name": "[학습 지도안] Ⅰ_3. 로그의 뜻과 성질.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01493",
+   "drive_id": "1FGhHwjQPz2Y4d_YhdmbC4_29D3YwsGzc",
+   "name": "[학습 지도안] Ⅰ_2. 지수의 확장과 지수법칙.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01494",
+   "drive_id": "15Z48CyJX3KhPPVP16xa-uOB4D88YpPwJ",
+   "name": "[학습 지도안] Ⅰ_1. 거듭제곱과 거듭제곱근.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01495",
+   "drive_id": "1Vy0Ndu3dapxfahx4I8mkSgLET53H21bX",
+   "name": "[학습 지도안] Ⅲ_1. 수열의 뜻.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01496",
+   "drive_id": "1S2SQ27OuIoej7n6erwoKU0sEPjPkd6hi",
+   "name": "[학습 지도안] Ⅲ_2. 등차수열.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01497",
+   "drive_id": "1CdVrIckDuI5rPk6XKZ3Ll0zZph-6aDKM",
+   "name": "[학습 지도안] Ⅲ_3. 등비수열.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01498",
+   "drive_id": "1TakikwNn3hdVlD5SbuDkig6gJ-68Jlvb",
+   "name": "[학습 지도안] Ⅲ_4. 수열의 합.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01499",
+   "drive_id": "1OXgEetch1r4hrEODubhvpRLSvknIdpir",
+   "name": "[학습 지도안] Ⅲ_5. 수열의 귀납적 정의.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01500",
+   "drive_id": "1WjMDj_pKnNMcK3ha8cSNzEVjbn-BRjNF",
+   "name": "[학습 지도안] Ⅲ_6. 수학적 귀납법.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01501",
+   "drive_id": "16NhHwNyZbqaujSiYLcaxLtKya2SNwd1T",
+   "name": "[학습 지도안] Ⅱ_1. 일반각과 호도법.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01502",
+   "drive_id": "1rpgI7f4IDOJrSJpnbs2SzV3fE00jskwm",
+   "name": "[학습 지도안] Ⅱ_2. 삼각함수.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01503",
+   "drive_id": "1TfigTSJfKXXsE0hzsoTeTahwKM9Td0vp",
+   "name": "[학습 지도안] Ⅱ_3. 삼각함수의 그래프.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01504",
+   "drive_id": "10PFviaGPolR_bbtUlhL7Aiay-8Lx39CA",
+   "name": "[학습 지도안] Ⅱ_4. 사인법칙과 코사인법칙.hwp",
+   "decision": "NO_ITEMS (학습 지도안: 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01671",
+   "decision": "HOLD_SOURCE_SIZE 13.6MB",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01672",
+   "decision": "HOLD_SOURCE_SIZE 23.5MB (학생용, A01671 교사용과 동일본 추정)",
+   "source_new_build_complete": "NO"
+  }
+ ]
+}

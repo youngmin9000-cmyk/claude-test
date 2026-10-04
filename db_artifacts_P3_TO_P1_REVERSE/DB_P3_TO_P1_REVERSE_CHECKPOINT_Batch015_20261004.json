@@ -1,0 +1,722 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P2",
+ "batch": 15,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "1VBRt8CiJSAoNGQe_e4bdEHTYFc2mvEYI (P2 A01562-A01647 지학사; COMPLETE sources released; HOLD_SOURCE_SIZE 11개 유지)",
+ "sources": [
+  {
+   "queue_id": "A01645",
+   "drive_id": "1JZhs-djuLxaWXPrrWPv6DDTb14qGodhQ",
+   "name": "지학사_고_대수_3-04_개념 정리.pdf",
+   "sha256": "a921c2fddc124d4dea1e838a2a3042346fb49363f03f2cf48fdb64919fcbfe25",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-35 (전체)",
+   "canonical_rows": 35,
+   "verdicts": {
+    "PASS": 32,
+    "PASS_WITH_DEFECT": 1,
+    "REVIEW": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01630",
+   "drive_id": "1nvaYii2EUOIaNO91lIqBkCnZEMebQBwK",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(012-017).pdf",
+   "sha256": "d4a8adcc7028c31dcb6b838eeaa8ba34a206c6584244fb72638ef93d7cf7c1e9",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-15 (전체)",
+   "canonical_rows": 15,
+   "verdicts": {
+    "PASS": 13,
+    "REVIEW": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01627",
+   "drive_id": "1f78RFwAkes6n6SdzB0cHI3rFIQSIizRC",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(026-032).pdf",
+   "sha256": "c7d927a0be1eeae6aca8c4896e8a0486e43c641eb15f606ea226b4677c3cb155",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 17,
+    "REVIEW": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01625",
+   "drive_id": "19pzd8cJyShPth1UEyEl3lhIJ2ghcoKgi",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(038-044).pdf",
+   "sha256": "6476b7f541c9fc9bf8082176a69b385c84180e9f0cc41087838621ebb2a603aa",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-16 (전체)",
+   "canonical_rows": 16,
+   "verdicts": {
+    "PASS": 16
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01624",
+   "drive_id": "1eDfeIhQNxN8darxqxmta0pJniEAB3CHM",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(045-049).pdf",
+   "sha256": "81a3e10aafba5cdc7568548d391392fd1784aa5c421d9c055148507ca80fd530",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-15 (전체)",
+   "canonical_rows": 15,
+   "verdicts": {
+    "PASS": 15
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01621",
+   "drive_id": "1AVgJ8-bQ3AcIwdj6eDd2rnPGQo9DCjtd",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(068-074).pdf",
+   "sha256": "6c34862be0f33b78c70d0f685c8273e8d8f36a2cd705daf7676741e2addf5d93",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-14 (전체)",
+   "canonical_rows": 14,
+   "verdicts": {
+    "PASS": 14
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01620",
+   "drive_id": "1lbbDrwht3tq5bZPkjytbh4hxseBKfdJu",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(075-080).pdf",
+   "sha256": "d01d46a68d230ed5cb082673c2cc4cdcf7cebac800b5fa18a015a0d157e457bf",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-16 (전체)",
+   "canonical_rows": 16,
+   "verdicts": {
+    "PASS": 16
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01617",
+   "drive_id": "1lKQ4zKHnCctrL2vThWOH42SsK9K2UAEL",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(106-111).pdf",
+   "sha256": "1f61dc2c1ed0c3b441ef57e87cdf134186352c2a091ca182bd668dc78d62b777",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-17 (전체)",
+   "canonical_rows": 17,
+   "verdicts": {
+    "PASS": 16,
+    "REVIEW": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01616",
+   "drive_id": "1lXMISHwmyCWUOm2H43r-oxF5rNaZO8FR",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(116-118).pdf",
+   "sha256": "323d3949f269c598c7f3d4d40f2e3cfea0938c24dac6d82234c9737304ab3f13",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-10 (전체)",
+   "canonical_rows": 10,
+   "verdicts": {
+    "PASS": 10
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01614",
+   "drive_id": "1iTOCezX6KCqD93nPIiRinljTi-jn15S5",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(129-136).pdf",
+   "sha256": "59ed8a4a4227f9b4769492e948570ab241981084e65f0d360c0a809ae5ef6d93",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-22 (전체)",
+   "canonical_rows": 22,
+   "verdicts": {
+    "PASS": 22
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01613",
+   "drive_id": "1nmZohKI4CgYCyDqz8qIh-Xe8QnzWBtOB",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(137-144).pdf",
+   "sha256": "a2b53360ad963dcf2724865e3c8101018bbf071a01464cab3bb8506517f08c37",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-19 (전체)",
+   "canonical_rows": 19,
+   "verdicts": {
+    "PASS": 17,
+    "REVIEW": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01612",
+   "drive_id": "1wVfSO15DVTq_0jiuqxsdDARWFYQhYn6K",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(145-148).pdf",
+   "sha256": "cbcd3a19e51ae7934743ab6168f04c22bbd2ee1029dacd3e21b662d7ece0e439",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-12 (전체)",
+   "canonical_rows": 12,
+   "verdicts": {
+    "PASS": 11,
+    "REVIEW": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01611",
+   "drive_id": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(149-155).pdf",
+   "sha256": "40526d87c2ca927b2fb1a8637e8f6137d9d0f418f0aabe0ce6157da366c2b4b2",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-12 (전체)",
+   "canonical_rows": 12,
+   "verdicts": {
+    "REVIEW": 7,
+    "PASS": 5
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 223,
+ "detail_rows_added": 0,
+ "PASS": 204,
+ "PASS_WITH_DEFECT": 1,
+ "REVIEW": 18,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 205,
+  "REVIEW": 18
+ },
+ "new_repair_queue_additions": 19,
+ "repair_queue": [
+  {
+   "phase": "P2",
+   "queue_id": "A01645",
+   "source": "1JZhs-djuLxaWXPrrWPv6DDTb14qGodhQ",
+   "question": "TEST3-01",
+   "page": "p13",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설: a₉를 a⁹(지수 표기)로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01645",
+   "source": "1JZhs-djuLxaWXPrrWPv6DDTb14qGodhQ",
+   "question": "TEST6-03",
+   "page": "p20",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01645",
+   "source": "1JZhs-djuLxaWXPrrWPv6DDTb14qGodhQ",
+   "question": "TEST6-05",
+   "page": "p20",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01630",
+   "source": "1nvaYii2EUOIaNO91lIqBkCnZEMebQBwK",
+   "question": "예제2",
+   "page": "p4",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01630",
+   "source": "1nvaYii2EUOIaNO91lIqBkCnZEMebQBwK",
+   "question": "문제4",
+   "page": "p4",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01627",
+   "source": "1f78RFwAkes6n6SdzB0cHI3rFIQSIizRC",
+   "question": "생각넓히기",
+   "page": "p2",
+   "status": "REVIEW",
+   "reason": "REVIEW_OPEN_TASK",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01627",
+   "source": "1f78RFwAkes6n6SdzB0cHI3rFIQSIizRC",
+   "question": "문제4",
+   "page": "p3",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01627",
+   "source": "1f78RFwAkes6n6SdzB0cHI3rFIQSIizRC",
+   "question": "문제9",
+   "page": "p6",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01617",
+   "source": "1lKQ4zKHnCctrL2vThWOH42SsK9K2UAEL",
+   "question": "프로젝트 활동1-3",
+   "page": "p6",
+   "status": "REVIEW",
+   "reason": "REVIEW_OPEN_TASK",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01613",
+   "source": "1nmZohKI4CgYCyDqz8qIh-Xe8QnzWBtOB",
+   "question": "문제5",
+   "page": "p4",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01613",
+   "source": "1nmZohKI4CgYCyDqz8qIh-Xe8QnzWBtOB",
+   "question": "탐구 활동1-2",
+   "page": "p8",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01612",
+   "source": "1wVfSO15DVTq_0jiuqxsdDARWFYQhYn6K",
+   "question": "생각넓히기",
+   "page": "p3",
+   "status": "REVIEW",
+   "reason": "REVIEW_OPEN_TASK",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01611",
+   "source": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "question": "예제1",
+   "page": "p3",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01611",
+   "source": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "question": "문제2",
+   "page": "p4",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01611",
+   "source": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "question": "예제2",
+   "page": "p5",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01611",
+   "source": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "question": "문제3",
+   "page": "p5",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01611",
+   "source": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "question": "확인03",
+   "page": "p6",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01611",
+   "source": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "question": "확인04",
+   "page": "p6",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01611",
+   "source": "1RdO7c_xfM0pPnaoieej2G3QmdkT0MXmF",
+   "question": "탐구 활동3",
+   "page": "p7",
+   "status": "REVIEW",
+   "reason": "REVIEW_PROOF",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  }
+ ],
+ "cumulative_rows": 9146,
+ "last_verified_completed_point": "A01611 미주순번 12 (source end)",
+ "next_actual_unfinished_point": "P1 EBS/A03026/23빠사/A03176/A03189 (lock 1j5C640u8x4tQeSP1anYxqiIKfUf1_QiH, 1DKNtCZgaiVTukgMD7wWjnr0yu4QQ-atE)",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO",
+ "non_build_sources": [
+  {
+   "queue_id": "A01671",
+   "decision": "HOLD_SOURCE_SIZE 13.6MB",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01672",
+   "decision": "HOLD_SOURCE_SIZE 23.5MB (학생용, A01671 교사용과 동일본 추정)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01631",
+   "drive_id": "13RYI0MH_jJVo7HBgxBur-mxhaqNw5bgI",
+   "name": "지학사_고_대수_2-01_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01632",
+   "drive_id": "11fm-62Oq22WyD7wbckTM0lysWvA2GNlS",
+   "name": "지학사_고_대수_2-02_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01633",
+   "drive_id": "1mJPjgRZ3Bg_sN4oFXeH6ja5BZtO6b7JQ",
+   "name": "지학사_고_대수_2-03_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01634",
+   "drive_id": "1lw9NIM-WUpHKQ9RXcq3_5Eq4hNLNyxYP",
+   "name": "지학사_고_대수_2-04_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01635",
+   "drive_id": "1AcD73ZkamHHqHqIAZI-5CHIBKL4k86M6",
+   "name": "지학사_고_대수_1-01_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01636",
+   "drive_id": "1Zvm-RLILaeJMMWNPxwke8M7wWL8RtKau",
+   "name": "지학사_고_대수_1-02_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01637",
+   "drive_id": "16159UxJkcJk2_hxouh1NYKDiS0jzkPg1",
+   "name": "지학사_고_대수_1-03_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01638",
+   "drive_id": "10dJx9p5qulCHp0DMypVaZLupUgpNMXwO",
+   "name": "지학사_고_대수_1-04_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01639",
+   "drive_id": "1_ivilqEodonQ8bep8so9mzof5Ew7Bsdb",
+   "name": "지학사_고_대수_1-05_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01640",
+   "drive_id": "14qD3RUFDzQGqewS_2IwaMmwpzgP8ssJD",
+   "name": "지학사_고_대수_1-06_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01641",
+   "drive_id": "1WB3MvvP6upQT0Iav5U2nFkMZI9gHmxpw",
+   "name": "지학사_고_대수_1-07_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01642",
+   "drive_id": "1nykLJPDj9C6MnY6_oWQyZfRTrZ8Xdkm3",
+   "name": "지학사_고_대수_3-01_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01643",
+   "drive_id": "13zwHw-R7oAUKtD56kTbgN2OTI6D9O4vy",
+   "name": "지학사_고_대수_3-02_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01644",
+   "drive_id": "1TtTjN7Iycm-4Sw_JjhCVohfCmynIAbcq",
+   "name": "지학사_고_대수_3-03_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01646",
+   "drive_id": "1O7EDbrBTBWMUZ56qbQ9aCRJcftU42kMP",
+   "name": "지학사_고_대수_3-05_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01647",
+   "drive_id": "1As8kvTjaDQsl7AGNiro3sD-fjWY1ebyA",
+   "name": "지학사_고_대수_3-06_개념 정리.pdf",
+   "decision": "NO_ITEMS (개념 정리 1~2쪽: 번호 문항·정답 없음)",
+   "source_new_build_complete": "YES",
+   "rows": 0,
+   "repair_pending": "NO"
+  },
+  {
+   "queue_id": "A01564",
+   "drive_id": "1cJjGeOsiMnZGgud9bBGL9VHC-Nmp-I8_",
+   "name": "지학사_2022개정_고_대수_HWP 교과서(008-063).hwp",
+   "decision": "HOLD_SOURCE_SIZE (43.1MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01563",
+   "drive_id": "18ckR_lOHAQRmoGkymNpuWelFZjmoGZIP",
+   "name": "지학사_2022개정_고_대수_HWP 교과서(064-111).hwp",
+   "decision": "HOLD_SOURCE_SIZE (23.9MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01562",
+   "drive_id": "1bH11aNes42ZgjPKbSwkG152T1RKWT8e_",
+   "name": "지학사_2022개정_고_대수_HWP 교과서(112-162).hwp",
+   "decision": "HOLD_SOURCE_SIZE (25.1MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01615",
+   "drive_id": "1S1l3M9bsBmYE8hSdTMi7-OxCA550L44I",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(119-128).pdf",
+   "decision": "HOLD_SOURCE_SIZE (9.4MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01628",
+   "drive_id": "14gBlaiyqT-plHMjd0ebewGCaZkuMiG_O",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(018-025).pdf",
+   "decision": "HOLD_SOURCE_SIZE (6.5MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01610",
+   "drive_id": "12B3PNdvoMztlPgbKU8MjAriEDveMv6XD",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(156-162).pdf",
+   "decision": "HOLD_SOURCE_SIZE (6.6MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01623",
+   "drive_id": "1kI-fysxBT6Q3hYi8FK94uYHOkTWhjOje",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(050-057).pdf",
+   "decision": "HOLD_SOURCE_SIZE (6.8MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01626",
+   "drive_id": "1ZVkmFcidnnSDtBvU-4o0Mn-muTHH0ThV",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(033-037).pdf",
+   "decision": "HOLD_SOURCE_SIZE (6.9MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01622",
+   "drive_id": "1MGL1S-sLjTV_3RoFiNz_VSQyGr90C4ol",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(058-063).pdf",
+   "decision": "HOLD_SOURCE_SIZE (7.5MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01619",
+   "drive_id": "1iJm4o-yXdpmHBcWR4AX539BHs8Yq9Edh",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(081-093).pdf",
+   "decision": "HOLD_SOURCE_SIZE (7.8MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01618",
+   "drive_id": "1dZ562jlKUnw3w_dbi9sEtI06ZMwHYCsG",
+   "name": "지학사_2022개정_고_대수_연구용 교과서(094-105).pdf",
+   "decision": "HOLD_SOURCE_SIZE (8.3MB > connector limit ~6MB)",
+   "source_new_build_complete": "NO"
+  },
+  {
+   "queue_id": "A01565-A01585",
+   "decision": "FORMAT_DUPLICATE (지학사 학생용 교과서 PDF 분할본/전체본: 동일 문항을 연구용 교과서 분할본에서 대표 행으로 생성)",
+   "source_new_build_complete": "YES",
+   "rows": 0
+  },
+  {
+   "queue_id": "A01586-A01609",
+   "decision": "COMPANION_LINK_ONLY (지학사 지도서: 정답/해설 출처, 행 생성 안 함)",
+   "source_new_build_complete": "YES",
+   "rows": 0
+  },
+  {
+   "queue_id": "A01629",
+   "decision": "DUPLICATE_REPRESENTATION (연구용 교과서 전체본 = 분할본 합본)",
+   "source_new_build_complete": "YES",
+   "rows": 0
+  }
+ ]
+}
