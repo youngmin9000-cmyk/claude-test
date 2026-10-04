@@ -400,5 +400,270 @@
 "decision": "DUPLICATE_REPRESENTATION (연구용 교과서 전체본 = 분할본 합본)",
 "source_new_build_complete": "YES",
 "rows": 0
+},
+{
+"queue_id": "A02254",
+"decision": "COMPANION_LINK_ONLY (A02253 정답지)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02252",
+"decision": "COMPANION_LINK_ONLY (A02251 정답지)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02233",
+"decision": "COMPANION_LINK_ONLY (A02234 정답지)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02237",
+"decision": "COMPANION_LINK_ONLY (A02238 서답 채점기준 jpg)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02236",
+"decision": "COMPANION_LINK_ONLY (A02238 객관식 정답 jpg)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02199",
+"decision": "COMPANION_LINK_ONLY (A02200 서논술 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02197",
+"decision": "COMPANION_LINK_ONLY (A02198 서논술 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02246",
+"decision": "COMPANION_LINK_ONLY (대영고3 2022-1 기말 정답 묶음; 대응 문제지 이 구간에 없음)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02239",
+"decision": "DUPLICATE_REPRESENTATION (A02234와 동일 시험, 학생필기 스캔)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02227",
+"decision": "DUPLICATE_REPRESENTATION (A02224 중복 스캔)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02226",
+"decision": "DUPLICATE_REPRESENTATION (A02225 중복 스캔)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02249",
+"decision": "EXCLUDE 비수학(문학)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02248",
+"decision": "EXCLUDE 비수학(세계사)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02244",
+"decision": "EXCLUDE 비수학(언어와 매체)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02243",
+"decision": "EXCLUDE 비수학(정치와 법)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02242",
+"decision": "EXCLUDE 비수학(화법과 작문)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02196(zip 내부 14개)",
+"decision": "EXCLUDE 비수학 (독서, 동아시아사, 물리학2, 사회문화, 생명과학2, 생활과윤리, 언어와 매체, 여행지리, 영어II, 영어회화, 지구과학Ⅱ, 한국지리, 화법과 작문, 화학2)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A02080",
+"decision": "DUPLICATE_REPRESENTATION (A02090 z03 동일 시험, 정답 있는 zip본 대표)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02079",
+"decision": "DUPLICATE_REPRESENTATION (A02086 z08)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02076",
+"decision": "DUPLICATE_REPRESENTATION (A02087 z06)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02057",
+"decision": "DUPLICATE_REPRESENTATION (A02052 z02)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02065",
+"decision": "COMPANION_LINK_ONLY (A02068 z02 정답/채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02095",
+"decision": "COMPANION_ORPHAN (2021 1학년 2학기 중간 영신고 정답; 문제지 미보유)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02094",
+"decision": "COMPANION_ORPHAN (동상 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02078",
+"decision": "COMPANION_LINK_ONLY (A02080/A02090 정답 사본)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02077",
+"decision": "COMPANION_LINK_ONLY (A02080/A02090 채점기준 사본)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02075",
+"decision": "COMPANION_LINK_ONLY (A02076/A02087 정답 사본)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02074",
+"decision": "COMPANION_LINK_ONLY (A02076/A02087 채점기준 사본)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02054",
+"decision": "COMPANION_LINK_ONLY (A02055 정답)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02053",
+"decision": "COMPANION_LINK_ONLY (A02055 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02085",
+"decision": "COMPANION_LINK_ONLY (A02086 서답형 채점기준 zip)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02083",
+"decision": "COMPANION_LINK_ONLY (A02084 서답형 채점기준 zip)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02067",
+"decision": "NO_ITEMS (2023 1학년 2학기 기말 고사원안 zip: 수학 파일 없음)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02064",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02062",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02061",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02060",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02059",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
 }
 ]

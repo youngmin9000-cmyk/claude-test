@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch017_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=17 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A03089 1Aadm1XG8iMCueAt7erT6_FC6ymkLEvL1 [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 08. 함수의 그래프(1) 59제(편집완성본).hwp rows=59 COMPLETE (LOCK released for this source) repair_pending=YES; A03088 13h38JWIWSoIQ4-T2vPk9BOGus8lSUYWx [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 09. 함수의 그래프(2) 68제(편집완성본).hwp rows=68 COMPLETE (LOCK released for this source) repair_pending=YES; A03087 16WDjIpJ9YDIRTOjwTBKZuOdVSZZ138Mt [EBS 올림포스 전국연합 학력평가 기출문제집][고1 수학] 10. 경우의 수 61제(편집완성본).hwp rows=61 COMPLETE (LOCK released for this source) repair_pending=NO; A03176 1TqQEq87XJgLUorAdbbmvU4el-3EbHiMI 특급기출 중학 수학1-1(22개정) - 미니북.pdf rows=60 COMPLETE (LOCK released for this source) repair_pending=NO; A03189 1tAmdaF5wjRan786FugVzxh-1M2UexJW8 백발백중 고등 기출문제집 공통수학1(상) 실전모의고사 5회분 - 문제.pdf rows=100 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=348 (detail 0) PASS=244 PASS_WITH_DEFECT=4 REVIEW=100 HOLD=0 FAIL=0 production_ready={'YES': 244, 'REVIEW': 104}
+cumulative rows=10189; repair queue additions=104
+last verified completed point: A03189 미주순번 100 (source end)
+next actual unfinished point: P1 23빠사 A02391-A02386 (verifying), then A02385→A02196
+LOCK: 1j5C640u8x4tQeSP1anYxqiIKfUf1_QiH / 1DKNtCZgaiVTukgMD7wWjnr0yu4QQ-atE (P1; COMPLETE sources released). A03189 정답책 A03188 HOLD_SOURCE_SIZE → 전 문항 REVIEW_NO_KEY
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch022_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=22 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A02279 1o37Hq_KNByvCCxZedREUDIAHVFEHoxHy (2023)광휘고1-1-1문항지.hwp rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A02278 1Qc8Uvlw9eNtRtKbVkMhQokza2hkvAkEb 광휘고등학교_1학년_2021_1학기중간_수학(상)_공통_문제.pdf rows=15 COMPLETE (LOCK released for this source) repair_pending=YES; A02277 1z6nw28sfSwW7Nj0TfO9dpYCQTlJOw2PK 광휘고등학교_1학년_2023_1학기기말_수학(상)_공통_문제.pdf rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A02276 15KETahwKuxhwHBX-MpHNRhayFetw2vFk 광휘고등학교_1학년_2024_1학기중간_수학(상)_공통_문제.pdf rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A02275 1OpJ2cxY83IOG-TQLfgS6Hyo47_DrMGGY 광휘고등학교_1학년_2023_2학기중간_수학(하)_공통_문제.pdf rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A02274 1kch1yhmjAzJ3Wm-vCr5v_pO6RUQiUEZ4 광휘고등학교_2학년_2024_1학기중간_수학1_공통_문제.pdf rows=18 COMPLETE (LOCK released for this source) repair_pending=YES; A02273 14VsULqWFUy0QTOUiGhTVM7tzzN6YWFUD 광휘고등학교_3학년_2024_1학기중간_확률과통계_공통_문제.pdf rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A02272 1q-1Rq8UIAD3fukIbGc_ATrbWb-Uoo6u2 광휘고등학교_3학년_2023_1학기중간_확률과통계_공통_문제.pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=160 (detail 0) PASS=0 PASS_WITH_DEFECT=0 REVIEW=160 HOLD=0 FAIL=0 production_ready={'REVIEW': 160}
+cumulative rows=11425; repair queue additions=160
+last verified completed point: A02272 미주순번 22 (source end)
+next actual unfinished point: P1 A02195→A02036 (lock A02036-A02195, downloading)
+LOCK: 1nLGEJtUsCYLX1jplmG9Elf_q3co38KBe (P1 A02196-A02385; 광휘고 정답지 없음 → REVIEW_NO_KEY; lane COMPLETE except HOLD_SOURCE_SIZE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

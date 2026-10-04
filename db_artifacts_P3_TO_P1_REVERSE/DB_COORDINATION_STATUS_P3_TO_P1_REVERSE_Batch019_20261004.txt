@@ -1,0 +1,7 @@
+DB_COORDINATION_STATUS_P3_TO_P1_REVERSE_Batch019_20261004 (append-only supplement)
+P3_TO_P1_REVERSE (P3 lane, descending) — 317 rows committed this batch, cumulative 10704.
+COMPLETE (new build): A02330/1xTSFAusbZ_cuWjfAoax29aGvYvtI4ufR, A02328/1iMT_yXLh5BEF6rfjIS3FUXf2dJrh-wSF, A02268/1ZpR1WNaxz3ygntpKX_rH5x3Fh84OWEm6, A02267/10j5utUF0SlGJhphWAQL1aa7D2SknvO0y, A02266/18I8sBL4GwGCv8y07vBZUFy9d8ivipg6n, A02265/1dnW5iys6z5ixv7y3Uu6CuGPqbJ4FuULV, A02264/19E80h8ZY9fDqM6K_ASgEIHBWGNnk0K_U, A02263/1aRTNQdT5jKogn8BsdoBQssubHaX4cjoB
+ACTIVE LOCK (unchanged): 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF covering remaining 마플시너지 수학1 HWP A02336..A02322 (not yet committed ones).
+Other streams read-only: P5->P4->P3->P2 REVERSE (LOCK A02589-A02500), P1 forward, P2 forward, P3 work/GEMINI, OFFICIAL, P5 REPAIR — no overlap, no mutation.
+Duplicate-family note: A00678 '[수1] 마플시너지 [PDF, 한글].zip' likely same book family as A02322-A02337 HWP -> dedup before any build.
+Next: P1 school exams A02262→A02196 (verifying), 광휘 A02279-A02272 pending

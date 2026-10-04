@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch019_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=19 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A02330 1xTSFAusbZ_cuWjfAoax29aGvYvtI4ufR 고2-수학1-마플시너지-16.수열_모의평가.hwp rows=96 COMPLETE (LOCK released for this source) repair_pending=YES; A02328 1iMT_yXLh5BEF6rfjIS3FUXf2dJrh-wSF 고2-수학1-마플시너지-14.지수_로그함수_모의평가.hwp rows=96 COMPLETE (LOCK released for this source) repair_pending=YES; A02268 1ZpR1WNaxz3ygntpKX_rH5x3Fh84OWEm6 2020-2학년-1학기-기말고사-수학I.hwp rows=22 COMPLETE (LOCK released for this source) repair_pending=NO; A02267 10j5utUF0SlGJhphWAQL1aa7D2SknvO0y 2020-2학년-2학기-중간고사-수학II.hwp rows=23 COMPLETE (LOCK released for this source) repair_pending=NO; A02266 18I8sBL4GwGCv8y07vBZUFy9d8ivipg6n 2021 대영1 1학기 중간고사.pdf rows=20 COMPLETE (LOCK released for this source) repair_pending=YES; A02265 1dnW5iys6z5ixv7y3Uu6CuGPqbJ4FuULV 2021년 대영고 1학년 1학기 기말고사 수학.pdf rows=20 COMPLETE (LOCK released for this source) repair_pending=YES; A02264 19E80h8ZY9fDqM6K_ASgEIHBWGNnk0K_U 2021년도 1학년 2학기 중간고사.pdf rows=20 COMPLETE (LOCK released for this source) repair_pending=YES; A02263 1aRTNQdT5jKogn8BsdoBQssubHaX4cjoB 2021 대영1 2학기 기말고사.pdf rows=20 COMPLETE (LOCK released for this source) repair_pending=NO
+rows added=317 (detail 0) PASS=263 PASS_WITH_DEFECT=14 REVIEW=40 HOLD=0 FAIL=0 production_ready={'YES': 274, 'REVIEW': 43}
+cumulative rows=10704; repair queue additions=54
+last verified completed point: A02263 미주순번 20 (source end)
+next actual unfinished point: P1 school exams A02262→A02196 (verifying), 광휘 A02279-A02272 pending
+LOCK: 1nLGEJtUsCYLX1jplmG9Elf_q3co38KBe (P1 A02196-A02385; COMPLETE sources released)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

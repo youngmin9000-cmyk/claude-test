@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch018_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=18 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A02391 1QuyAwmu4KWcYA9zAVeOoZ0I2MQZ6ByQi 2026 23빠사 모의고사 1회.pdf rows=33 COMPLETE (LOCK released for this source) repair_pending=YES; A02390 1tqLYo5-TZ8fDhZU_f2H84Y7OMuV5pzuo 2026 23빠사 모의고사 2회.pdf rows=33 COMPLETE (LOCK released for this source) repair_pending=YES; A02389 19-aOsPfOux5MzsU6HYbgBllxV-wt-gv4 2026 23빠사 모의고사 4회.pdf rows=33 COMPLETE (LOCK released for this source) repair_pending=YES; A02388 1Mt3bL508mYRtKFVgbsVcBRJbvF2FBBNN 2026 23빠사 모의고사 3회.pdf rows=33 COMPLETE (LOCK released for this source) repair_pending=YES; A02387 1GnaUA7J6D-y1xuHzcqyHdXcoMeWU1xDF 2026 23빠사 모의고사 5회.pdf rows=33 COMPLETE (LOCK released for this source) repair_pending=YES; A02386 1Tgjs_ljV6lWlgWBWjcaVvsT3NUyLymFd 2026 23빠사 모의고사 6회.pdf rows=33 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=198 (detail 0) PASS=0 PASS_WITH_DEFECT=0 REVIEW=198 HOLD=0 FAIL=0 production_ready={'REVIEW': 198}
+cumulative rows=10387; repair queue additions=198
+last verified completed point: A02386 미주순번 33 (source end)
+next actual unfinished point: P1 A02385→A02196 학교 시험지/마플 모의평가 (lock 1nLGEJtUsCYLX1jplmG9Elf_q3co38KBe, verifying)
+LOCK: 1j5C640u8x4tQeSP1anYxqiIKfUf1_QiH (P1 A02386-A03109; 23빠사 정답지 없음 → 전 문항 REVIEW_NO_KEY; 빈 문항 슬롯 공통14/15/21/22 행 없음)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

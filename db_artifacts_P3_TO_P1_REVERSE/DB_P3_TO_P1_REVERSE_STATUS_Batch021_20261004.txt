@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch021_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=21 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A02230 1DjmLJquQpIdwzRQG8FvLEVnQlrTJMkGy 2023학년 3학년 1학기 중간고사 미적분.pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES; A02229 1wwiZ5i5XczVWX4Lp2iPYmmPX8Ip2pZw7 2023학년 3학년 1학기 기말고사 확률과 통계.pdf rows=23 COMPLETE (LOCK released for this source) repair_pending=YES; A02228 1UU5VAQ5YfEu6mL3U0CGPLIoFpwEaNcZW 2023학년도 1학기 기말고사 3학년 미적분.pdf rows=23 COMPLETE (LOCK released for this source) repair_pending=YES; A02225 1DVD9nu_M35u7_e6x3gAqi4XeQxAotqTr 2024 1학기 3학년 중간고사 미적분 고사원안.pdf rows=23 COMPLETE (LOCK released for this source) repair_pending=YES; A02224 1eNBjr8-SpPIozlqlwBizEeVGEaKO7CtH 2024 1학기 3학년 중간고사 확률과통계 중간원안.pdf rows=23 COMPLETE (LOCK released for this source) repair_pending=YES; A02200 1JJYvJLIpAs4ZSG_amsUaBfsfS_CtsJn_ 2020-2학기-중간-고사원안-(1)학년-(수학).pdf rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A02198 1iumtpoHAFydNyrXmbKN4E7FQQE5Xpr5k 2020-2학기-중간-고사원안-(2)학년-(수학2).pdf rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A02196 1UT7j0kaMun3asPA6ykWcFN-uH0Sf67Ab 고사원안파일-3학년.zip rows=43 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=199 (detail 0) PASS=8 PASS_WITH_DEFECT=0 REVIEW=191 HOLD=0 FAIL=0 production_ready={'REVIEW': 191, 'YES': 8}
+cumulative rows=11265; repair queue additions=191
+last verified completed point: A02196 미주순번 43 (source end)
+next actual unfinished point: P1 광휘 A02279-A02272 (verifying), then A02195→A02036 (survey)
+LOCK: 1nLGEJtUsCYLX1jplmG9Elf_q3co38KBe (P1 A02196-A02385; COMPLETE sources released)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO
