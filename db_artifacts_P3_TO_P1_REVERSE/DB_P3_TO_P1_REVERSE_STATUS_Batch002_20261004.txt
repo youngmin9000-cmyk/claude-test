@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch002_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=2 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A02336 16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS 고2-수학1-마플시너지-02.로그.hwp rows=121 COMPLETE (LOCK released for this source) repair_pending=YES; A02335 12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL 고2-수학1-마플시너지-01.지수.hwp rows=122 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=243 (detail 0) PASS=208 PASS_WITH_DEFECT=33 REVIEW=0 HOLD=2 FAIL=0 production_ready={'YES': 226, 'REVIEW': 15, 'NO': 2}
+cumulative rows=318; repair queue additions=35
+last verified completed point: A02335 미주순번 122 (source end)
+next actual unfinished point: A02334 (05.지수함수와 로그함수의 활용) 미주순번 1 — 검산 진행중; 이후 A02327, A02326, A02324; 대용량 HWP(A02333/A02332/A02331/A02329/A02323/A02322)는 커넥터 크기제한 확인 후 처리
+LOCK: 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF (A02337-A02322 ACTIVE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

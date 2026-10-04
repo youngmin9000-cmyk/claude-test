@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch004_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=4 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00901 1uH5YR6I91cgBhiOhwQhYfOfH7rco7pPS [RPM 공통수학2]01_평면좌표 86제.hwp rows=86 COMPLETE (LOCK released for this source) repair_pending=YES; A00900 19t1FdZYqKQ8P-ip9qRrEn98z61jIcp_4 [RPM 공통수학2]02_직선의 방정식 102제.hwp rows=102 COMPLETE (LOCK released for this source) repair_pending=YES; A00899 1z70t6iYHh7MiZ5ExlOQWnmDxy1lRju1u [RPM 공통수학2]03_원의 방정식 122제.hwp rows=122 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=310 (detail 0) PASS=283 PASS_WITH_DEFECT=15 REVIEW=0 HOLD=12 FAIL=0 production_ready={'YES': 294, 'NO': 12, 'REVIEW': 4}
+cumulative rows=1270; repair queue additions=27
+last verified completed point: A00899 미주순번 122 (source end)
+next actual unfinished point: A00898 (RPM 04_도형의 이동, 원번호 0311) — 검산 진행중; 이후 A00897, A00896, A00895, A00893, A00892 (A00894 8MB는 다운로드 시도 후 판단)
+LOCK: 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF (A02337-A02322 ACTIVE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

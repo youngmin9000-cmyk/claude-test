@@ -1,0 +1,7 @@
+DB_COORDINATION_STATUS_P3_TO_P1_REVERSE_Batch004_20261004 (append-only supplement)
+P3_TO_P1_REVERSE (P3 lane, descending) — 310 rows committed this batch, cumulative 1270.
+COMPLETE (new build): A00901/1uH5YR6I91cgBhiOhwQhYfOfH7rco7pPS, A00900/19t1FdZYqKQ8P-ip9qRrEn98z61jIcp_4, A00899/1z70t6iYHh7MiZ5ExlOQWnmDxy1lRju1u
+ACTIVE LOCKS: 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF (Maple 잔여 HOLD_SOURCE) + 1KXm4SLAIf0y1pM0QIGnAMZcyFrjuMp6Y (RPM A00901-A00892): 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF covering remaining 마플시너지 수학1 HWP A02336..A02322 (not yet committed ones).
+Other streams read-only: P5->P4->P3->P2 REVERSE (LOCK A02589-A02500), P1 forward, P2 forward, P3 work/GEMINI, OFFICIAL, P5 REPAIR — no overlap, no mutation.
+Duplicate-family note: A00678 '[수1] 마플시너지 [PDF, 한글].zip' likely same book family as A02322-A02337 HWP -> dedup before any build.
+Next: A00898 (RPM 04_도형의 이동, 원번호 0311) — 검산 진행중; 이후 A00897, A00896, A00895, A00893, A00892 (A00894 8MB는 다운로드 시도 후 판단)

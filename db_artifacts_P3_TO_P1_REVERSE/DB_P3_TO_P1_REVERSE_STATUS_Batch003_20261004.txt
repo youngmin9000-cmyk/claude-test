@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch003_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=3 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A02334 1b6g7nHyzdxMG2BDhwcnKLGyzEGcbmonu 고2-수학1-마플시너지-05.지수함수와 로그함수의 활용.hwp rows=139 COMPLETE (LOCK released for this source) repair_pending=YES; A02327 1Zind9E3jLV9IM_OTOdybRb5hFc7TRc4h 고2-수학1-마플시너지-13.수학적 귀납법.hwp rows=155 COMPLETE (LOCK released for this source) repair_pending=YES; A02326 1icg1FSlj1AxA4LPq4jBKUcY93Q2zmYAU 고2-수학1-마플시너지-10.등차수열.hwp rows=110 COMPLETE (LOCK released for this source) repair_pending=YES; A02324 1iIEtp8qV28Hh91YmwQu68ObacXjN8JrW 고2-수학1-마플시너지-12.수열의 합.hwp rows=238 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=642 (detail 0) PASS=561 PASS_WITH_DEFECT=66 REVIEW=3 HOLD=12 FAIL=0 production_ready={'YES': 590, 'REVIEW': 40, 'NO': 12}
+cumulative rows=960; repair queue additions=81
+last verified completed point: A02324 미주순번 238 (source end)
+next actual unfinished point: A00901 (RPM 공통수학2 01_평면좌표) 0001 — 검산 진행중; 이후 A00900..A00892. 대용량 마플 HWP(A02333/A02332/A02331/A02329/A02323/A02322)는 HOLD_SOURCE(커넥터 다운로드 크기제한)
+LOCK: 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF (A02337-A02322 ACTIVE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

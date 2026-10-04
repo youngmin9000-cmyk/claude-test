@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch001_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=1 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A02337 1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo 고2-수학1-마플시너지-03.상용로그.hwp rows=75 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=75 (detail 0) PASS=68 PASS_WITH_DEFECT=7 REVIEW=0 HOLD=0 FAIL=0 production_ready={'YES': 70, 'REVIEW': 5}
+cumulative rows=75; repair queue additions=7
+last verified completed point: A02337 미주순번 75 (source end)
+next actual unfinished point: A02336 (02.로그) 미주순번 1 — 검산 진행중
+LOCK: 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF (A02337-A02322 ACTIVE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

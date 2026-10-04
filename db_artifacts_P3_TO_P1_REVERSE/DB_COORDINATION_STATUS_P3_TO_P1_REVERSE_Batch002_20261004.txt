@@ -1,0 +1,7 @@
+DB_COORDINATION_STATUS_P3_TO_P1_REVERSE_Batch002_20261004 (append-only supplement)
+P3_TO_P1_REVERSE (P3 lane, descending) — 243 rows committed this batch, cumulative 318.
+COMPLETE (new build): A02336/16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS, A02335/12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL
+ACTIVE LOCK (unchanged; A02337 released in Batch001): 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF covering remaining 마플시너지 수학1 HWP A02336..A02322 (not yet committed ones).
+Other streams read-only: P5->P4->P3->P2 REVERSE (LOCK A02589-A02500), P1 forward, P2 forward, P3 work/GEMINI, OFFICIAL, P5 REPAIR — no overlap, no mutation.
+Duplicate-family note: A00678 '[수1] 마플시너지 [PDF, 한글].zip' likely same book family as A02322-A02337 HWP -> dedup before any build.
+Next: A02334 (05.지수함수와 로그함수의 활용) 미주순번 1 — 검산 진행중; 이후 A02327, A02326, A02324; 대용량 HWP(A02333/A02332/A02331/A02329/A02323/A02322)는 커넥터 크기제한 확인 후 처리

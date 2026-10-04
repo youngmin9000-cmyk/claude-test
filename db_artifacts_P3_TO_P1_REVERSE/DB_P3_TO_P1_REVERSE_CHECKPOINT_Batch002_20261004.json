@@ -1,0 +1,532 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P3",
+ "batch": 2,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF (A02337-A02322 ACTIVE)",
+ "sources": [
+  {
+   "queue_id": "A02336",
+   "drive_id": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "name": "고2-수학1-마플시너지-02.로그.hwp",
+   "sha256": "287af6d8a74130717c7111b97edf1f5171d3cdbf231cdc49b1f254a5d0b6b855",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-121 (전체)",
+   "canonical_rows": 121,
+   "verdicts": {
+    "PASS": 105,
+    "PASS_WITH_DEFECT": 15,
+    "HOLD": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02335",
+   "drive_id": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "name": "고2-수학1-마플시너지-01.지수.hwp",
+   "sha256": "3ed1cb0d69e4e131f0371b4e69f534804ffa16efa1c4a302df2577732cd51c46",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-122 (전체)",
+   "canonical_rows": 122,
+   "verdicts": {
+    "PASS": 103,
+    "PASS_WITH_DEFECT": 18,
+    "HOLD": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 243,
+ "detail_rows_added": 0,
+ "PASS": 208,
+ "PASS_WITH_DEFECT": 33,
+ "REVIEW": 0,
+ "HOLD": 2,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 226,
+  "REVIEW": 15,
+  "NO": 2
+ },
+ "new_repair_queue_additions": 35,
+ "repair_queue": [
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "64",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 첫 비례식에 log_2 a가 log_2 c로 오기, 이어 log_3 a=log_2 8 표기 혼재(답 영향 없음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "66",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 산술기하 부등식에서 √(9a·1/a)를 √(9a+1/a)로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "70",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL에서 54를 3×3^3으로 오기(2×3^3이 맞음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "71",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 별해에서 log2+log3을 log2 log3으로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "72",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 마지막 분자를 2a+1+b로 오기(2a+1+ab가 맞음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "79",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 중간식에 log_5 80-log_5 5가 \"=-\"로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "86",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "문제에 \"두 실근\"이라 했으나 판별식 D/4=(log2)^2-(log5-log2)≈-0.31<0으로 실근이 아님(허근이어도 근과 계수 관계로 값 2는 동일)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "94",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "증명 본문 \"log_2 m=p/q (p 자연수, q 정수)\"는 q/p의 오기(그대로면 m^q=2^p가 되어 이후 \"m^p 홀수\"와 모순). SOL은 m=2^{q/p}로 q/p 기준",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "95",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "HOLD",
+   "reason": "본문에 눈금 숫자(3,14,21,26 등) 배치가 그림으로만 제시되어 텍스트만으로 풀이 불가; HOLD_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "99",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 1단계에서 log_a b=3/2로 오기(올바른 값 2/3, 최종 합 13/6은 동일)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "100",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL ㉠을 x+3y=5로 오기(15가 맞음, 해 x=6,y=3은 15 기준)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "109",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 1단계 분자에 -(−log_a)로 오기(−log a가 맞음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "112",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL에 b^2=a^k를 b^2=2^k로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "115",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 첫 줄에서 log_b 27을 log_a 27로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "118",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 첫 줄에 -log 19를 =log 19로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02336",
+   "source": "16IbdQV1Ij0Q9PVBD3mrOU5AIL2OGJJqS",
+   "question": "119",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 첫 식 4log m을 4log n으로 오기",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "13",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설에 \"n>4인 경우 f(n)=0\"으로 오기(n<4가 맞음). 정답에는 영향 없음.",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "19",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설 ㄷ에서 3^-3을 1/8로 잘못 표기(1/27). 결과 4는 맞음.",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "22",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "추출된 선택지 표에서 ①과 ②가 동일하게 나타남(원본 표 일부 손실 추정). 정답 ③은 확정.",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "37",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "선택지 ③이 \"root3\"으로 깨져 표기됨(√3으로 판독).",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "53",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "a<b이면 x-y=(a^(1/3)-b^(1/3))^3<0이 되어 (x-y)^(2/3)이 고교 정의(밑>0)상 정의되지 않음. a>b 조건 누락.",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "67",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 수식에 괄호·중괄호 오타(내용 무관)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "74",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 중간식 분모 지수 x 누락 오타(결과 무관)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "92",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "문제 본문의 두번째 조건이 '2^a+2^-b=9/4'로 표기되어 있으나 SOL은 '2^-a+2^-b=9/4' 사용. 본문대로면 2^{a+b}가 무리수가 되어 답 불가 → 본문 오타(2^a→2^-a)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "101",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL에 'mq+nq' 오타(→mq+np)이며 거듭제곱근 성질 적용 단계가 생략되어 순환논증에 가까움; n,q≥2 조건도 불필요하게 제한(n=1 경우 누락)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "103",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL ㉢에 'c^z=2^3', 'c=3^{3/x}' 오타(→27, 3^{3/z})",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "105",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "[2단계]가 '구하는 값' a^½+a^-½(이미 주어진 값)로 표기됨 → a^½-a^-½의 오타(SOL은 √5 계산)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "106",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 2단계 전개식에 'a^½·2^{-½}' 오타(→a^{-½})",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "107",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "단계 표기 오류: [3단계]가 두 번 나옴(마지막은 4단계)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "108",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "[1단계] 문구 '양변을 3^x으로 (나누어)' 누락",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "109",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 별해 BOX에 'n/2=a^3' 오타(→a^2)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "110",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "SOL 3단계 좌변 지수가 12가 아닌 2로 오타",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "113",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문 '실수인 것을 개수를' 조사 오타",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "117",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "HOLD",
+   "reason": "정삼각형의 위치(면대각선 3개로 이루어짐)가 그림에만 있음; HOLD_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02335",
+   "source": "12x5PxBIXqtk4UG1_CeITWUIqCu0JhMUL",
+   "question": "119",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문 둘째 정사각형이 'OQ2AB'로 표기(→OQ2CD 오타). 텍스트만으로 풀이 가능",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  }
+ ],
+ "cumulative_rows": 318,
+ "last_verified_completed_point": "A02335 미주순번 122 (source end)",
+ "next_actual_unfinished_point": "A02334 (05.지수함수와 로그함수의 활용) 미주순번 1 — 검산 진행중; 이후 A02327, A02326, A02324; 대용량 HWP(A02333/A02332/A02331/A02329/A02323/A02322)는 커넥터 크기제한 확인 후 처리",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO",
+ "result_artifact_manifest": [
+  {
+   "title": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch002_20261004_part01of03.csv",
+   "drive_id": "1eQWyUJ59Z9DlhYmTRQlKBkJJRIc-aGJ3",
+   "rows": "001-081",
+   "state": "READBACK_OK"
+  },
+  {
+   "title": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch002_20261004_rows082-121.csv",
+   "rows": "082-121"
+  },
+  {
+   "title": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch002_20261004_rows122-161.csv",
+   "rows": "122-161"
+  },
+  {
+   "title": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch002_20261004_rows162-201.csv",
+   "rows": "162-201"
+  },
+  {
+   "title": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch002_20261004_rows202-241.csv",
+   "rows": "202-241"
+  },
+  {
+   "title": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch002_20261004_rows242-243.csv",
+   "rows": "242-243"
+  }
+ ],
+ "upload_incident": "part02of03/part03of03 (81행 분할) 업로드 중단: part02 create 호출이 중간 차단됨 → 부분 파일 생성 여부 미확인(검색상 미발견). 만약 'Batch002_20261004_part02of03.csv'가 존재하면 불완전본이므로 SUPERSEDED_DO_NOT_MERGE; 정본은 rows082-243 파일들.",
+ "superseded_artifacts": [
+  {
+   "drive_id": "1xpwzH2tb-w_5YnRzlkS24CSIc3r-q6tK",
+   "title": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch003_20261004_part05of08.csv",
+   "status": "SUPERSEDED_DO_NOT_MERGE",
+   "reason": "이전 8분할 계획의 잔존 업로드본(81행: D_6b66aa3a97dd_Q031..D_822466591903_Q001). 동일 행은 Batch003 17분할본(part09~part11of17)이 정본. 마스터 병합 시 제외. 원본/타 산출물 변경 없음(삭제 금지 원칙으로 파일 유지)."
+  }
+ ]
+}

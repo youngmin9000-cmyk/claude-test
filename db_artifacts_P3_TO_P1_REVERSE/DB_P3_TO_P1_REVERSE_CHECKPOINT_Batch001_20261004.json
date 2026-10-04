@@ -1,0 +1,140 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P3",
+ "batch": 1,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF (A02337-A02322 ACTIVE)",
+ "sources": [
+  {
+   "queue_id": "A02337",
+   "drive_id": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "name": "고2-수학1-마플시너지-03.상용로그.hwp",
+   "sha256": "185d6672499805355b4094ad5a7fff3ca6e58c490762b11f153ec04678f11fd0",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-75 (전체)",
+   "canonical_rows": 75,
+   "verdicts": {
+    "PASS": 68,
+    "PASS_WITH_DEFECT": 7
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 75,
+ "detail_rows_added": 0,
+ "PASS": 68,
+ "PASS_WITH_DEFECT": 7,
+ "REVIEW": 0,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 70,
+  "REVIEW": 5
+ },
+ "new_repair_queue_additions": 7,
+ "repair_queue": [
+  {
+   "phase": "P3",
+   "queue_id": "A02337",
+   "source": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "question": "2",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문 log(5.18)^2는 해설·선지와 불일치; log(51.8)^2의 오기(그대로면 -1.2857, 선지 없음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02337",
+   "source": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "question": "37",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문 \"소리의 세리\"는 \"소리의 세기\"의 오타(정답 영향 없음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02337",
+   "source": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "question": "42",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문에 m_1(최종 질량) 정의 누락, \"로케의\" 오타",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02337",
+   "source": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "question": "46",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설 ㉠식 계수가 5/4로 오타(5/2가 맞음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02337",
+   "source": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "question": "51",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "관계식에 \"= =\" 중복 기호 오타",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02337",
+   "source": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "question": "59",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설 3·4단계에 3^30을 3^20으로 쓴 오타",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A02337",
+   "source": "1xf3h93hTfIOenruZCy0nDooIqxQ4AEqo",
+   "question": "72",
+   "page": "HWP 연속문서(쪽 미산출)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "발문에 쓰이지 않는 \"(단, m, n은 서로소인 자연수)\" 잔존 조건",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  }
+ ],
+ "cumulative_rows": 75,
+ "last_verified_completed_point": "A02337 미주순번 75 (source end)",
+ "next_actual_unfinished_point": "A02336 (02.로그) 미주순번 1 — 검산 진행중",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO"
+}
