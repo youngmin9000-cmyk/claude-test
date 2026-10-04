@@ -1,0 +1,78 @@
+{
+"stream": "P3_TO_P1_REVERSE",
+"phase": "P3",
+"batch": 7,
+"date": "2026-10-04",
+"owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+"lock": "1t31D0Wga2LExztoCALgPIhU4a4s2e46Y (A01822, A00698 released by this checkpoint; A00908 remains ACTIVE)",
+"sources": [
+{
+"queue_id": "A01822",
+"drive_id": "17F_n9o4iob137uuioH-Glh-AD4E5fHCY",
+"name": "풍산자 반복수학 확률과 통계 본문.pdf",
+"sha256": "1b9a1ca010135206910e7c5fca4bee6dc7a860d0d7357309c8e7988a67c89b56",
+"companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+"processed_range": "미주순번 1-288 (전체)",
+"canonical_rows": 288,
+"verdicts": {
+"PASS": 276,
+"PASS_WITH_DEFECT": 12
+},
+"source_new_build_complete": "YES",
+"repair_pending": "YES",
+"state": "COMPLETE (LOCK released for this source)"
+},
+{
+"queue_id": "A00698",
+"drive_id": "1kQUmjvQjWneFQSrCq94okpbbe4NWnO0_",
+"name": "풍산자 필수유형 대수_본문.pdf",
+"sha256": "f3aa63022157ba0912751ba23b2d57bdc8698c825f51da9f613b4f4051a8b67a",
+"companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+"processed_range": "미주순번 1-846 (전체)",
+"canonical_rows": 846,
+"verdicts": {
+"PASS": 837,
+"PASS_WITH_DEFECT": 8,
+"REVIEW": 1
+},
+"source_new_build_complete": "YES",
+"repair_pending": "YES",
+"state": "COMPLETE (LOCK released for this source)"
+}
+],
+"canonical_rows_added": 1134,
+"detail_rows_added": 0,
+"PASS": 1113,
+"PASS_WITH_DEFECT": 20,
+"REVIEW": 1,
+"HOLD": 0,
+"FAIL": 0,
+"production_ready": {
+"YES": 1116,
+"REVIEW": 18
+},
+"new_repair_queue_additions": 21,
+"repair_queue": {
+"count": 21,
+"by_code": {
+"UNK": 21
+},
+"note": "전체 행 목록은 Result xlsx parts의 verdict/hold_code/production_ready 열 및 로컬 full checkpoint 참조 (compact 사본)"
+},
+"cumulative_rows": 4556,
+"last_verified_completed_point": "A00698 미주순번 846 (source end)",
+"next_actual_unfinished_point": "A00908 (EBS 올림포스 유형편 수학(상)-1) — 다음 처리 예정",
+"collisions_skipped": [],
+"qc": {
+"unique_ids": true,
+"dup_source_question_keys": 0,
+"verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+},
+"duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+"original_mutation": 0,
+"existing_artifact_overwrite": 0,
+"P4_P5_mutation": 0,
+"P5_REPAIR_mutation": 0,
+"official_mutation": 0,
+"master_merge": "NO"
+}

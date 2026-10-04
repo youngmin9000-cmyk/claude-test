@@ -1,0 +1,76 @@
+{
+"stream": "P3_TO_P1_REVERSE",
+"phase": "P3",
+"batch": 9,
+"date": "2026-10-04",
+"owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+"lock": "1YbWZ89thLgLqwtFZ5ixfivOQt26WdpkL (P3 final set: A00680, A00693 COMPLETE; A00620/A00650 HOLD_COMPANION; A00857 EXCLUDE non-math; lock released) + P2 lock 1Tn3AWMoXf4DybYamteanbXE7c-Od8nuw ACTIVE",
+"sources": [
+{
+"queue_id": "A00680",
+"drive_id": "1iM8bKiTmsXMg1Ikjlosl741jwT_wmFUW",
+"name": "[113]만렙AM고등수학Ⅰ(15개정)PDF.zip :: [113]만렙AM고등수학Ⅰ(15개정)PDF.pdf",
+"sha256": "7820cacda7d3faed097f63f48ab507901fdea6077f82d6dbf9b918f79a3c8c3c",
+"companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+"processed_range": "미주순번 1-935 (전체)",
+"canonical_rows": 935,
+"verdicts": {
+"PASS": 934,
+"PASS_WITH_DEFECT": 1
+},
+"source_new_build_complete": "YES",
+"repair_pending": "YES",
+"state": "COMPLETE (LOCK released for this source)"
+},
+{
+"queue_id": "A00693",
+"drive_id": "1QNCy3YZ_9NJ0luccQA9Rzfzqcre9WwKD",
+"name": "개념원리 중등 수학 3-1 (2022년) - 교사용부록.pdf",
+"sha256": "47e5cba72f16777273fae6aa964466ee728fc1804d99232c13e8d51fbbe9df29",
+"companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+"processed_range": "미주순번 1-128 (전체)",
+"canonical_rows": 128,
+"verdicts": {
+"PASS": 128
+},
+"source_new_build_complete": "YES",
+"repair_pending": "NO",
+"state": "COMPLETE (LOCK released for this source)"
+}
+],
+"canonical_rows_added": 1063,
+"detail_rows_added": 0,
+"PASS": 1062,
+"PASS_WITH_DEFECT": 1,
+"REVIEW": 0,
+"HOLD": 0,
+"FAIL": 0,
+"production_ready": {
+"YES": 1062,
+"REVIEW": 1
+},
+"new_repair_queue_additions": 1,
+"repair_queue": {
+"count": 1,
+"by_code": {
+"UNK": 1
+},
+"note": "전체 행 목록은 Result xlsx parts의 verdict/hold_code/production_ready 열 및 로컬 full checkpoint 참조 (compact 사본)"
+},
+"cumulative_rows": 6948,
+"last_verified_completed_point": "A00693 미주순번 128 (source end)",
+"next_actual_unfinished_point": "P2: 비상교육 고등 대수 A01706-A01769 (검산 진행중)",
+"collisions_skipped": [],
+"qc": {
+"unique_ids": true,
+"dup_source_question_keys": 0,
+"verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+},
+"duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+"original_mutation": 0,
+"existing_artifact_overwrite": 0,
+"P4_P5_mutation": 0,
+"P5_REPAIR_mutation": 0,
+"official_mutation": 0,
+"master_merge": "NO"
+}

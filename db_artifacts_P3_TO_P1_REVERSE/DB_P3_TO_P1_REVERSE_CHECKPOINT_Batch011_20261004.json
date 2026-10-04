@@ -1,0 +1,690 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P2",
+ "batch": 11,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "11oTQt3P7ifBG9AIw-VqpqIo-kWEc74gd (P2 A01673-A01705 계산력 강화; released for COMPLETE sources)",
+ "sources": [
+  {
+   "queue_id": "A01673",
+   "drive_id": "1XUjjdVa7Ydd33-Ef9UXlzNHDqR1bFX6l",
+   "name": "[비상교육] 고등_대수_3-1-1_계산력 강화 문제.hwp",
+   "sha256": "d5f3767d0242ffd95e64b4a7cb5131ff9b12f2126338994840311966b6d74a91",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01674",
+   "drive_id": "1aReJ8bMJj7rI11njd4qlJtuen8onmm3y",
+   "name": "[비상교육] 고등_대수_3-1-2_계산력 강화 문제(1).hwp",
+   "sha256": "be7eb3959885372ac4fe3bebf6a3ba7ba036504d709e2d8ba3138396b0e1b7fb",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01675",
+   "drive_id": "1S4DeBjHEbU76V50Lx4gdBhbTm1lsPnIz",
+   "name": "[비상교육] 고등_대수_3-1-2_계산력 강화 문제(2).hwp",
+   "sha256": "3a638a17ff535b1800b405fd1cd5d114e139c0dd1d93e6f457f65af65b05c334",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01676",
+   "drive_id": "1OkCdTVkAdGzFKOWrmEFIfmgbwIi-rXMQ",
+   "name": "[비상교육] 고등_대수_3-1-2_계산력 강화 문제(3).hwp",
+   "sha256": "fb41d4ca2f7caa10137c36895a3734dd26f0c6454ec30635e875518c77a288cd",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01677",
+   "drive_id": "1XgY0OgU-ScRMlI6YNcozEAvrCYHtrWSe",
+   "name": "[비상교육] 고등_대수_3-1-3_계산력 강화 문제(1).hwp",
+   "sha256": "86dc66a8a2339eae31a026143a5dff1eb0aef62a9e6d2618d8323f90f1f82b11",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS_WITH_DEFECT": 2,
+    "PASS": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01678",
+   "drive_id": "1iLQGKWxxENk8RHg0ErYb2f4AU2TrD4_d",
+   "name": "[비상교육] 고등_대수_3-1-3_계산력 강화 문제(2).hwp",
+   "sha256": "1bd5975e3fbadb78c407f4dcb3c23b3f292d4cce8adbd9599892ee6325ed5c66",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01679",
+   "drive_id": "1YMFkSav4OoeUyqqrXfcOkLsgm1tPOWED",
+   "name": "[비상교육] 고등_대수_3-2-1_계산력 강화 문제(1).hwp",
+   "sha256": "a7ac91b39afb14339c220c98e5b17c7d7d23a3e2da1d5ecfc8a7916e62ba14f8",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01680",
+   "drive_id": "1Mm3LvmAHhrjnwNu1aYKyROghOcGIHGL4",
+   "name": "[비상교육] 고등_대수_3-2-1_계산력 강화 문제(2).hwp",
+   "sha256": "d925318663940f428ed0fabe71751dd04653dcbcc90ef10a696af90e35dc3706",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01681",
+   "drive_id": "1DKCcrc8oxmaQ8rwomc0FVg8sZtYUWtgL",
+   "name": "[비상교육] 고등_대수_3-2-2_계산력 강화 문제(1).hwp",
+   "sha256": "65ec7bcf7dd30834f87d791f1f0c661bac9de3375577cfa2c720c8cf80e0593c",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01682",
+   "drive_id": "1uh4vq24hGn7FKkeRUmzRTOb86_d1SkI1",
+   "name": "[비상교육] 고등_대수_3-2-2_계산력 강화 문제(2).hwp",
+   "sha256": "0e163e65ba9c6f53905535f10eff70fe6787e63b5e85ab0bb4440664f75a7f3f",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01683",
+   "drive_id": "1Jvabnj8gUi_Qj1Y6Xt40ZlwfavOV705y",
+   "name": "[비상교육] 고등_대수_2-1-1_계산력 강화 문제(1).hwp",
+   "sha256": "b13aff1bce5634c4688c86bf9f612f5bfa72ae1d48b3850508134019ba8185ab",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "HOLD": 1,
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01684",
+   "drive_id": "1QGfxPle5Dkt9_ngjjXFlNYDZv3xS0U_o",
+   "name": "[비상교육] 고등_대수_2-1-1_계산력 강화 문제(2).hwp",
+   "sha256": "9ea3f35ac71a4de810428f48cc3ded9aaed972ee7690a03817946067739fdbff",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01685",
+   "drive_id": "1eR95a3iFxutGH4avQGR5XFRf6siYhdiI",
+   "name": "[비상교육] 고등_대수_2-1-2_계산력 강화 문제(1).hwp",
+   "sha256": "4dc6771ad1d7f217f82ad8ac88282f9efda8e662855c870ef4790ea6f333356c",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01686",
+   "drive_id": "1jhBAfdVyQjziRGhdfU35Pmz3TU5997FU",
+   "name": "[비상교육] 고등_대수_2-1-2_계산력 강화 문제(2).hwp",
+   "sha256": "95ec1bd55e274a13fca20ac787e34610a5debec363465b716c61997e01edcffc",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01687",
+   "drive_id": "18d-SfeVBkcl9RobHN8SstRhu5Kg9LG2q",
+   "name": "[비상교육] 고등_대수_2-1-3_계산력 강화 문제(1).hwp",
+   "sha256": "5f281db8bccb61a3de5206a709940588b73d1707932bd96757ae07f164a962b3",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01688",
+   "drive_id": "1oqzEf2L1hBsKH8IFoK3_2ZNRwFeofalY",
+   "name": "[비상교육] 고등_대수_2-1-3_계산력 강화 문제(2).hwp",
+   "sha256": "bcf54631af279103af218957adf1c35391a3c52e40f456a715cc9c78e791a32b",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01689",
+   "drive_id": "18IMNQmIMgbgGnloU3euExRREvHIqiq2c",
+   "name": "[비상교육] 고등_대수_2-1-3_계산력 강화 문제(3).hwp",
+   "sha256": "6b9f80639bbb9482cf0822886ac825c44f9d82c23dbfb2e96aa610b4e8791a75",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01690",
+   "drive_id": "1zA80w5mRf1YluRskl434RAMe8HEivT9o",
+   "name": "[비상교육] 고등_대수_2-1-3_계산력 강화 문제(4).hwp",
+   "sha256": "1c9ff538b9bfc5c69c2d8f28bb3573b587524f964d7a7354afbb141b4bc52abe",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01691",
+   "drive_id": "1oUtOwpYSreRUHcVloERTC-tBtmQFtdn6",
+   "name": "[비상교육] 고등_대수_2-2-1_계산력 강화 문제(1).hwp",
+   "sha256": "d134b325f9c7268e8da44fa43833113ecd15d08e7ee9391ec89aad109e03eca3",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01692",
+   "drive_id": "1qiPgx-3aBXdLQ6SnF1NhXn9CM7jG59d4",
+   "name": "[비상교육] 고등_대수_2-2-1_계산력 강화 문제(2).hwp",
+   "sha256": "7444de9e9252e397b821a1843883a1543531152c90358ea1a5a7328592948794",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "HOLD": 1,
+    "PASS": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01693",
+   "drive_id": "1YiprUiOdBO1Iw5XRh51j7mc-AOheFT3w",
+   "name": "[비상교육] 고등_대수_1-1-1_계산력 강화 문제(1).hwp",
+   "sha256": "c9c00af79ebb95a33a95dc21aacabdbc521481d49ead473ad1daec68d8fe3d32",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 3
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01694",
+   "drive_id": "1CkDntXtL0h0PZRZs9N2hn2kcg9J6UauD",
+   "name": "[비상교육] 고등_대수_1-1-1_계산력 강화 문제(2).hwp",
+   "sha256": "bd61350f8b6f66602a8cb99f566265644589333401b0256aef657432609caabf",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01695",
+   "drive_id": "1709mk9zYqc4IogSojYPiumTaPzckcUr8",
+   "name": "[비상교육] 고등_대수_1-1-2_계산력 강화 문제(1).hwp",
+   "sha256": "ceb8605bb9b3d3f2b64b2c16474679cf824717110fa3803532d40f642f13c497",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01696",
+   "drive_id": "1UXYRHbNoEIzLGRJ2vigiI8KMFCDE9oI3",
+   "name": "[비상교육] 고등_대수_1-1-2_계산력 강화 문제(2).hwp",
+   "sha256": "49a7c78f50286c1f33272ba3f53b30ae5471c3c4711df166c42e67db7c76e566",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 2,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01697",
+   "drive_id": "1c0zds8CWMY6al6ESvWiqjJREfCncmfiL",
+   "name": "[비상교육] 고등_대수_1-1-2_계산력 강화 문제(3).hwp",
+   "sha256": "ce1c4c0d29913bd19c5db68bace2be4f8bb866d01e91528b14ad1696da93c897",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01698",
+   "drive_id": "19RhZNUwE1MSe05f4LTN3CQycvhAjHLn6",
+   "name": "[비상교육] 고등_대수_1-1-3_계산력 강화 문제(1).hwp",
+   "sha256": "b7a25ccc75b8499dbf0ee6e22e4b30eaab81636f9f1444f28b63264d58f7a799",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS_WITH_DEFECT": 1,
+    "REVIEW": 1,
+    "HOLD": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01699",
+   "drive_id": "1vgH55I3RIgpdxZk8ZC-YfsI2AAmp6vax",
+   "name": "[비상교육] 고등_대수_1-1-3_계산력 강화 문제(2).hwp",
+   "sha256": "ae367b953ef26c261cdf0c30876c46dc5166f4d218ca53473d78469ce474da7e",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01700",
+   "drive_id": "1l9two1lvd7u5YDwP52kKzDdAdFF1E5XJ",
+   "name": "[비상교육] 고등_대수_1-1-3_계산력 강화 문제(3).hwp",
+   "sha256": "f0e878b7704b21eeb9554871cca8b6b8c4fbada633b0163cad39678154a90ae6",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01701",
+   "drive_id": "1V502pMCd9x3LMd_qXq6NU2n0tl0eg2NO",
+   "name": "[비상교육] 고등_대수_1-1-4_계산력 강화 문제.hwp",
+   "sha256": "3976288cdba7107bd58f2447fead19a976672d4f07c9bbb7a9d676dadc3d5ede",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01702",
+   "drive_id": "1m2LGubvpy5jh0oPxfZYAEFRnaUThgns9",
+   "name": "[비상교육] 고등_대수_1-2-1_계산력 강화 문제.hwp",
+   "sha256": "6fde91e0fc2d58b9dce4117eda1c3a1cd0c6c4f23cba5e0aa21ef5bb353f3f4f",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 1,
+    "HOLD": 1,
+    "REVIEW": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01703",
+   "drive_id": "1R1IhAWdqrfvW-zu8XXp47wmF-FNCCeGO",
+   "name": "[비상교육] 고등_대수_1-2-2_계산력 강화 문제.hwp",
+   "sha256": "964fad09b27e41e7d6be2bb869ebd4d2fb51ed1dd8949659926162243deec6f7",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-3 (전체)",
+   "canonical_rows": 3,
+   "verdicts": {
+    "PASS": 1,
+    "HOLD": 1,
+    "REVIEW": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01704",
+   "drive_id": "12Q87zw9coFPEfUYypYSYE_YCquLO89le",
+   "name": "[비상교육] 고등_대수_1-2-3_계산력 강화 문제(1).hwp",
+   "sha256": "a35815648f4c9fbccd7731c5c98a90ef8c3a199a363a5f5927c3d39c4dd891d8",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A01705",
+   "drive_id": "1m0ltMS_debDWvq9XoK6Dmt-0dSMfr-6D",
+   "name": "[비상교육] 고등_대수_1-2-3_계산력 강화 문제(2).hwp",
+   "sha256": "a0d68fb0e3861f00b51919651c43c5367e6740ccd6378a8b33524be2c6b5bcc4",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-2 (전체)",
+   "canonical_rows": 2,
+   "verdicts": {
+    "PASS": 2
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 81,
+ "detail_rows_added": 0,
+ "PASS": 69,
+ "PASS_WITH_DEFECT": 4,
+ "REVIEW": 3,
+ "HOLD": 5,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 69,
+  "REVIEW": 7,
+  "NO": 5
+ },
+ "new_repair_queue_additions": 12,
+ "repair_queue": [
+  {
+   "phase": "P2",
+   "queue_id": "A01677",
+   "source": "1XgY0OgU-ScRMlI6YNcozEAvrCYHtrWSe",
+   "question": "01",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 소제목 '등바수열' 오타(등비수열), ⑶ 쉼표 대신 마침표 — 풀이 영향 없음",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01677",
+   "source": "1XgY0OgU-ScRMlI6YNcozEAvrCYHtrWSe",
+   "question": "03",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: ⑵ x=±16,y=±4는 x,8,y,1/2 조건과 불일치(16,8,4,2). 올바른 답 x=32,y=2 또는 x=-32,y=-2",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01683",
+   "source": "1Jvabnj8gUi_Qj1Y6Xt40ZlwfavOV705y",
+   "question": "01",
+   "page": "HWP(쪽없음)",
+   "status": "HOLD",
+   "reason": "HOLD_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01692",
+   "source": "1qiPgx-3aBXdLQ6SnF1NhXn9CM7jG59d4",
+   "question": "01",
+   "page": "HWP(쪽없음)",
+   "status": "HOLD",
+   "reason": "HOLD_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01696",
+   "source": "1UXYRHbNoEIzLGRJ2vigiI8KMFCDE9oI3",
+   "question": "02#2",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 세 번째 문제 번호가 '02'로 중복 인쇄됨(정답란은 03)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01698",
+   "source": "19RhZNUwE1MSe05f4LTN3CQycvhAjHLn6",
+   "question": "01",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: ⑴ 문제는 2^4=16인데 정답이 '5=log_2 32'(2^5=32용)로 잘못됨; 올바른 답 4=log_2 16",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01698",
+   "source": "19RhZNUwE1MSe05f4LTN3CQycvhAjHLn6",
+   "question": "02",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01698",
+   "source": "19RhZNUwE1MSe05f4LTN3CQycvhAjHLn6",
+   "question": "03",
+   "page": "HWP(쪽없음)",
+   "status": "HOLD",
+   "reason": "본문: ⑴ log_{1/7} 뒤 진수 누락(HWP 원본도 누락). 정답표: 정답란 번호 '02'로 표기(03의 답), ⑹ log_0.1(1/100)=2인데 -3으로 표기; HOLD_ANSWER",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01702",
+   "source": "1m2LGubvpy5jh0oPxfZYAEFRnaUThgns9",
+   "question": "02",
+   "page": "HWP(쪽없음)",
+   "status": "HOLD",
+   "reason": "HOLD_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01702",
+   "source": "1m2LGubvpy5jh0oPxfZYAEFRnaUThgns9",
+   "question": "03",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_PARTIAL_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01703",
+   "source": "1R1IhAWdqrfvW-zu8XXp47wmF-FNCCeGO",
+   "question": "02",
+   "page": "HWP(쪽없음)",
+   "status": "HOLD",
+   "reason": "HOLD_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P2",
+   "queue_id": "A01703",
+   "source": "1R1IhAWdqrfvW-zu8XXp47wmF-FNCCeGO",
+   "question": "03",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_PARTIAL_VISUAL",
+   "required_material": "원본 HWP 렌더(그림)",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  }
+ ],
+ "cumulative_rows": 7585,
+ "last_verified_completed_point": "A01705 미주순번 2 (source end)",
+ "next_actual_unfinished_point": "P2 A01665-A01670 (지학사 서술형/대단원 기출, verifying); A01671/A01672 HOLD_SOURCE_SIZE; then YBM A01561→A01522",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO"
+}
