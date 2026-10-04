@@ -136,3 +136,6 @@ Batch685-687 A01797 영신고 2023 3-1 기말 미적분(zip; 16; 정답 미동�
 Batch688-695 A01462 동아출판 22개정 대수 중간고사 대비 실전모의고사 Q(4회×20=80; 정답 A01461 p17~28 연결, 객관식 72·서술 8 전 문항 일치; 그림 6문항 REVIEW-그림판독) 80 rows; A01461(A)=Q면+해설 합본 companion; cum 15263
 Batch696-703 A01460 동아출판 22개정 대수 기말고사 대비 실전모의고사 Q(4회×20=80; 정답 A01459 p17~29, 전 문항 일치; 그림 3문항 REVIEW) 80 rows; A01459(A)=Q+해설 합본 companion; cum 15343
 LOCK P1 A01835-A01459 COMPLETE (Batch651-703, 292 rows; BLOCKED A01807-A01803 >10MB; DUP A01827, A01798, A01797-확통) -> release + LOCK P1 A01458-A00820 (next P1 below; P4_FORWARD 정방향 frontier ~A00189)
+LOCK P1 A01458-A00820 (doc 1SeSQP_oFOAWibSmon9I9aqIAIomiiKlJA0cyCjbx-g0) ACTIVE. Triage: A00923(34MB zip), A00917(43MB hwp), A00884(73MB zip), A00880/A00879(>120MB), A00877-A00872 중학 기출문제집(11-30MB), A00856(49MB), A00848(20MB zip) -> BLOCKED-ACCESS >10MB; A00881 .egg BLOCKED-FORMAT
+Batch704-706 A00854 대영고 2022 2-1 기말 수학Ⅰ(21; 정답·채점기준 A00853 연결, 전 문항 일치) 21 rows; A00853 companion
+Batch707-711 A00852 대영고 2022 2-2 중간 수학Ⅱ(21; key A00851; 13번 아래첨자 −2⁺ 확대 판독 후 일치; 서답2 개방형 REVIEW) + A00850 대영고 2022 2-2 기말 수학Ⅱ(21; key A00849, 전 일치; 학생 필기 흔적) 42 rows; cum 15406
