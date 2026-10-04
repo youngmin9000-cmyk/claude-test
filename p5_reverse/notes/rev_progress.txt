@@ -116,3 +116,7 @@ A01757-A01755 수업 지도안 HWP -> NO_QUESTIONS (문제 번호만 참조); A0
 Batch642-650 A01670..A01665 지학사_고_대수 대단원 기출(3종×20)·서술형 문제(3종×10) PDF (렌더 시각판독+파일 정답·해설 전 문항 일치) 90 rows; cum 14860
 A01672/A01671 [비상교육] 고등_대수_수업 활용 문제북(학생/교사용) 23MB PDF -> DUPLICATE-FAMILY COMPOSITE (계산력 강화=A01673-A01705 본 스트림, 소단원 확인·수행 과제=P3_TO_P1 A01706-A01727) + 고유 구간(중단원 수준별 문제·대단원 TEST) 텍스트층 순서 뒤섞임·>10MB 렌더 불가 -> HOLD_SOURCE(NO_TEXT_RECHECK), not built
 A01751-A01749 지도서 PDF(13MB+) -> 정답 동반자료(문제 NOTE 정답, P3_TO_P1 repair 소관) companion, not built; A01748/A01747-A01745/A01740 교과서 PDF -> 교과서 HWP(A01737-39)·문제 NOTE와 동일 계열 duplicate representation(>10MB), not built
+LOCK doc 1RDDlAUzsRKNT5xpGggOmJZq7DwpjIP6Q1wY4Y34GCg0: release A01757-A01648, lock A01487-A01459 -> released 0 rows (P2_FORWARD disposition) via doc 1ZIUm5DHpYlMyG4RxgsqQHXHfRRcIr44IvrqkEZD7S6o, which also LOCKS P1 A01835-A01459 (P1 tier begins; P3_TO_P1 owns P1 >= A01836)
+Batch651-655 A01835 영신고 2020-2 중간 수학Ⅱ(21, 정답지 미연결 REVIEW) + A01834 영신고 2020-2 중간 고1수학(22, 정답 A01832·채점기준 A01833 연결: 전 22문항 일치, YES 19/그림 REVIEW 3) 43 rows; cum 14903
+A01833, A01832 -> COMPANION (A01834 정답/채점기준), not built separately
+Batch656-660 A01831 영신고 2019-2 기말 고1수학(전과목 원안 52쪽 중 20~25쪽, 22) + A01830 영신고 2019-2 기말 수학Ⅱ(전과목 원안 93쪽 중 6~11쪽, 22) 정답지 미연결 REVIEW 44 rows; cum 14947
