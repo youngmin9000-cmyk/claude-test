@@ -665,5 +665,158 @@
 "source_new_build_complete": "YES",
 "rows": 0,
 "repair_pending": "NO"
+},
+{
+"queue_id": "A02187",
+"decision": "DUPLICATE_REPRESENTATION (A02191)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02186",
+"decision": "DUPLICATE_REPRESENTATION (A02190)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02185",
+"decision": "DUPLICATE_REPRESENTATION (A02189)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02184",
+"decision": "DUPLICATE_REPRESENTATION (A02188)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02179",
+"decision": "DUPLICATE_REPRESENTATION (A02183)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02178",
+"decision": "DUPLICATE_REPRESENTATION (A02180)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02177",
+"decision": "DUPLICATE_REPRESENTATION (A02182)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02176",
+"decision": "DUPLICATE_REPRESENTATION (A02181)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02171",
+"decision": "DUPLICATE_REPRESENTATION (A02172)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02170",
+"decision": "DUPLICATE_REPRESENTATION (A02175)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02169",
+"decision": "DUPLICATE_REPRESENTATION (A02174)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02168",
+"decision": "DUPLICATE_REPRESENTATION (A02173)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02127",
+"decision": "DUPLICATE_REPRESENTATION (A02135 p14-19)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02113",
+"decision": "DUPLICATE_REPRESENTATION (A02115 (retyped))",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02152",
+"decision": "COMPANION_LINK_ONLY (A02153 객관식 정답 jpg)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02151",
+"decision": "COMPANION_LINK_ONLY (A02153 서술 해설 jpg)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02150",
+"decision": "COMPANION_LINK_ONLY (A02153 서술3 해설 jpg)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02122",
+"decision": "COMPANION_LINK_ONLY (A02123 정답/배점표 jpg)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02121",
+"decision": "COMPANION_LINK_ONLY (A02123 서답 채점기준 jpg)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02095",
+"decision": "COMPANION_LINK_ONLY (A02104 정답/배점표 (이전 COMPANION_ORPHAN 판정 정정))",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02094",
+"decision": "COMPANION_LINK_ONLY (A02104 채점기준 (이전 판정 정정))",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02036-A02195 lane",
+"decision": "LANE COMPLETE: 99 downloadable BUILD/CLASSIFY done; 55 HOLD_SOURCE_SIZE (>5.9MB connector limit); 5 EXCLUDE 비수학; A02114 118B txt = NO_ITEMS(메모)",
+"source_new_build_complete": "YES",
+"rows": 0
 }
 ]

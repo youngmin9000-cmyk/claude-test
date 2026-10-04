@@ -1,0 +1,489 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P1",
+ "batch": 24,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "1H-8zwh8GwTCNtCOyOJP7iRMYRNU6m6LP (P1 A02036-A02195; COMPLETE sources released)",
+ "sources": [
+  {
+   "queue_id": "A02047",
+   "drive_id": "1MuzOJLTH26SpnMpjMawey9ca_xW250mf",
+   "name": "2019-1학년-1학기-중간고사 수학.hwp",
+   "sha256": "fe49372f4b07840ae9a35991b14285966c9394383ccff709cb93231910ad75f6",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-23 (전체)",
+   "canonical_rows": 23,
+   "verdicts": {
+    "PASS": 22,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02046",
+   "drive_id": "15k9q6uQBbF3kRNV-USPG7Osd0UmUCvUM",
+   "name": "2019-2학년-1학기-중간고사 기하.hwp",
+   "sha256": "6a692003bebd7d77548ceeaab2243544ee144de1dc59a749cb09fad41a86b7ea",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-21 (전체)",
+   "canonical_rows": 21,
+   "verdicts": {
+    "PASS": 21
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02045",
+   "drive_id": "1v6NA3j-tId_NoKlOD3tyPw8yBiurr_E5",
+   "name": "2019-2학년-1학기-중간고사 수학I.hwp",
+   "sha256": "2b0b92112fd6d6481ef1db370cb5747aafe33b2fb0f1c71960e8936f165036d6",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-22 (전체)",
+   "canonical_rows": 22,
+   "verdicts": {
+    "PASS": 21,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02044",
+   "drive_id": "1WB-nK2TbP1_2gc2X943Hc5AKJPpQwuGV",
+   "name": "2019-1학년-1학기-기말고사 수학.hwp",
+   "sha256": "c3fb860a225a620b7b75711c05747f3e7c84d13776f353df7bd2625d5e96c247",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-23 (전체)",
+   "canonical_rows": 23,
+   "verdicts": {
+    "PASS": 22,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02043",
+   "drive_id": "15HcMuksODFjuppXMsvn_OwHHKpf6iXON",
+   "name": "2019-2학년-1학기-기말고사 수학I.hwp",
+   "sha256": "c3e995982dec82cb8ba35f2ae3d51b16d261e2337d0cb3309711d1e95b85b218",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-22 (전체)",
+   "canonical_rows": 22,
+   "verdicts": {
+    "PASS": 22
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02042",
+   "drive_id": "1jnDDCElYhrg0Y_MowXulzO9qdC-LM1fM",
+   "name": "2019-2학년-1학기-기말고사 기하.hwp",
+   "sha256": "3379f61c3f88dfd62cbaa60c9643389fbe53f559fea4e813e1614b478dcdc0c6",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-21 (전체)",
+   "canonical_rows": 21,
+   "verdicts": {
+    "PASS": 21
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02041",
+   "drive_id": "1tyDuTwudNyMCX2YTAvlUs0oiNzUsP35G",
+   "name": "2019-1학년-2학기-중간고사 수학.hwp",
+   "sha256": "dee857d47033aca73902ff72a3c5b029636c466fbd5312816b12ad43bb0e0448",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-23 (전체)",
+   "canonical_rows": 23,
+   "verdicts": {
+    "PASS": 23
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02040",
+   "drive_id": "1fg_bahFZPbVhrjhOT1gY8EskQqc31MNM",
+   "name": "2019-2학년-2학기-중간고사 기하.hwp",
+   "sha256": "6250f7339335513ca94ec9db6f5f8e7245fcdb3f68ee01a064db29deed8cca9b",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-21 (전체)",
+   "canonical_rows": 21,
+   "verdicts": {
+    "PASS": 21
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02039",
+   "drive_id": "10YM257MG5VajTPkHy6N4Gj098ifCCTLI",
+   "name": "2019-2학년-2학기-중간고사 수학II.hwp",
+   "sha256": "ac666dae583e886d35848dcaeb8271e56139e569517155508b36ea29a802843c",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-22 (전체)",
+   "canonical_rows": 22,
+   "verdicts": {
+    "PASS": 21,
+    "PASS_WITH_DEFECT": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02038",
+   "drive_id": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "name": "2019-2학년-2학기-기말고사 수학II.hwp",
+   "sha256": "03dcb4e69eab2b6c6efe9871052f63a01d5f35a7e93d0e52fa4eb22196f67072",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-22 (전체)",
+   "canonical_rows": 22,
+   "verdicts": {
+    "REVIEW": 18,
+    "PASS": 4
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02037",
+   "drive_id": "1LQVhsbBwpJYxKMCeLliNYYizT0FBJ3Vf",
+   "name": "2019-2학년-2학기-기말고사 기하.hwp",
+   "sha256": "2889ad6eb56372b89e13b5e2ee16d97a68a91dd1243d7afabe5e28cff0848801",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-21 (전체)",
+   "canonical_rows": 21,
+   "verdicts": {
+    "PASS": 21
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A02036",
+   "drive_id": "1AMaZr0zZ98BjZ6ijJWcHBdngVE9MsQ_A",
+   "name": "2019-1학년-2학기-기말고사 수학.hwp",
+   "sha256": "1ca612fb40bcdb4398cdc0155af509173ff64794e4db69e117fe8329abb82014",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-23 (전체)",
+   "canonical_rows": 23,
+   "verdicts": {
+    "PASS": 23
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 264,
+ "detail_rows_added": 0,
+ "PASS": 242,
+ "PASS_WITH_DEFECT": 4,
+ "REVIEW": 18,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 244,
+  "REVIEW": 20
+ },
+ "new_repair_queue_additions": 22,
+ "repair_queue": [
+  {
+   "phase": "P1",
+   "queue_id": "A02047",
+   "source": "1MuzOJLTH26SpnMpjMawey9ca_xW250mf",
+   "question": "20",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: 문항번호 20이 '29'로 잘못 표기(정답 ②는 20번으로 판단)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02045",
+   "source": "1v6NA3j-tId_NoKlOD3tyPw8yBiurr_E5",
+   "question": "서술형2",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설: 세 번째 모범답안에서 log_k5=1/a, log_k7=1/b를 log_k5=1/5, log_k7=1/7로 잘못 표기(결과 35는 정상)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02044",
+   "source": "1WB-nK2TbP1_2gc2X943Hc5AKJPpQwuGV",
+   "question": "서술형1",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "해설: BA 4:3 외분점 x좌표를 (24-3a)/3으로 씀(분모는 4-3=1); 결과 a=8에는 영향 없음",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02039",
+   "source": "10YM257MG5VajTPkHy6N4Gj098ifCCTLI",
+   "question": "13",
+   "page": "HWP(쪽없음)",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 닫힌구간 [0,4]라 했으나 그림에서 x=0, x=4가 열린 점(함숫값 미정의)이라 엄밀히는 불연속(S2=7, 답 -4 선지 없음); 끝점 제외 의도로 보면 0",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "01",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "02",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "03",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "04",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "05",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "06",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "07",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "08",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "09",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "10",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "11",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "12",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "13",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "14",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "15",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "16",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "17",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A02038",
+   "source": "1EmLyDzuTxR8lYxkpwrbPimRJ2aZ2znUP",
+   "question": "18",
+   "page": "HWP(쪽없음)",
+   "status": "REVIEW",
+   "reason": "REVIEW_NO_KEY",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  }
+ ],
+ "cumulative_rows": 12229,
+ "last_verified_completed_point": "A02036 미주순번 23 (source end)",
+ "next_actual_unfinished_point": "P1 A02096-A02195 신목고/수도/여의도/영등포/영신 (verifying)",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO"
+}
