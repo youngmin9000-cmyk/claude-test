@@ -1,0 +1,7 @@
+DB_COORDINATION_STATUS_P3_TO_P1_REVERSE_Batch006_20261004 (append-only supplement)
+P3_TO_P1_REVERSE (P3 lane, descending) — 1607 rows committed this batch, cumulative 3422.
+COMPLETE (new build): A00893/1Y1_-2a00Epo7uzg57KzoskS1hJwXsI6c, A00921_U01/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U02/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U03/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U04/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U05/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U06/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U07/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U08/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U09/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U10/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U11/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf, A00921_U12/1mE2h5Jyz9JKKyYKAAN5VyKyqoZWiITHf
+ACTIVE LOCK (unchanged): 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF covering remaining 마플시너지 수학1 HWP A02336..A02322 (not yet committed ones).
+Other streams read-only: P5->P4->P3->P2 REVERSE (LOCK A02589-A02500), P1 forward, P2 forward, P3 work/GEMINI, OFFICIAL, P5 REPAIR — no overlap, no mutation.
+Duplicate-family note: A00678 '[수1] 마플시너지 [PDF, 한글].zip' likely same book family as A02322-A02337 HWP -> dedup before any build.
+Next: A01822 (풍산자 반복수학 확률과 통계 본문, PDF 시각판독+해설PDF 1FMeZAcsthqf00sVj3RdZZV5IZBE-krGW 대조) — 진행중; 이후 A00908, A00698

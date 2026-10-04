@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch005_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=5 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00898 1mtzYzSrDOc5SeU2u2BsJqDm1BoqT_7cS [RPM 공통수학2]04_도형의 이동 106제.hwp rows=106 COMPLETE (LOCK released for this source) repair_pending=YES; A00897 11s_6Iy_kBKoJLIPnh3YW0AjbkIbHKFoR [RPM 공통수학2]05_집합의 뜻과 포함 관계 88제.hwp rows=88 COMPLETE (LOCK released for this source) repair_pending=YES; A00895 1BVpMQAVnH3pSmyQqao2eQBSTFAb_U5KB [RPM 공통수학2]07_명제 134제.hwp rows=134 COMPLETE (LOCK released for this source) repair_pending=YES; A00896 1Ticw-1PVN16Ugq0tqRc89SlP8LKkqmGr [RPM 공통수학2]06_집합의 연산 127제.hwp rows=127 COMPLETE (LOCK released for this source) repair_pending=YES; A00892 16ZgdNb8rLxxA6WvPgeUXGWFjK5fguwzz [RPM 공통수학2]10_무리함수 90제.hwp rows=90 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=545 (detail 0) PASS=478 PASS_WITH_DEFECT=38 REVIEW=3 HOLD=26 FAIL=0 production_ready={'YES': 502, 'REVIEW': 17, 'NO': 26}
+cumulative rows=1815; repair queue additions=67
+last verified completed point: A00892 미주순번 90 (source end)
+next actual unfinished point: A00893 (RPM 09_유리함수, 원번호 0912) — 검산 진행중; 이후 A00894(8MB, 다운로드 시도)
+LOCK: 1KXm4SLAIf0y1pM0QIGnAMZcyFrjuMp6Y (RPM A00901-A00892 ACTIVE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO
