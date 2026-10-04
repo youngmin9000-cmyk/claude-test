@@ -19,6 +19,8 @@ def R(q, page, big, mid, small, tid, tname, tags, diff, fmt, ans, summ, chk, lab
         chk = chk + "; 정답지 미연결(원안지만 수록) — 독립풀이 단독"
     if fig != "없음":
         kw['review'] = (kw.get('review', '') + ";REVIEW-그림판독").strip(';'); kw.setdefault('ready', "REVIEW")
+    if str(kw.get('review', '')).startswith(('REVIEW', 'HOLD')) and 'ready' not in kw:
+        kw['ready'] = "REVIEW"; kw.setdefault('status', "독립풀이·정답 대조(조건 판독 검토 필요)"); kw.setdefault('trust', "중간")
     kw.setdefault('trust', "높음(렌더 판독+정답지+독립풀이 일치)"); kw.setdefault('status', "검산완료(독립풀이·정답지 일치)")
     r = builder.row(q, "", P['SEC'], page, small, tid, tname, tags, combo, diff, tname + ". 계산량·조건해석·추론량 기준.", fmt, ans, atype, c, d, i, trap,
                     summ, chk, nsub, fig=fig, final=final, visual=P['VIS'], key=(P['KEY'] or {}).get(q, ""), **kw)
