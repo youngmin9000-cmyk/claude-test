@@ -1,0 +1,9 @@
+Upload 4 pre-built xlsx result files to Google Drive, one at a time, and verify each. The user has pre-approved creating new files; never modify, trash, or overwrite any existing Drive file.
+
+Scratchpad: /tmp/claude-0/-home-user-claude-test/b3c9c0b1-2d20-5f6f-a984-cabdebc0e83c/scratchpad/
+Files and the expected 문항DB range: Batch239 → A1:BU11, Batch240 → A1:BU6, Batch241 → A1:BU11, Batch242 → A1:BU11.
+For each NAME:
+1. Read the base64 text of the file <scratchpad>/<NAME>.b64 (a single line; read it fully with cat via Bash). Note its length and first/last 40 chars.
+2. Load Drive tools via ToolSearch ("select:mcp__Google_Drive__create_file,mcp__Google_Drive__read_file_content") and call mcp__Google_Drive__create_file with title "Math_Question_DB_P5_Result_<NAME>_20261004", parentId "15bmGGEQyuMnKLdvYfiRBCnhX-GX4NSEp", contentMimeType "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", base64Content = that base64 exactly (conversion left ON so it becomes a Google Sheet).
+3. Read the created file back (read_file_content). Confirm the sheet 문항DB spans the expected range and no cell contains "#ERROR!". If a check fails or the upload errors, upload again with title suffix _T2 (then _T3) and report the bad id; do not delete anything.
+Report a table: NAME | file id | 문항DB range | status, plus any defective ids.

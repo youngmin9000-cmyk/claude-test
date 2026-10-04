@@ -1,0 +1,14 @@
+[RELEASE] LOCK_P5REV_A02485-A02483 (id 15Nf9TizbE3byC5HP3_t6hZTWwlIy8-L1_JJg85JWVDw) -> RELEASED (committed)
+stream: P5->P4 REVERSE NEW BUILD (math-question-db skill v1.2, schema 1.2)
+- A02485 1iSuWlZthUTTz26NE-jNKOHg7iBUvY2Zv  1. 수열의 극한 107제(미래엔-용문아).hwp -> Batch336-346, 107 rows (cum 11942)
+- A02484 1bRTtMlwWdxQqg4tgHQxyDDe552v0DVgz  2. 미분법 224제(미래엔-용문아).hwp -> Batch347-369, 224 rows (cum 12166)
+- A02483 1375CIRtowB3Qg0VFKzv6f3ioYkOd6UWj  3. 적분법 132제(미래엔-용문아).hwp -> Batch370-383, 132 rows (cum 12298)
+All answers independently solved and compared with in-file key; no answer conflicts. Figure/graph items REVIEW-그래프시각확인; items whose 조건표/보기/식 not extracted REVIEW-그림판독.
+Result files: Math_Question_DB_P5_Result_BatchNNN_20261004 (upload in progress, ids recorded in next checkpoint).
+
+[NEW LOCK] LOCK_P5REV_A02482-A02477  state: ACTIVE
+stream: P5->P4 REVERSE NEW BUILD; acquired 2026-10-04
+queue range (descending): A02482 01_01_함수의 극한.pdf (1_IYcdunlhDKywnyCNsdxKHqB_g5vnW_I), A02481 01_02_함수의 연속.pdf (1qynpvuiXNS8dG8h6Ea-0pP5g0mW_xCHP), A02480 02_01_미분계수와 도함수.pdf (1J6rKfLbNlQ_CFJdMhTaV27OcZO8o6_3Q), A02479 02_02_도함수의 활용.pdf (1du8wWSjIxFSsM8kIb-mejRc9cdy0TqBV), A02478 03_01_부정적분과 정적분.pdf (1zrrM-QsN5XSrr2VvoXIprknImy_NapHN), A02477 03_02_정적분의 활용.pdf (1omWNNrrRvUkCx5PJLHg5cSTY4l5kbQek)
+scope: whole files (미래엔 수학Ⅱ 교과서 chapter PDFs); companion answer key: none known (예제 verified by worked solution; others REVIEW-정답지미연결 unless key found)
+collision check: P2 forward LOCK A01020-A01044; P4 forward LOCK A00016-A00019; P1 QC repair / P5 repair separate streams. No overlap.
+next after this lock: A02476..A02470 (미래엔/비상 확률과통계 PDFs)

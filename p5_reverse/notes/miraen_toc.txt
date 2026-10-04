@@ -1,0 +1,19 @@
+# 미래엔 고1 수학(상) 2015 개정 — chapter start pages
+# Offset: book page = PDF page + 9 (checked on every printed running header, PDF pp.3-121)
+# "PDF p." = page in the 341-page PDF; "book p." = printed page number
+Ⅰ 다항식 (대단원 opener)            PDF p.1    (book p.10)
+Ⅰ-1 다항식의 연산                    PDF p.3    (book p.12)   중단원 마무리 PDF p.13 (book p.22)
+Ⅰ-2 나머지정리와 인수분해            PDF p.16   (book p.25)   중단원 마무리 PDF p.30 (book p.39)
+Ⅰ 대단원 평가하기                    PDF p.33   (book p.42)
+Ⅱ 방정식과 부등식 (opener)           PDF p.39   (book p.48)
+Ⅱ-1 복소수와 이차방정식              PDF p.41   (book p.50)   중단원 마무리 PDF p.57 (book p.66)
+Ⅱ-2 이차방정식과 이차함수            PDF p.60   (book p.69)   중단원 마무리 PDF p.70 (book p.79)
+Ⅱ-3 여러 가지 방정식과 부등식        PDF p.73   (book p.82)   중단원 마무리 PDF p.90 (book p.99)
+Ⅱ 대단원 평가하기                    PDF p.93   (book p.102)
+Ⅲ 도형의 방정식 (opener)             PDF p.99   (book p.108)
+Ⅲ-1 평면좌표                         PDF p.101  (book p.110)  중단원 마무리 PDF p.112 (book p.121)
+Ⅲ-2 직선의 방정식                    PDF p.115  (book p.124)
+--- Drive text extraction ends at PDF p.122 (book p.131); the pages below are NOT read ---
+Ⅲ-3 원의 방정식                      PDF p.129 inferred (book p.138, per caller; not read)
+Ⅲ-4 도형의 이동                      PDF p.143 inferred (book p.152, if Ⅲ-3 ends at book p.151; not read)
+정답과 풀이 / 빠른정답               not read (would be in PDF pp.123-341)

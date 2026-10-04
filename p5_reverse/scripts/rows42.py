@@ -1,0 +1,81 @@
+from cfgy2 import *
+import cfgy2, builder, bisect
+SQ = hashlib.sha256(open(OUT+'h42/Q.hwp','rb').read()).hexdigest()
+IT = json.load(open(OUT+'y42.json'))
+setup(QID="A02442", SRC="1zqi4-jN0Ip9nz_6mv0oiuEB7ANMkIBdW", SHA=SQ, TAG="YMJH06", N=55, SUBJ="수학(하)", SEC="S06A",
+      FNAME="06 경우의 수(지학사) 55제.hwp", UNIT="Ⅵ. 경우의 수", BIG="Ⅵ. 경우의 수", EXAM="6. 경우의 수 55제", MID="경우의 수")
+cfgy2.P.update(BOOK="지학사 수학(하)", GRADE="고1", MEMO_X="편집본에 소단원 표제 없음 — 내용·'스스로 익히는/마무리하는' 표제로 구간 판정; ")
+B = [1, 12, 23, 35, 44]
+MIDS = ["합의 법칙과 곱의 법칙", "순열", "조합", "경우의 수(중단원 마무리)", "경우의 수 종합(대단원 마무리)"]
+SECS = [f"S06{chr(65+j)}" for j in range(len(B))]
+for s, mid in zip(SECS, MIDS): builder.SECTIONS[s] = ("6. 경우의 수 55제", mid)
+L, M, H = "낮음", "보통", "높음"
+S, D, ACT, PRF, MC = "서술형(단답)", "서술형", "서술형(활동)", "서술형(증명)", "객관식(5지선다)"
+K1, K2, K3 = "합의 법칙과 곱의 법칙", "순열", "조합"
+def r(q, small, tid, tname, tags, diff, fmt, ans, atype="값", nsub=1, fig="없음", final=None, combo="단일개념", c=L, d=L, i=L, trap="", why="", chk="독립풀이 일치", **kw):
+    cfgy2.P['SEC'] = SECS[bisect.bisect_right(B, q) - 1]
+    R(q, IT[q-1], small, tid, tname, tags, combo, diff, why or tname + ".", fmt, ans, atype, c, d, i, trap, chk, nsub=nsub, fig=fig, final=final, **kw)
+FK = dict(review="REVIEW-그림판독", chk="그림 객체 미추출 — 파일 정답 기준(그림 조건 독립검증 불가)")
+CK = dict(review="REVIEW-조건미추출", chk="조건·식(수식/표 객체) 본문 미추출 — 파일 정답 기준")
+OP = dict(review="REVIEW-개방형", chk="개방형·발표 활동 — 정답 예시")
+r(1, K1, "COUNT.ORDERED_PAIRS.SUM", "합이 일정한 자연수 순서쌍(준비)", "경우의 수", "하", S, "9")
+r(2, K1, "COUNT.DIE.MULTIPLES", "주사위 눈 배수 경우의 수(준비)", "경우의 수", "하", S, "3")
+r(3, K1, "COUNT.COIN_DIE.PRODUCT", "동전과 주사위 동시(준비)", "곱의 법칙", "하", S, "12")
+r(4, K1, "COUNT.SUM_PRODUCT.CLOTHES", "옷 고르기 합·곱의 법칙(탐구)", "합의 법칙;곱의 법칙;수형도", "하", ACT, "(1) 5 (2) 6", "값(소문항별)", 2, fig="그림", chk="독립풀이 일치(3+2, 3×2)")
+r(5, K1, "SUM_RULE.MULTIPLES.OR", "3 또는 7의 배수 개수(예제)", "합의 법칙", "하", S, "8", trap="공배수(21) 범위 밖")
+r(6, K1, "SUM_RULE.MULTIPLES.CARDS", "4 또는 5의 배수 카드", "합의 법칙", "하", S, "6", chk="독립풀이 일치(본문 '1부터 5까지…15장'은 '1부터 15까지' 오기로 판단: 4의 배수 3 + 5의 배수 3)")
+r(7, K1, "SUM_RULE.MENU", "한식·양식 중 한 가지 택하기", "합의 법칙", "하", S, "5", fig="표")
+r(8, K1, "PRODUCT_RULE.DIGITS", "십의 자리 짝수·일의 자리 홀수", "곱의 법칙", "하", S, "20", chk="독립풀이 일치(4×5)")
+r(9, K1, "PRODUCT_RULE.ROUTES", "경유 길 경우의 수", "곱의 법칙", "하", S, "6", fig="그림", **FK)
+r(10, K1, "PRODUCT_RULE.ODD_PRODUCT_CARDS", "두 카드 곱이 홀수", "곱의 법칙", "하", S, "15", chk="독립풀이 일치(5×3)")
+r(11, K1, "PRODUCT_RULE.DIVISOR_COUNT", "약수의 개수(탐구)", "곱의 법칙;소인수분해", "하", ACT, "(1) 8 (2) 12 (3) 6", "값(소문항별)", 3, chk="독립풀이 일치(54=2·3³, 72=2³·3², 725=5²·29)")
+r(12, K2, "PERM.CONTEXT.PENALTY_ORDER", "승부차기 순서·두 자리 수(탐구)", "순열", "하", ACT, "(1) 55440 (2) 6", "값(소문항별)", 2, final="55440 (빠른 정답은 (1)만 표기)", fig="표", chk="독립풀이 (1) ₁₁P₅=55440 일치, (2) ₃P₂=6(빠른 정답 미표기)")
+r(13, K2, "PERM.NPR.EVAL", "순열의 수 계산", "순열", "하", S, "(1) 42 (2) 8", "값(소문항별)", 2)
+r(14, K2, "PERM.OFFICERS", "회장·부회장 뽑기(예제)", "순열", "하", S, "90")
+r(15, K2, "PERM.TOUR_ORDER", "관광지 3곳 순서", "순열", "하", S, "24")
+r(16, K2, "PERM.FACTORIAL.EVAL", "nPn, 0!, nP0 계산", "순열;계승", "하", S, "(1) 6 (2) 120 (3) 1", "값(소문항별)", 3, trap="0!=1, nP0=1")
+r(17, K2, "PERM.FACTORIAL_FORM.FILL", "순열의 계승 표현 빈칸", "순열;계승", "하", S, "(1) 2 (2) 3", "값(소문항별)", 2, chk="(1) 독립풀이 일치; (2) 본문 '₆P□=8!/5!'은 ₈P□의 추출 오기로 보임(8!/5!=₈P₃) — 파일 정답 기준", review="REVIEW-조건미추출")
+r(18, K2, "PERM.DIGITS.EVEN", "세 자리 짝수 개수(예제)", "순열;곱의 법칙", "하", S, "24", final="48 (원답지) — 독립풀이·해설 24",
+  ready="REVIEW", status="정답 불일치(독립풀이·해설 24 vs 빠른 정답 48)", trust="중간(빠른 정답 오기 의심)", review="REVIEW-정답충돌",
+  conflict="빠른 정답 48 — 동일 파일 해설은 2×₄P₂=24로 독립풀이와 일치", chk="독립풀이 24(일의 자리 2·4 중 1, 나머지 ₄P₂=12); 원답지 48 유지·충돌 기록")
+r(19, K2, "PERM.DIGITS.ODD_AND_BOUND", "홀수·300 미만 세 자리 수", "순열;곱의 법칙", "하", S, "(1) 60 (2) 40", "값(소문항별)", 2)
+r(20, K2, "PERM.ADJACENT.BLOCK", "두 사람 이웃(묶음)", "순열", "하", S, "48", fig="그림", chk="독립풀이 일치(4!×2)")
+r(21, K2, "PERM.ADJACENT_AND_ENDS", "이웃·양 끝 조건 줄 세우기", "순열", "중하", S, "(1) 240 (2) 288", "값(소문항별)", 2, c=M, chk="독립풀이 일치(5!×2, ₄P₂×4!)")
+r(22, K2, "PERM.CONTEXT.BUCKET_LIST", "버킷 리스트 실행 순서(활동)", "순열", "하", ACT, "예: 5가지 → 5!=120", "값", final="120(예시)", **OP)
+r(23, K3, "COMB.VS_PERM.LIST", "조합과 순열 나열 비교(탐구)", "조합;순열", "하", ACT, "(1) 3 (2) 6", "값(소문항별)", 2)
+r(24, K3, "COMB.NCR.EVAL", "조합의 수 계산", "조합", "하", S, "(1) 10 (2) 1 (3) 1", "값(소문항별)", 3)
+r(25, K3, "COMB.IDENTITY.SYMMETRY_PROOF", "nCr=nCn−r 증명", "조합", "하", PRF, "계승 공식으로 정리 → 성립", "증명", final="풀이참조", chk="증명할 등식 본문 미추출(해설에서 nCr=nCn−r 확인) — 풀이참조")
+r(26, K3, "COMB.EQUATION.SYMMETRY", "nCr 등식 만족 n, r", "조합", "하", S, "(1) n=7 (2) r=6", "값(소문항별)", 2, final="(1) n=9 (2) r=6 (원답지) — 독립풀이 (1) n=7",
+  ready="REVIEW", status="정답 불일치((1) 독립풀이 7 vs 빠른 정답 9)", trust="중간(원답지 오기 또는 본문 추출 차이 의심)", review="REVIEW-정답충돌",
+  conflict="본문 ₙC₂=ₙC₅ → n=2+5=7; 빠른 정답 9(해설 없음) — 원문이 ₙC₂=ₙC₇일 가능성 포함 시각 재확인 필요", chk="독립풀이 (1) 7, (2) 6 일치; 원답지 (1) 9 유지·충돌 기록")
+r(27, K3, "COMB.CHOOSE_PLACES", "7곳 중 4곳 택하기", "조합", "하", S, "35")
+r(28, K3, "COMB.SUBSETS.SIZE", "원소 2개 부분집합 개수", "조합;부분집합", "하", S, "10")
+r(29, K3, "COMB.GEOMETRY.CIRCLE_POINTS", "원 위 점으로 선분·삼각형", "조합;도형의 개수", "하", S, "(1) 15 (2) 20", "값(소문항별)", 2, fig="그림", chk="독립풀이 일치(₆C₂, ₆C₃)")
+r(30, K3, "COMB.MIXED_SELECTION.PARITY", "홀수 2·짝수 2 공 택하기", "조합;곱의 법칙", "하", S, "60", chk="독립풀이 일치(₅C₂×₄C₂)")
+r(31, K3, "COMB.MIXED_SELECTION.GENDER", "남1·여2 뽑기", "조합;곱의 법칙", "하", S, "12")
+r(32, K3, "COMB.GEOMETRY.PARALLELOGRAMS", "평행선으로 만든 평행사변형", "조합;도형의 개수", "하", S, "30", fig="그림", chk="독립풀이 일치(₃C₂×₅C₂)")
+r(33, K3, "PERM_COMB.LARGE_NUMBERS", "큰 수의 순열·조합 계산(문제)", "순열;조합", "하", S, "(1) 17100720 (2) 142506 (3) 55440", "값(소문항별)", 3, **CK)
+r(34, K3, "COMB.IDENTITY.STORY_PROOF", "이야기로 조합 등식 증명(활동)", "조합;조합의 성질", "중하", ACT, "풀이참조(nCr=nCn−r, nCr=n−1Cr−1+n−1Cr 등)", "증명", final="풀이참조", i=M, **OP)
+r(35, K1, "SUM_RULE.DIGIT_SUM", "자리 숫자 합 2 또는 9", "합의 법칙", "하", S, "11", chk="독립풀이 일치(2+9)", trap="십의 자리 0 불가")
+r(36, K3, "COMB.PARITY_SUM.CARDS", "두 카드 합이 홀수", "조합;곱의 법칙", "하", S, "12", chk="독립풀이 일치(홀4×짝3; 본문 '7장 중 2장' 일부 누락)")
+r(37, K2, "PERM.BASIC", "일렬로 세우기", "순열", "하", S, "(1) 24 (2) 120", "값(소문항별)", 2)
+r(38, K3, "COMB.EXCLUDE_PERSON", "특정인 제외하고 뽑기", "조합", "하", S, "(1) 56 (2) 35", "값(소문항별)", 2)
+r(39, K2, "PERM.BOXES_BALLS", "상자 택해 서로 다른 공 넣기", "순열", "하", S, "120", chk="독립풀이 일치(₆P₃)")
+r(40, K2, "PERM.BIJECTION_COUNT", "일대일 대응 개수", "순열;함수", "하", S, "24")
+r(41, K3, "COMB.GEOMETRY.RIGHT_TRIANGLES_CIRCLE", "원 위 등간격 점 직각삼각형", "조합;원주각", "중하", S, "24", fig="그림", i=M, chk="독립풀이 일치(지름 4개×나머지 6점)")
+r(42, K3, "PERM_COMB.INCLUDE_AND_ORDER", "특정 선수 포함·순서 배치", "조합;순열", "중하", S, "(1) 10 (2) 60", "값(소문항별)", 2, combo="복합(조합+순열)", chk="독립풀이 일치(₅C₃, ₅C₃×3!)")
+r(43, K3, "COMB.ORDERED_TRIPLES.CONDITIONS", "조건 만족 순서쌍 (a, b, c) 개수", "조합", "중하", S, "20", c=M, **CK)
+r(44, K3, "COMB.CARDS.PRODUCT_BOUND", "두 카드 곱 6 이하(객관식)", "조합", "하", MC, "④ (4)", "선택지", final="④")
+r(45, K1, "PRODUCT_RULE.EXPANSION_TERMS", "전개식 항의 개수(객관식)", "곱의 법칙", "하", MC, "② (8)", "선택지", final="②")
+r(46, K2, "PERM.BOOKS_ORDER", "6권 중 4권 순서(객관식)", "순열", "하", MC, "⑤ (360)", "선택지", final="⑤")
+r(47, K1, "PRODUCT_RULE.PIZZA_TABLE", "피자 주문 경우의 수(객관식)", "합의 법칙;곱의 법칙", "하", MC, "③ (27)", "선택지", final="③", fig="표", review="REVIEW-조건미추출", chk="표 구조 미추출 — 해설 표에 피자 이름 12개가 보이나 27=9×3과 맞지 않음(표 구분 조건 미확인) — 파일 정답 기준")
+r(48, K1, "PRODUCT_RULE.DIVISORS_MULTIPLE_OF_3", "약수 중 3의 배수(객관식)", "곱의 법칙;약수", "하", MC, "④ (8)", "선택지", final="④", chk="독립풀이 일치(162=2·3⁴ → 2×4)")
+r(49, K2, "PERM.ENDS_AND_ADJACENT", "양 끝 제작진·배우 이웃(객관식)", "순열", "중하", MC, "① (24)", "선택지", final="①", c=M, chk="독립풀이 일치(₃P₂×2×2)")
+r(50, K2, "PERM.DIGITS.GREATER_THAN", "35000보다 큰 다섯 자리 수(객관식)", "순열", "중하", MC, "④ (54)", "선택지", final="④", c=M, chk="독립풀이 일치(2×4!+3!)")
+r(51, K2, "PERM.NON_ADJACENT.GAPS", "모음끼리 이웃하지 않게(객관식)", "순열", "중하", MC, "③ (144)", "선택지", final="③", c=M, trap="자음 사이 틈에 배치", chk="독립풀이 일치(3!×₄P₃)")
+r(52, K3, "PERM_COMB.SUM", "조합+순열 a+b", "조합;순열", "하", S, "135", chk="독립풀이 일치(45+90)")
+r(53, K3, "COMB.SUBSETS.MIN_MAX_CONDITION", "조건 만족 부분집합 개수(서술형)", "조합;부분집합", "중", D, "22", c=M, i=M, **CK)
+r(54, K3, "COMB.FUNCTIONS.INJECTIVE_INCREASING", "일대일함수·증가함수 개수(서술형)", "순열;조합;함수", "중하", D, "(1) 60 (2) 10", "값(소문항별)", 2, final="(1) 60 (2) 10", chk="독립풀이 = 해설 결과 일치(빠른 정답 '풀이참조')")
+r(55, K1, "SUM_PRODUCT.PARK_ROUTES", "산책로 경로 수(서술형)", "합의 법칙;곱의 법칙", "중하", D, "15", final="15", fig="그림", chk="해설 경로 분해 3+6+2+4=15 — 그림 미확인")
+for i in range(6): build(f"Batch{541+i}", ROWS[i*10:(i+1)*10], 13795+i*10)
+print(len(ROWS))

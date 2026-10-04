@@ -1,0 +1,106 @@
+Batch227 A02619(+A02651) 10 rows REVIEW Q6 graph; cum 10880
+Batch228 A02588(+A02618) 10 rows REVIEW Q5 key notation conflict; cum 10890
+Batch229-232 A02617(+A02616) 40 rows REVIEW Q12,14,16,17,26,33,36 graph; cum 10930
+Batch233 A02584(+A02615) 4 rows; cum 10934
+Batch234 A02581(+A02614) 10 rows REVIEW Q10 graph; cum 10944
+Batch235-236 A02613(+A02612) 15 rows; cum 10959
+Batch237 A02611(+A02610) 5 rows REVIEW Q1,Q3,Q4 figure; cum 10964
+Batch238 A02609(+A02576) 10 rows REVIEW Q9 key-header conflict; cum 10974
+Batch239 A02575(+A02608) 10 rows REVIEW Q3 graph; cum 10984
+Batch240 A02574(+A02607) 5 rows REVIEW Q1 graph; cum 10989
+Batch241 A02571(+A02606) 10 rows; cum 10999
+Batch242 A02605(+A02604) 10 rows; cum 11009
+Batch243 A02603(+A02568) 10 rows REVIEW Q2 source error; cum 11019
+Batch244 A02602(+A02601) 5 rows; cum 11024
+Batch245 A02600(+A02567) 10 rows; cum 11034
+Batch246 A02599(+A02598) 10 rows; cum 11044
+Batch247 A02597(+A02596) 10 rows REVIEW Q4 key conflict (indep 3/2 vs key 4); cum 11054
+Batch248-250 A02595(+A02594) 24 rows REVIEW Q6,8,14 graph; cum 11078
+Batch251 A02593(+A02592) 5 rows; cum 11083
+Batch252 A02562(+A02591) 10 rows; cum 11093
+Batch253 A02590(+A02561) 4 rows REVIEW Q1 graph; cum 11097
+Batch254 A02589(+A02560) 10 rows; cum 11107
+Batch255 A02555(+A02587) 10 rows; cum 11117
+Batch256-257 A02586(+A02554) 20 rows (2부: 미분계수10/도함수10) REVIEW 1-2,1-4,1-5,1-7 graph; cum 11137
+Batch258-259 A02553(+A02585) 20 rows (2부); cum 11157
+Batch260 A02559(+A02558) 10 rows REVIEW Q3,4,7,8,9 graph; cum 11167
+Batch261 A02557(+A02556) 5 rows; cum 11172
+Batch262 A02552(+A02551) 10 rows REVIEW Q1 graph; cum 11182
+Batch263 A02550(+A02539) 10 rows REVIEW Q10 graph; cum 11192
+Batch264 A02549(+A02532) 10 rows REVIEW Q8 원문모호(f≡0); cum 11202
+Batch265 A02516(+A02548) 10 rows; cum 11212
+Batch266-267 A02547(+A02511) 20 rows REVIEW Q17 graph; cum 11232
+Batch268 A02546(+A02510) 5 rows REVIEW Q3 graph; cum 11237
+Batch269 A02509(+A02545) 10 rows REVIEW Q4 graph; cum 11247
+Batch270 A02544(+A02543) 10 rows REVIEW Q5,6,9 graph; Q10 key conflict(16 vs 8); cum 11257
+Batch271 A02542(+A02506) 10 rows; cum 11267
+Batch272 A02541(+A02540) 10 rows REVIEW Q5 graph; Q10 원문-해설 불일치(x³+x+2 vs x³+2); cum 11277
+Batch273 A02538(+A02537) 10 rows all YES; cum 11287
+Batch274-276 A02536(+A02505) 24 rows REVIEW Q9,Q15 graph; cum 11311
+Batch277 A02535(+A02504) 5 rows all YES; cum 11316
+Batch278 A02534(+A02533) 10 rows all YES; cum 11326
+Batch279 A02531(+A02530) 5 rows REVIEW Q5 graph; cum 11331
+Batch280 A02529(+A02528) 10 rows all YES; cum 11341
+Batch281 A02527(+A02526) 10 rows REVIEW Q9 graph; cum 11351
+Batch282 A02525(+A02503) 10 rows REVIEW Q1 원문모호(발산), Q5,Q10 graph; cum 11361
+Batch283 A02502(+A02524) 10 rows all YES; cum 11371
+Batch284-285 A02501(+A02523) 20 rows REVIEW Q12,Q14 graph; Q19 원문오타; cum 11391
+Batch286 A02500(+A02522) 5 rows all YES; cum 11396
+Batch287 A02521(+A02520) 10 rows all YES; cum 11406
+Batch288 A02519(+A02518) 5 rows all YES; cum 11411
+Batch289 A02514(+A02513) 10 rows REVIEW Q7 graph; cum 11421
+Batch290 A02508(+A02507) 5 rows REVIEW Q3,Q4 graph; cum 11426
+Batch291 A02515(+below-range A 1Z3N2x) 10 rows REVIEW Q9 graph; cum 11436
+Batch292 A02499(+A02498) 10 rows all YES; cum 11446
+Batch293 A02497(+companion A02517) 10 rows REVIEW Q10 key conflict (key x⁶; correct 6x⁵); cum 11456
+Batch294 A02495(+companion A02512) 10 rows all YES; cum 11466
+Batch295-297 A02489 (미래엔 Ⅲ-3 원의 방정식 chapter PDF) 30 rows; 예제 6 YES, 문제/마무리 24 REVIEW-정답지미연결; cum 11496
+Batch298-300 A02488 (미래엔 Ⅲ-2 직선의 방정식 chapter PDF) 25 rows; 예제 3 YES, 22 REVIEW-정답지미연결; cum 11521
+Batch301-305 A02487 (미래엔 Ⅲ-4 도형의 이동 + Ⅲ 대단원평가 chapter PDF) 49 rows; 예제 3 YES, 46 REVIEW-정답지미연결; cum 11570
+Batch306-309 A02486 Ⅰ-1 다항식의 연산 (full book p.13-24) 31 rows; 예제 4 YES; cum 11601
+Batch310-316 A02486 Ⅰ-2 + Ⅰ대단원 (book p.26-45) 64 rows; 예제 9 YES; 대단원15,24 그림판독; cum 11665
+Batch317-321 A02486 Ⅱ-1 복소수와 이차방정식 (book p.52-68) 41 rows; 예제 7 YES; cum 11706
+Batch322-324 A02486 Ⅱ-2 이차방정식과 이차함수 (book p.70-81) 30 rows; 예제 6 YES; cum 11736
+Batch325-329 A02486 Ⅱ-3 여러 가지 방정식과 부등식 (book p.83-101) 47 rows; 예제 14 YES; cum 11783
+Batch330-332 A02486 Ⅱ 대단원평가 (book p.102-105) 24 rows; cum 11807
+Batch333-335 A02486 Ⅲ-1 평면좌표 (book p.111-123) 28 rows; 예제 3 YES; cum 11835. A02486 readable part complete (PDF1-122); PDF 123-341 HOLD; book p.124-131 = A02488 duplicate
+R1 rebuild Batch295-335 (369 rows): 문항ID/시험ID prefix corrected to d+sha256(DriveID)[:11]; originals superseded (no cum change); authoritative = BatchNNNR1
+Batch336-346 A02485 수열의 극한 107제 (용문아 미래엔 미적분 편집본) 107 rows; graph items REVIEW; cum 11942
+Batch347-369 A02484 미분법 224제 (용문아 미래엔 미적분 편집본) 224 rows; graph/figure items REVIEW, 201·218 REVIEW-그림판독; cum 12166
+Batch370-383 A02483 적분법 132제 (용문아 미래엔 미적분 편집본) 132 rows; figure/조건미추출 REVIEW 17; cum 12298
+Batch384-387 A02482 미래엔 수학Ⅱ 01_01 함수의 극한 (PDF 렌더 시각판독; 정답지 없음→예제 6 YES, 나머지 REVIEW-정답지미연결) 38 rows; cum 12336
+Batch388-392 A02481 미래엔 수학Ⅱ 01_02 함수의 연속 + Ⅰ 대단원평가 (렌더 시각판독; 예제 3 YES) 49 rows; cum 12385
+Batch393-396 A02480 미래엔 수학Ⅱ 02_01 미분계수와 도함수 (렌더 시각판독; 예제 7 YES) 37 rows; cum 12422
+Batch397-405 A02479 미래엔 수학Ⅱ 02_02 도함수의 활용 + Ⅱ 대단원평가 (렌더 시각판독; 예제 YES) 85 rows; cum 12507
+Batch406-409 A02478 미래엔 수학Ⅱ 03_01 부정적분과 정적분 (렌더 시각판독; 예제 YES) 39 rows; cum 12546
+Batch410-415 A02477 미래엔 수학Ⅱ 03_02 정적분의 활용 + Ⅲ 대단원평가 (렌더 시각판독; 예제 YES) 67 rows; cum 12613. LOCK A02482-A02477 sources complete
+Batch416-418 A02476 미래엔 확통 1-1 순열과 조합 (Drive 텍스트층, 10MB 초과; 예제 YES, 문제6·마무리04 HOLD 그림/첨자) 30 rows; cum 12643
+Batch419-423 A02475 미래엔 확통 1-2 이항정리 + Ⅰ 대단원평가 (Drive 텍스트층; 대단원11·21 HOLD 그림) 42 rows; cum 12685
+Batch424-426 A02474 미래엔 확통 2-1 확률의 뜻과 활용 (Drive 텍스트층) 28 rows; cum 12713
+Batch427-431 A02473 미래엔 확통 2-2 조건부확률 + Ⅱ 대단원평가 (Drive 텍스트층) 47 rows; cum 12760
+Batch432-436 A02472 미래엔 확통 3-1 확률분포 (Drive 텍스트층; 01-문제5·04-문제1·마무리07 HOLD 그림) 48 rows; cum 12808
+Batch437-441 A02471 미래엔 확통 3-2 통계적 추정 + Ⅲ 대단원평가 (Drive 텍스트층; 대단원21 REVIEW 출제조건) 45 rows; cum 12853
+Batch442-460 A02470 비상 확통 교과서 PARTIAL(텍스트층 p77 절단; 판독 p10-33·36-69·72-77·128-135) 182 rows; cum 13035
+Batch461-466 A02466 06 경우의 수(신사고) 60제 HWP 용문아 (quick 60 일치) 60 rows; cum 13095
+A02469/A02468/A02467 ACCESS_BLOCKED: >9MB(HWP 9.1MB MCP 전송 한계, zip 14.4/15.0MB >10MB)
+Batch467-476 A02465 05 함수(신사고) 92제 HWP 용문아 (quick 92 일치) 92 rows; cum 13187
+Batch477-492 A02464 03 도형의 방정식(신사고) 157제 HWP 용문아 (quick 158=20번 2줄 분리, 병합 후 157 일치) 157 rows; cum 13344
+A02463 ACCESS_BLOCKED: 6.6MB HWP MCP 전송 한계
+Batch493-495 A02462 [대단원평가문제] Ⅰ 지수함수+로그함수 (신사고 수학Ⅰ, 답표 24 일치) 24 rows; cum 13368
+Batch496-505 A02461 01 다항식(신사고) 92제 HWP 용문아 (quick 92 일치) 92 rows; cum 13460
+Batch506-517 A02460 04 집합과 명제(신사고) 118제 HWP 용문아 (거짓항목 2 병합 후 quick 118 일치) 118 rows; cum 13578
+Batch518-526 A02454 신사고 수학Ⅱ 1단원 용문아 PDF (렌더 시각판독; 83 일치, 66·71 원답지 오류 충돌 REVIEW) 85 rows; cum 13663
+PENDING DOC: LOCK_RELEASE_P5REV_A02459-A02450_DONE_and_LOCK_P5REV_A02449-A02440_CHECKPOINT_Batch518-526 (quota error, retry)
+A02459/58/57/56/55/53/52/51/50 BLOCKED (no usable text/size); A02454 built
+Batch527-540 A02443 지학사 수학(상) 03 도형의 방정식 132제 (HWP; 132 독립풀이 일치, 74·130-132 빠른정답 공란/풀이참조→해설값, 34·35 문항경계 REVIEW) 132 rows; cum 13795
+Batch541-546 A02442 지학사 수학(하) 06 경우의 수 55제 (HWP; 18·26 원답지 충돌 REVIEW, 47 표 구조 미확인) 55 rows; cum 13850
+Batch547-555 A02441 지학사 수학(하) 05 함수 91제(본문 89문항; 빠른정답 91=개념빈칸 2개 분리) (HWP; 62 원답지 복사오류 충돌 REVIEW) 89 rows; cum 13939
+Batch556-564 A02440 천재(이) 확통 Ⅱ단원 PDF (Drive 텍스트층 42~79쪽 전체; 정답지 140~142쪽 미포함 → 독립풀이 REVIEW-정답지미연결, 그림 4문항 HOLD) 84 rows; cum 14023
+LOCK DOC 1-w9DcpNbRx2Ty5FmBMlx8cyWrQXjYMqTDTuemj-AZP4: release A02449-40, lock A02439-30, checkpoint Batch527-564 (read back OK)
+Batch565-575 A02439 천재(이) 확통 Ⅲ단원 PDF (Drive 텍스트층 80~135쪽 전체; 정답 144~147쪽 미포함 → REVIEW-정답지미연결; 그림/표 6 HOLD) 107 rows; cum 14130
+BLOCKED: A02436 천재(이) 확통 문제 한글.hwp 6.56MB (MCP transport limit), A02437 확통 천재류 문제 한글.hwp 8.2MB (same) — likely companion/duplicate of A02438-40 problems; not built
+Batch576-583 A02438 천재(이) 확통 Ⅰ단원 PDF (Drive 텍스트층 8~41쪽 전체; 정답 136~139쪽 미포함 → REVIEW-정답지미연결; 그림 7 HOLD) 80 rows; cum 14210
+Batch584-597 A02435 수학Ⅰ Ⅰ단원 지수함수와 로그함수 PDF (5.0MB 다운로드, 텍스트층 지수 소실 → 58쪽 렌더 시각판독; 정답 164~170쪽 미포함 → REVIEW-정답지미연결) 131 rows; cum 14341
+BLOCKED: A02434 02 삼각함수.pdf 9.6MB (>MCP transport ~6MB; Drive 텍스트층 분수 분자·지수 소실 = formula-stripped) — not built
+Batch598-607 A02433 수학Ⅰ Ⅲ단원 수열 PDF (5.7MB 다운로드 7.6M chars OK, 48쪽 렌더 시각판독; 정답 180~185쪽 미포함 → REVIEW-정답지미연결) 99 rows; cum 14440
+IN PROGRESS: A02432 partial solving (notes A02432_notes.txt) — interrupted by session usage limit

@@ -1,0 +1,232 @@
+[tbl]
+
+    소단원 평가(기초)
+
+    Ⅱ. 미분
+
+    1. 미분계수와 도함수
+
+    학년
+
+    02. 미분가능성과 연속성
+
+    ❍❍고등학교
+
+    일시:
+
+    반:
+
+    번호:
+
+    이름:
+
+1 함수 ⟦f(x)=|`x`|⟧는 ⟦x=0⟧에서 연속이지만 미분가능하지 않음을 보이시오.
+
+[2~3] 함수 ⟦f(x)=` {cases{``````2x  ^{3}_`&&(`x GEQ 1)_`#` `6x-4^`&&(`x``<`1`)^`}}⟧에 대하여 다음 물음에 답하시오.
+
+2 함수 ⟦f(x)`⟧는 ⟦x=1`⟧에서 연속인가?
+
+3 함수 ⟦f(x)`⟧는 ⟦x=1`⟧에서 미분가능한가?
+
+4 연속함수의 집합을 ⟦A⟧, 미분가능한 함수의 집합을 ⟦B⟧라 할 때, ⟦A⟧와 ⟦B⟧의 포함 관계를 나타내시오.
+
+[5~6] 다음 함수의 ⟦x=1⟧에서의 연속성과 미분가능성을 조사하시오.
+
+5  ⟦f(x)=|`x^2 -1`|  ⟧
+
+6  ⟦f(x)= {left{ rpile {{x^2 +1~ LEFT ( x ge 1 RIGHT )}#{2x~~ LEFT (` x<1 RIGHT )}}}⟧
+
+7 함수 ⟦f(x)=|x－1|⟧은 ⟦x=1⟧에서 연속이지만 미분가능하지 않음을 보이시오.
+
+8 다음 함수 ⟦f(x)⟧에 대하여 ⟦x=0⟧에서의 연속성과 미분가능성을 조사하시오.
+
+⑴ ⟦f(x)=3x－2⟧	
+
+⑵ ⟦`f(x)=x+|`x`|⟧
+
+[9~10] 함수 ⟦f(x)= {cases{`x  ^{2}&~(x GEQ 0)#eqalign{#  `-x  ^{2}}&eqalign{#  ~(x<0)}}}⟧에 대하여 다음 물음에 답하시오.
+
+9 함수 ⟦f(x)⟧는 ⟦x=0⟧에서 연속인가?
+
+10 함수 ⟦f(x)⟧는 ⟦x=0⟧에서 미분가능한가?
+
+=========== A
+[tbl]
+
+    소단원 평가(기초)
+
+    Ⅱ. 미분
+
+    1. 미분계수와 도함수
+
+    학년
+
+    02. 미분가능성과 연속성
+
+    (소단원 평가(기초) 정답 및 풀이)
+
+    ❍❍고등학교
+
+    일시:
+
+    반:
+
+    번호:
+
+    이름:
+
+1 답 풀이 참조
+
+⟦f(0)=0⟧이고 ⟦lim fromx->0⟧⟦f(x)=⟧⟦lim fromx->0⟧⟦|`x`|=0⟧이므로
+
+⟦lim fromx->0⟧⟦f(x)=f(0)⟧
+
+즉 함수 ⟦f(x)=|`x`|⟧는 ⟦x=0⟧에서 연속이다.
+
+그런데
+
+⟦lim fromx->0+⟧⟦{f(x)-f(0)}over x-0⟧⟦=⟧⟦lim fromx->0+⟧⟦{|`x`|}over x⟧
+⟦=⟧⟦lim fromx->0+⟧⟦x over x =1⟧,
+
+⟦lim fromx->0-⟧⟦{f(x)-f(0)}over x-0⟧⟦=⟧⟦lim fromx->0-⟧⟦{|`x`|}over x⟧
+⟦=⟧⟦lim fromx->0-⟧⟦-x over x =-1⟧
+
+[gso]이므로 ⟦f'(0)⟧이 존재하지 않는다.
+
+따라서 함수 ⟦f(x)=|`x`|⟧는
+
+⟦x=0⟧에서 연속이지만 
+
+미분가능하지 않다.
+
+2 답 연속이다.
+
+⟦lim _{x -> 1+} {`f(x)= lim _{x -> 1+} {`2x  ^{3} =2}}⟧
+
+⟦lim _{x -> 1-} {`f(x)= lim _{x -> 1-} {`(6x-4)=2}}⟧
+
+따라서 ⟦lim _{x -> 1} {`f(x)=f(1)=2`}⟧이므로 함수 ⟦f(x)`⟧는 
+
+⟦x=1`⟧에서 연속이다.
+
+3 답 미분가능하다.
+
+⟦lim _{x -> 1+} {} {f(x)-f(1)} over {x-1}⟧⟦= lim _{x -> 1+} {` {2x  ^{3} -2} over {x-1}}⟧
+⟦= lim _{x -> 1+} {` {2(x-1)(x  ^{2} +x+1)} over {x-1}}⟧
+⟦= lim _{x -> 1+} {`(2x  ^{2} +2x+2)=6}⟧
+
+⟦lim _{x -> 1-} {} {f(x)-f(1)} over {x-1}⟧⟦= lim _{x -> 1+} {` {(6x-4)-2} over {x-1}}⟧
+⟦= lim _{x -> 1+} {` {6(x-1)} over {x-1} =6}⟧
+
+즉, ⟦lim _{x -> 1+} {} {f(x)-f(1)} over {x-1} = lim _{x -> 1-} {} {f(x)-f(1)} over {x-1} `⟧에서
+
+⟦f`prime(1)`⟧이 존재한다. 따라서 ⟦f(x)`⟧는 ⟦x=1`⟧에서 미분가능하다.
+
+4 답 ⟦B SUBSET A⟧
+
+미분가능한 함수는 모두 연속함수이지만 연속함수 중에는 미분가능하지 않은 함수도 있으므로 두 집합 ⟦A,```B⟧의 포함 관계는 
+
+⟦B SUBSET A⟧
+
+5 답 함수 ⟦f(x)  ⟧는 ⟦x=1  ⟧에서 연속이지만 미분가능하지 않다.
+
+⟦lim _{x -> 1} {`f(x)= lim _{x -> 1} {` | `x^2 -1`| =0}}⟧, ⟦f(1)=0⟧이므로 ⟦f(x)⟧는 ⟦x=1⟧에서 연속이다.
+
+⟦lim _{DELTA x -> 0+} {}{f(1+DELTA x)－f(1)}over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0+}{ |`(1+DELTAx)^2 -1 | - |`1^2 -1` | } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0+}{2DELTA x + (DELTAx)^2} over {DELTA x}=2⟧
+
+⟦lim _{DELTA x -> 0-} {}{f(1+DELTA x)－f(1)}over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0-}{ |`(1+DELTAx)^2 -1 | - |`1^2 -1` | } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0-}{-2DELTA x + (DELTAx)^2} over {DELTA x}=-2⟧
+
+이므로 ⟦lim _{DELTA x -> 0} {}{f(1+DELTA x)－f(1)}over {DELTA x}⟧은 존재하지 않는다.
+
+따라서 함수 ⟦f(x)⟧는 ⟦x=1⟧에서 미분가능하지 않다.
+
+6 답 함수 ⟦f(x)  ⟧는 ⟦x=1  ⟧에서 연속이고 미분가능하다.
+
+⟦lim _{x -> 1+} {`f(x)= lim _{x -> 1+} {`(x^2 +1) =2}}⟧,⟦lim _{x -> 1-} {`f(x)= lim _{x -> 1-} {`2x =2}}⟧에서 ⟦lim _{x -> 1} {`f(x) =2}}⟧이고
+
+⟦f(1)=2⟧이므로 ⟦f(x)⟧는 ⟦x=1⟧에서 연속이다.
+
+⟦lim _{DELTA x -> 0+} {}{f(1+DELTA x)－f(1)}over {DELTA x}⟧⟦=lim _{DELTA x -> 0+}{ left {`(1+DELTAx)^2 +1 right  } - 2 } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0+}{2DELTA x + (DELTAx)^2} over {DELTA x}=2⟧
+
+⟦lim _{DELTA x -> 0-} {}{f(1+DELTA x)－f(1)}over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0-}{ 2`(1+DELTAx)-2  } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0-}{2DELTA x } over {DELTA x}=2⟧
+
+이므로 함수 ⟦f(x)⟧는 ⟦x=1⟧에서 미분가능하다.
+
+7 답 풀이 참조
+
+⟦lim _{x -> 1} {}f(x)= lim _{x -> 1} {}|x－1|=0⟧, ⟦f(1)=0⟧에서
+
+⟦lim _{x -> 1} {}f(x)=f(1)⟧이므로 함수 ⟦f(x)=|x－1|⟧은 ⟦x=1⟧에서 연속이다.
+
+그러나
+
+⟦lim _{DELTA x -> 0+} {}{f(1+DELTA x)－f(1)}over {DELTA x}=lim _{DELTA x -> 0+}{DELTA x} over {DELTA x}=1⟧
+
+⟦lim _{DELTA x -> 0-} {}{f(1+DELTA x)－f(1)}over {DELTA x}=lim _{DELTA x -> 0-}{-DELTA x} over {DELTA x}=-1⟧
+
+이므로 ⟦lim _{DELTA x -> 0} {}{f(1+DELTA x)－f(1)}over {DELTA x}⟧은 존재하지 않는다.
+
+따라서 함수 ⟦f(x)⟧는 ⟦x=1⟧에서 미분가능하지 않다.
+
+8 답 ⑴ 함수 ⟦f(x)  ⟧는 ⟦x=0  ⟧에서 연속이고, 미분가능하다.
+
+	⑵ 함수 ⟦f(x)  ⟧는 ⟦x=0  ⟧에서 연속이지만 미분가능하지 않다.
+
+⑴ ⟦lim _{x -> 0} {`f(x)= lim _{x -> 0} {` (3x-2`) =-2}}⟧, ⟦f(0)=-2⟧이므로 
+
+⟦f(x)⟧는 ⟦x=0⟧에서 연속이다.
+
+⟦lim _{DELTA x -> 0+} {}{f(0+DELTA x)－f(0)}over {DELTA x}⟧⟦=lim _{DELTA x -> 0+}{ left (`3DELTAx -2 right  ) -(- 2) } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0+}{3DELTA x } over {DELTA x}=3⟧
+
+⟦lim _{DELTA x -> 0-} {}{f(0+DELTA x)－f(0)}over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0-}{ left (`3DELTAx -2 right  ) -(- 2) } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0-}{3DELTA x } over {DELTA x}=3⟧
+
+이므로 함수 ⟦f(x)⟧는 ⟦x=0⟧에서 미분가능하다.
+
+⑵ ⟦lim _{x -> 0+} {`f(x)= lim _{x -> 0+} {`(x+x) =0}}⟧,
+
+⟦lim _{x -> 0-} {`f(x)= lim _{x -> 0-} {`(x-x) =0}}⟧에서 ⟦lim _{x -> 0} {`f(x) =0}}⟧이고 ⟦f(0)=0⟧이므로 ⟦f(x)⟧는 ⟦x=0⟧에서 연속이다.
+
+⟦lim _{DELTA x -> 0+} {}{f(0+DELTA x)－f(0)}over {DELTA x}⟧⟦=lim _{DELTA x -> 0+}{   DELTAx+| DELTAx |    } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0+}{2DELTA x } over {DELTA x}=2⟧
+
+⟦lim _{DELTA x -> 0-} {}{f(0+DELTA x)－f(0)}over {DELTA x}⟧⟦=lim _{DELTA x -> 0-}{   DELTAx+| DELTAx |    } over {DELTA x}⟧
+
+⟦=lim _{DELTA x -> 0-}{0 } over {DELTA x}=0⟧
+
+이므로 ⟦lim _{DELTA x -> 0} {}{f(0+DELTA x)－f(0)}over {DELTA x}⟧은 존재하지 않는다.
+
+따라서 함수 ⟦f(x)⟧는 ⟦x=0⟧에서 미분가능하지 않다.
+
+9 답 연속이다.
+
+⟦lim _{x->0+} {f(x)= lim _{x->0+} {x  ^{2}} =0}⟧, ⟦lim _{x->0-} {f(x)= lim _{x->0-} {(-x  ^{2} )=0}}⟧
+이므로 ⟦lim _{x->0} {f(x)=0}⟧
+이때 ⟦f(0)=0  ^{2} =0⟧이므로 ⟦lim _{x->0} {f(x)=f(0)}⟧
+따라서 함수 ⟦f(x)⟧는 ⟦x=0⟧에서 연속이다.
+
+10 답 미분가능하다.
+
+⟦lim _{x->0+} {{f(x)-f(0)} over {x}} = lim _{x->0+} {{x  ^{2}} over {x}} =0⟧⟦lim _{x->0-} {{f(x)-f(0)} over {x}} = lim _{x->0-} {{-x  ^{2}} over {x} =0}⟧
+이므로 ⟦lim _{x->0} {{f(x)-f(0)} over {x}} =0⟧
+따라서 함수 ⟦f(x)⟧는 ⟦x=0⟧에서 미분가능하다.

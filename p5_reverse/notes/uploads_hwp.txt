@@ -1,0 +1,194 @@
+Batch208 1bxnyq9nZViXnpcJikTgpNO3Zl9NOHeAYhhKGm499CJ8
+Batch209 1JxWaa0eUrwYBNxhT9WR8Qe2fUS5KQqOh0who8zM0Us8
+Batch210 1lOL4MSL6jqH0pyxbFaqx0umJHUHpsoJFQXCOWFa5T0g
+Batch211 1xq-KweJxg5u-imEcTS947H-fNODNjHelTJEjo4uzbN0
+Batch212 1_HC0RDeB7TVc4pfbXoKdt01FUSc5Pu5L_Njkvhsi_wA
+Batch213 1WXW4Rtpj3l21ooXn6KTYndyyYpAy5CA8xmKVTImtrlQ
+Batch214 1u0MoWn1C4r8ox0H5Zmd2lgYNhZdUo281OymqXavUzx0
+Batch215 1esEGbJ6CHvUlwUFA71VNgS_YVoDJ0rZW-7U6wbRysDg
+Batch204 1wTPznPHSL6v-JWyCU9QLUST0kYuKCbCHKRCjAZY7YkI
+Batch205 1KdrIcgu4c8_zYMcmcpAstCt1gU-jq50aIgOdGgfHsWo
+Batch206 19iO4oRUodupQ_Y0mit5Evil3I4DMWbsnplIjsK0kJcQ
+Batch207 1bIzJcGx1L4RzD_rsSaVdPM80I_MuPaGXkWueFBpe_GU
+Batch216 1z44gXFOm0mc0fAHd5IunxTitEemRqrTx5nc3MV98hhI A1:BU11 OK
+Batch217 1T5pYtzi2qrp0K5OZPL7gIp9PssBMbXN5sqhYmXKTals A1:BU11 OK
+Batch218 119vthcc32mPgYBcO30doE4MGSEhjpT_4MFDNfvQajxc A1:BU11 OK
+Batch219 1QnWud0f6au3CnywApsMrCjQd2jANs8USV4qjCWczghM A1:BU11 OK
+Batch220 1i6otKrX4-rXuxqLwhFymoRR5Vw4T-gG1ejYQDRT7YYA A1:BU11 OK-but-possibly-not-byte-exact (agent paste caveat) -> re-upload as Batch220R1
+Batch221 1ZxMj3FZL-R6FEj_BOmchZNMxTE_yUjjFMeIf5LfxFOc A1:BU11 OK
+Batch222 1-t07CGlEWbFdYaLPjCfxGbFyYQnrb8z6-6N-srx9bj0 A1:BU6 OK
+Batch223 1mxL2UWqhIQTZfzGLIzp_kTJtredQqkCAyvs_ZF0ID9s A1:BU11 OK (title _T2; first attempt Invalid conversion, no file)
+Batch228 1SE2zW8RxLM-BC92lQjVbqK7ZcRPSEuPYQ_oeXaaRH4Q A1:BU11 OK
+Batch229 1N1mnO4hQyKrYomXayGfnjjGI9uNWC6pw1Mmk2W6t1LE A1:BU11 OK
+Batch230 1-avgYEf0Rs9eUipFKBcquQFtH7vOU6Wr_jW7jA_xqjk A1:BU11 OK
+Batch231 1bak76w77JBLrc2tZn-du2K1TxaevBpjWErOvaIapKTY A1:BU11 OK
+Batch220R1 1TTZBCfT3Ld_qA8S2bKoNtyhs-gG7z5gUcUH2FxnkvPE A1:BU11 OK (byte-verified re-upload; supersedes Batch220 1i6otKrX... as authoritative copy)
+Batch232 1Oh_n9xk5TF5hf2UVI52vfOxuGfmXbjvWu8gW2LqXxqo A1:BU11 OK
+Batch233 1PpOGdk2onaDgJlKwnUqR1FaB_UuAogtShVI0XdUdrFw A1:BU5 OK
+Batch234 1f27cxdv_ZwaiSq6VXNr-i5fWnW1vvjnS0pK0_LRdSHo A1:BU11 OK
+Batch224 17pSF3bKOLwEHPjmeZjLpgyMxldPBj0IokrL35Dk75cA A1:BU11 OK
+Batch225 10VshIrpcxpKuPlNlFWFdgkMpN83rrHbujsoUoArGI_w A1:BU11 OK
+Batch226 1gvBWfoZEfyP_Fom66Oh0Fn-ZspZp4FuN-xvwB1P8ob4 A1:BU11 OK (2 rejected attempts created no file)
+Batch227 1SGHymdyv0GrTHMbit4xWd_oVEtm-PHd4kqmRPJ3X31s A1:BU11 OK
+Batch235 1776QbnSJHcAK5M-3_6gRZQ908gs0jGf2Vsl9xSz2XAE A1:BU11 OK
+Batch236 1eXUr_7GxXJsvQX-AcxmZpnjwKe0H6Dq05WkAkERbPDI A1:BU6 OK
+Batch237 PENDING (3 attempts refused "invalid argument"; no file created; source xlsx valid)
+Batch238 1RC_qfYulmqmdHBkq0YqxmbJ0joiifJ_1_7IE0KeumVY A1:BU11 OK (Q009 REVIEW-해설답란불일치 in data)
+Batch239 14FpFI9FHdq8BmKgmO1I5jH_tYcMtzQJUKJF0xSua0qs A1:BU11 OK
+Batch240 1l3kiZ3-wpMA4V-RHlYe-D3AOFZ3VHxzoUKXasvSNInw A1:BU6 OK
+Batch241 1pLWMoy2WPDcH4R-bWpDsL05N2Q59WJWBVuwMA8ghiU4 A1:BU11 OK
+Batch242 1PiaeVL8tQpAKm_9O0FCgrSm_lbIx8KOUwgGtXHZ606k A1:BU11 OK
+Batch243 1-3DsCuIVdESDYkayuoImSW4J2fU0oSCRk9xMd60twI0 A1:BU11 OK
+Batch244 174xT_VvKBcE2bvcGFb6ItmeEPL5wDzRHVO-Ov6cv-Mk A1:BU6 OK
+Batch245 1DDiT7u_MCUd0JWGKEMJlgPPAv6eAo8lsW6H4wT7DZ-E A1:BU11 OK
+Batch246 1FCEyn80a2uw4XJLwgTjtHZWKcnLF2LQxsS6caGNjcyY A1:BU11 OK
+Batch250 1GCYqi1Ip_59EkG1C3dBjZKW8SRBoNnnfpHkNyf4Qx_E A1:BU5 OK
+Batch251 1KPI5cZbTSrIMRe18XNVc2sh3rlhqAXli2cP_59BLYCo A1:BU6 OK
+Batch252 10oZXNBrAiapAU-ElxJFvKJwh8-gfMW8flF1Ja9ATGAM A1:BU11 OK
+Batch253 17sVowC9R07UwXD6YpIAo11weBNnuFkqNhMxL13SoL28 A1:BU5 OK
+Batch254 1AT8k4eiYxsHl8aQi0rz2EbsKGSOcLQvcSXK2mEmCtUQ A1:BU11 OK
+Batch255 13X9YEbUF7eHvZkfBGdhNwb2SkqD9Slbn1FKGc9I0Vo4 A1:BU11 OK
+Batch256 1K5C1UIhxHzkU4figNny_yeihU6nIYka4lTQIuRbATMM A1:BU11 OK
+Batch257 1IKvoYYQKEJ8WtbwCIBhOH2S2lf1X18J8Zt4g3_AqB74 A1:BU11 OK
+Batch258 1U9zczughikG05dXqcCMZBFwPq7CWqA02Ui67tN1C8Uo A1:BU11 OK
+Batch259 1-zApLjGivbaYJUWh4vN8C4Xz-l5fB6WQNhedwuwW2w0 A1:BU11 OK
+Batch260 1jiAsmSKdCCJnYjS_EtdqB_EIUzyXjPGjBaKoCTeERyY A1:BU11 OK
+Batch261 1VVTWGHFcXLBC8iw4POkX2PjBQrUBTLj21K1wTXv4eFc A1:BU6 OK
+Batch237_T3 1Oq4OhRPvYcBBusy-TtDi8EEyfGgqbHPV9LSTaXuz7bU A1:BU6 OK (authoritative; md5-verified paste)
+Batch237 DEFECTIVE 1--eGCXkg_4OlUDRYw4va4rlf5IYhBc5WSiYaoBohkyE (empty 문항DB, 1-char paste error) — superseded by _T3, not deleted
+Batch237_T2 DEFECTIVE 1tD1_-AzBvb_X8QRP9iOquUMEgby_3WEilMxHcEDx-z4 (empty 문항DB) — superseded by _T3, not deleted
+Batch247 1O9ZR-yG4xkxsm6lH9iBxmnK-9VS0SXl3Rsmpt_ZN9s0 A1:BU11 OK
+Batch248 SUPERSEDED 18yDN_9-7BzmpNaybAJgFkqkpyBuArxwvUq7FcnKxkqM (AV5 began with '=', formula risk) — not deleted
+Batch248R1 1TCQJSILzQGqrZoRuHcaq9kZDosZXB7gYmfMD0Zsiw1Y A1:BU11 OK (authoritative; AV5 prefixed '검산: ')
+Batch249 1VQsmxbopuEn6F5-eE3Pg1e5Py7TbY2IgYGrlgo2jMb8 A1:BU11 OK
+Batch262 18gV3s8ujhShvfLvtxW5Ru2nW6B93rlPdlGm-5oiRR_4 A1:BU11 OK
+Batch263_T2 1YSwGIf19PpOq9fv1YPKxPP7l652RaGkkj-DHSZ6De00 A1:BU11 OK (first attempt rejected, no file)
+Batch264 1zmzwJVU5rbiQbJrRf-wCTvFs9b4XkDfxToWraxY_fZk A1:BU11 OK
+Batch265 1c36w5gkaQaM-Ci5L6MWc1h6fuwC8nTCLnOoWiFL0Zac A1:BU11 OK-문항DB (authoritative; 10 rows read back complete by main session). 요약 tab reads empty in Drive reader for both copies though local 요약 is valid A1:B15 — 요약 is derived metadata, reproducible from local Batch265.b64; flagged READBACK-요약미표시 for visual check
+Batch265_T2 DUPLICATE 1E7DipME3lbS79RpAlJeFjqfgXi7yrPO7ZbloKIieXDE (same content; not deleted)
+Batch274 12rR9q-JLhwL_qOI-lPsmBGZe1HYatlR4m1VxLpGhdIU A1:BU11 OK
+Batch270 1j3ERc8AlyNQBMm6KefNtCxeezEvjYW4ssib2d5srxyc A1:BU11 OK
+Batch271 1lF0Va7EZ_lXBmujczKkUFxVtR7uZP1pT6vFJbBh1ilg A1:BU11 OK
+Batch272 1o7Mn78gAajgbJaSJYnEehun2ixeEgST_EoEkOPWy-7E A1:BU11 OK
+Batch273 PENDING (copy interrupted; nothing created on Drive)
+Batch266_T3 1OAuvTlhKAaCSTFU7X4T9HzCoQQwkhT_9fz2piz59IcE A1:BU11 OK (T1,T2 rejected, no file)
+Batch267 PENDING — DEFECTIVE (empty 문항DB, paste errors; not deleted): 1VcSpY_dgAkVG7RDxB00Iga_mIfXZcidED5bvGd3ZVig, 1_NFlJ4xMnqllEy_dbtLOBHOsTpXqhk4VCswxp8rsc54 (_T2), 1PPdwP-pdB8DDcHHcgVOLNgHM-hd59Gpgloe-QLSI40M (_T3)
+Batch268 1kgjus0ennS9NID3HSnVvEJ8vQ1B1E6t836K_Ivr9DPo A1:BU6 OK
+Batch269 1YPimETrDN274qzoYFARi6W2MwWafyaFbbWGyBOCRZkA A1:BU11 OK
+Batch273 1XV0Wfdw0ykT7cslqbEcBNkytiu0hM4dzBhmOpCMD1kw A1:BU11 OK
+Batch279 1RyMFy5uaMhyiYHVDzn9ezN8LHfjvq-mtao6cKmGz5cY A1:BU6 OK
+Batch280 1zLOhTik1yCKzNjr6o9u1IsnaOnXWZ_t1sUoxu8ZC3B0 A1:BU11 OK
+Batch281 1hIkQ1i4Rg-EtV5QST4jF0IlQFelPTbw4WYlmTT91nRQ A1:BU11 OK
+Batch267_T4 1seB4SJuPkclWgFr2wCMt2-pk9BTfr3FSR3KXh5hErkI A1:BU11 OK (authoritative; supersedes 3 empty defective ids above)
+Batch282 18pJVkF-XOvlpr8HyI-zjXceAw61z5x5fxyt8ZnQCtEc A1:BU11 OK
+Batch275 1_vNrK8D3clZKUrbo0Q3plZjrVU_AeWkCTZ0AbQIITmk A1:BU11 OK
+Batch276 1HGcIY9UUyicyOMoiNdMRpB2kpVrr3WqXihwjaTvUP84 A1:BU5 OK
+Batch277 1ko3iIrS2RZgcY72jFpwiB5sA1D4wYl4p_q2kkwKCt48 A1:BU6 OK
+Batch278_T3 138C38NE28T54rlrMNi-oB1vio-l2HOboGsPPcCG3l5E A1:BU11 OK (T1,T2 rejected, no file)
+Batch283 1IvPDinOON7KQMo5-Nlu4xT3EqDsn789VpE4Eww0XSeo A1:BU11 OK
+Batch284 1SascobL0S21ryqvFfAm83oYpwxQN8hBofbvZVOyZ3YU A1:BU11 OK
+Batch285 1tk3M-azguy6BohmI3ZRBaBBHdwm9axL6mguXAvFXUr8 A1:BU11 OK
+Batch286 1roUkV7-k0SflLqwsODMh30FHLmuc-Cfw7VWO2wxxKlI A1:BU6 OK
+Batch287 1obv-y7G_bVIvyKL56LLM5Hqn2t146YUEsSHtZQOE3ts A1:BU11 OK
+Batch288 1IO07LVrdTV1epiwuoyAIuCElDQVTpLbWxozzaUuu_dI A1:BU6 OK
+Batch289 16q9dp2a9yFeJnM71Axc-wrkAMwaQsXVaEbl-3QJVufk A1:BU11 OK
+Batch290 10Az-jsB-sriKaWaKGkhGwOvJIyWKMpTI3ZI26lWgmMk A1:BU6 OK
+Batch291 1l6Vt5Dl2dkL0WQfq9kw6Qj06W-7qtAh-bYyeuhpyf8E A1:BU11 OK
+Batch292 11t40M7CcTDCYfCDP1hCol9snIXsbnayErSaAM58gNMI A1:BU11 OK
+Batch293 1bQLd2753NQLlNzXtyVS_zanynHBkhQ7S3pIB6UHYjSI A1:BU11 OK
+Batch294 1j0xWoRa-yOC1K9bmJHNx59zHkkvQuhbXK_jBFTWxVhs A1:BU11 OK
+Batch295 SUPERSEDED-by-R1 1DzjjzE-tyXwIveLmtRCppI17azANQ25ROrofPlQ5fi0 (ID prefix = SHA placeholder text)
+Batch296 SUPERSEDED-by-R1 16WQV5JMVVd5ZuBa4eiOtJH-l6AjCpFsmP9L5a67M8mY
+Batch297 SUPERSEDED-by-R1 1rgPouo4UudMpJsd18JmugjADWZ1v4RMSJgdd_zPb50A
+Batch298 SUPERSEDED-by-R1 1zRfr-PRGcZseQA84k4bhMzm740KE-EGaOydLRz2r0Kw
+Batch303 SUPERSEDED-by-R1 1iCBYg_JLDuIqw_kESVgXyGjCaEvt3bSicbs39MznY7o
+Batch304 SUPERSEDED-by-R1 1ntle_banJHdv7YND7UL6caeaZK6s98rw5Zk8GYnsfts
+Batch305 SUPERSEDED-by-R1 1Li6NqtbtNSz0nDCzsd51nthFr4N6QHbkVEJ1iWge5GU
+Batch299 SUPERSEDED-by-R1 1GdXwSPDbX8BvEqQ8ifhUROIVcNzF0R_gu3zeTGqUHI8
+Batch300 SUPERSEDED-by-R1 1NwRDeg1MJodMUJt8n1FvWXPYVOWUHY_HaW19NYwVvKI
+Batch301 SUPERSEDED-by-R1 1p6Mr58ue5Haj2iwQJ5xwfz-XOn2Ina2v8iJ9EmBzloE
+Batch302 SUPERSEDED-by-R1 1v0ry1OBiiOM1fKOw8Ghk1p3E80TsGCK6eltaFlIVF-g
+Batch306 SUPERSEDED-by-R1 1lcxO3HhRM5AntOhb9rf7sE2-KXtY1ZNYKmTRofMHKoY
+Batch307 SUPERSEDED-by-R1 1EYy4QMQ8X27e1IHTnLK3S1thQSEkSN64tFFdET23M4I (_T2)
+Batch308 SUPERSEDED-by-R1 1bx57K83T656s0Xb8GCxPGejnjQQ-kfnKKpPZcQ5iRwI
+Batch309 SUPERSEDED-by-R1 1qQp3rROczYomMfOJx2mANPDGOSpk2d11CV_aAhhvobQ
+Batch299R1 OK 1lhVyCKuMFyS6ZAdbgKcNRq3Sa2E3JDR5dBStO-4rugU
+Batch300R1 OK 1oulQ-2A3-cgbZbzuC8g7SbkvEKnf65j-s3pQa0u-WII
+Batch301R1 OK 1TT8EJE2vX8pkhkMb5Llf-Ht5zRB1V9mAAUbWu5FymTs
+Batch302R1 OK 13OFoNA8wkufbFdZHZGcHOA4GX4QjUM2gnNHdiv_O3e8
+Batch295R1 OK 1XqCyFMwJ6nKKanlKBWS_KeFx_Kocg64SqKiaCCM4Py4
+Batch296R1 OK 1fHCOqV0sw7Pist3NHY4hT5HT4ZGRoUpJgrEjqQIzdf8
+Batch297R1 OK 1cTpbVceJlq_utSm-TV3TpMizEbXwBPMXvMLK1l0gAME
+Batch298R1 OK 1jYgNFWHBFvqtYruz7D3An53Ho-s25MxEBIglKCoVs58
+Batch311R1 OK 1gZJTH-DsEm0GA_72IoZnYEel_sqxD7TtDfSiVcpQThI
+Batch312R1 OK 1F0Uz2fn2CIQawV9UYVup1Ris8dVmjl7ZF6u8O198WaA
+Batch313R1 OK 13lD6OoI_93ANzDbiLYE7H--L6h7VCd58iPEOJd7sing
+Batch314R1 OK 15PQ51FPY__NeT_wUMe8BxKn6eoIj-UU8gs0mZ_Dr7FI
+Batch303R1 OK 1IJNlWwyzzSjaQgkKn8a0V8cQdVJyFneyoUQXCTMNl7s
+Batch304R1 OK 1hS9sJeSbJya3WW1o-UW3q9vE8TazDEzUnBp2EtglqU0
+Batch305R1 OK 1qXOYVZn-dokKqhRGPMNvwu0s9dnzJ4e4m7GMrAXNclI
+Batch306R1 OK 1Jc9PzV6jcPn9oECbxtzUkbopDyoI4rn02wK0vrWiFTw
+Batch307R1 OK 1U9p7DqJyPR23CKMRAg0Yq8wsTLAwqIwTrbTyAyRzfL8
+Batch308R1 OK 11ZsnY7SAPevp6eznhd9iT_UZnV7m-lIBwF9nglhY5h8
+Batch309R1 OK 1VDeRp__R9sKZ3TKIkoeX_TfoSxi7oZ766hzD1MRrCYU
+Batch315R1 OK 1M6HPtcOm6PLM8FWOyRLrknqM7cUVhPNWsCckGEMQXgg
+Batch316R1 OK(main readback A1:BU5) 1waY3ss3L8y6jGlkJONrQ9fVdRF5gE5l3KMFfbkxE_Ss
+Batch319R1 OK(size-check 5287B; agent died before readback) 1zB6nrB0V7tomEiC-2W0LeW0O9tgNn_GlT8o1WQMZkY0
+Batch320R1 OK(size-check 5437B; agent died before readback) 1-RxciFWknCAj3J24UwlkA2sEy4mssvdQ4HVqdlcuCuU
+Batch326R1 OK 1AZl6BKm9U3wrLu8GUYneGXZPFx0JaTW9widqdLrLsH4
+Batch327R1 OK 1WgAxkBJB-moYTsotB3OxkpLdZ0MeqkN_WffPV35-3Wc
+Batch328R1_T3 DEFECTIVE(empty 문항DB, do not use) 1Ta0RRDlU4fmzBz6W1uFuvONJiflj40bWsQEh_0Djfz4
+Batch310R1 OK 1hHTIxJSTDBodkliO7FNVfMVbAZylxBy1EIgD6Q7Tqls
+Batch317R1 OK 1bQnxcWULzpJfhGFMkuMtctrpEA1u2cx37NRlZtg3mYI
+Batch318R1 OK 1PYl0rH8FbpEpNS8uusI7dBotYfvGKM1D0JczLgAUFZw
+Batch321R1 OK 1qAghlcZyOgx74Bc3l8r9Mo43R28AdBWwZBVhaseDjJQ
+Batch322R1 OK 1LRbzf_LQ1o9lOXE31ImTc23vUw65uLMi9ut8d1Ogj6s
+Batch323R1 OK 1KaN08AMPiMEYPVqlBoBodgS7xVzfrq2lfDV4YlDPvAM
+Batch324R1 OK 1mhLZ1R73SFxsuC1y4UXQnyMT0cgy0eL8KCh588SPvtc
+Batch325R1 OK 1fgnG0fDQQaNGvlJTLIO8IybJF6n-XgrNeTgEblZdz2E
+Batch328R1_T4 1Vy9yzqMTkymriYY7JGt1QfVPwCyWIbs70TBgFnQTCQ0 A1:BU11 OK (supersedes defective _T3)
+Batch329R1 1uh5gB-wxv47VctZKMs8NGUw_nRy8jheqrO9CHMJMwV0 A1:BU8 OK
+Batch330R1 1Wnsu4vcA-HwjDUcCESbzTMViMxkQdZ8RKiwHbRKtwII A1:BU11 OK
+Batch331R1 1LesK4PzQ5wAbNKvyUy_FG3HoBQoeh6hCPWUT1SF8Y1s A1:BU11 OK
+Batch332R1 1m4F_RXNBb_2TRIPgeo7XmZ86z862Xn7yaPxOrMlJ2tA A1:BU5 OK
+Batch333R1 1wwP58fr7qBGB4xNZo2U_gn76dLqqkOyKJU_MwhQVO50 A1:BU11 OK
+Batch334R1 1dI8IFA2EIj3BC4UEeC-5Ml-L6mlst5vflJqIbYK7l_c A1:BU11 OK
+Batch335R1 1RQoHE7qiKA24lwLclyJMGySU8zc4GGHmBfMGwmNn5lU A1:BU9 OK
+Batch336 1X3BDValBceONuuV2jrAfIpObJutqr5g_ajGqVRLorUs A1:BU11 OK
+Batch337 19K8G2osjW224zW6ijMbx0AtaqpiCVafM9FWeLeRXeDs A1:BU11 OK
+Batch339 1fZwKrIaMFCUqeou8ynGJYX4Ja9Gi8Ylz_Xjnu1WUNlA A1:BU11 OK
+Batch338 DEFECTIVE (empty 문항DB after conversion) x3: 1cmji5EhnS1AttbROkWRPW-JxyVLOxbWXQP9eGs0-OWo, 1V1U1146ZBnwR3D3PtNLl5inOaS_9GmstY_sbrk6Zpo0 (_T2), 182MhaqRpkobRkxSyi9LqHMHfPaNtePi90N-afpwuIUQ (_T3) — do not use
+Batch340 1gopX32W5K1CGLsPU18x_RZNd6HW6rQzgd7zkcctBwI4 A1:BU11 OK
+Batch341 1BHtaIrUgnbBbGfYHlE4jSqTTq8lamVGh_AytPI4ldcA A1:BU11 OK
+Batch342 1n9OcS_Fd2MwrbOqP1s4QGq9_eV3IZqlJrLg0vDHKnyg A1:BU11 OK
+Batch343 1Nq27F3RUzj0WWJhkI3IxYwBDjaE4m1n0ItFMvyB-xd8 A1:BU11 OK
+Batch344 1RMd-cR_JPD_cFnyMZS52PTZmFpOdizfD8zmx-Ulw82k A1:BU11 OK
+Batch345 1bv83QmHMAoHiWsrdgEVcNegB6hGTtZHnsYXCVXy7uM0 A1:BU11 OK
+Batch346 1MVEhf0H72OdSsaJoQ5Zq322WEgH_ol_1sUJcU8zC65M A1:BU8 OK
+Batch347_T2 1qo-exn1sPEac6Ufrs8BueI_c5am1GCAS2sfP7vw1IYc A1:BU11 OK (first attempt: conversion error, no file)
+Batch348 1M0jmNWexaMPTLvIuZm2EDevQfxAeuufcBn2rHYH7CWU A1:BU11 OK
+Batch349_T2 1XDLeP3JzHaFcjAPPTEpPbPqYrzFyCrOC15etUUvfwlI A1:BU11 OK (first attempt invalid argument, no file)
+Batch350_T2 1PYLp5sQeN8C7gA9c6hJoRJeKzkFHH8_CARjwfqTXR14 A1:BU11 OK (first attempt conversion error, no file)
+Batch351 1TxX7kC_nY-OC5_r6cRyUY_OsLLdChw6dYI4mmvAnUJg A1:BU11 OK
+Batch352 1tzib5d1lvy_ue92iJLH-fXUUwOBV5SRSxiDTxBV81m0 A1:BU11 OK
+Batch353 1mwBj_9ppAGjliS2qLeXd4wYe808bp7lvcnqfoj5UAxk A1:BU11 OK
+Batch354 1DIiGrB6Cnbj4vz2zis-nrYwzRKR5qlO5q-nPuV2rRO8 A1:BU11 OK
+Batch338R1 two attempts failed (copy errors, no file created) — retry _T3 chunked
+Batch355 1MJwWVjx03o0sv7ova6BunPYZzk_I3nBRQ4nT8sNZTVk OK A1:BU11
+Batch356_T3 1Z6N_1xYx7IeC-HNYfVsuYVeCEOxUfPcZTal0V6uv600 OK A1:BU11 (T1,T2 rejected invalid base64, no file)
+Batch357_T2 1O_zkE-BruFgz355abV5yRhsrNzCpAZkTR6swW3QKL0I OK A1:BU11 (T1 rejected, no file)
+Batch358 1nymkG5Mob8RAO5EH0_0PExZEdzK82NztjY3wwNJYMnU OK A1:BU11
+Batch338R1_T3 1QIV7z6EH_Az0sQo96WqhrpLwKumozeyjWwZR_lxU0Rs OK A1:BU11 (supersedes defective 338 ids)
+Batch359 1T8lyrkLcKCrBLn99qdoETMkADj82GrAU_9v0ziXv08E OK A1:BU11
+Batch360 FAILED x2 (Invalid conversion requested, no file) -> retry _T3
+Batch361 1nQBgI76Gc6CxdhGdF_3odd51jp-6xLAwKendXELEF4g OK A1:BU11
+UNVERIFIED (agents stopped by session usage limit 2026-10-04, resets 17:50 UTC): created titles Batch360_T3, Batch362, Batch362_T2, Batch363, Batch363_T2 (agent said 363_T2 OK), Batch364, Batch365, Batch365_T2, Batch366, Batch366_T2, Batch367 — ids unknown; next run: search Drive by title, read back, keep one verified copy each, log defective ids (no deletes). Batch368+ not uploaded.
+Batch360_T3 17n71g4-rboEv974_iUZQGLngakU7U_61Kp4bPrp4InM OK (read back A1:BU11, Q131-Q139 shown)
+Batch362_T2 15V5Nha8SYkNYIgc-VxOF2bPGSgWjmfSuTSlSRmtxQPM size-OK 5649B (populated; empty sheets are ~1.2KB)
+Batch363_T2 10NAZYex2SYL2syNJEFh4ge9U37rPa1RwD7qHrTNDRbs OK (agent read-back) 5946B
+Batch364 1-BA093ylRxeOFwIlqa28ccMQ-pz5slZgjitt2slUYKQ size-OK 5478B
+Batch365_T2 1RYDZAzpezUQiwImiEfLa1TtjBx-nTICinBaZOtyel_g size-OK 6199B
+Batch366_T2 1yU7iy-qf3OllwEb9qEq9o9Hm-y6tE0InSqNE1e3UuvE size-OK 5853B
+Batch367 1Bw1tGfkmSn0IoQicDQCnzQqPS767mMjvP3laXkLKf6o size-OK 5884B
+DEFECTIVE (empty 문항DB, superseded, not deleted): Batch363 1ZgeLEkxOdsmxzCk9Qlg3odRmfbo-HYpw05hZfy4mZPM ; Batch366 1khlwETEuwcqWT_JnTL79meQf1ajvPQDM8m4cd20y74A (1.2KB)
+Note: Batch362 first attempt and Batch365 first attempt left no file.

@@ -1,0 +1,13 @@
+# 미래엔 고1 수학(상) — Ⅲ. 도형의 방정식 answers (Drive fileId 1rQ5Xzakn0Q6misoDr7Iboy0_du_dfeGo)
+# STATUS: ANSWER KEY NOT EXTRACTED.
+# Google Drive read_file_content returned text only for PDF pages 1-122 of 341 (book pp.10-131);
+# the text ends partway through Ⅲ-2 직선의 방정식 (PDF p.122 = book p.131, the 공학적 도구 page).
+# download_file_content refused the PDF (over its 10 MB limit), so pages 123-341 could not be read,
+# including any 정답과 풀이 / 빠른정답 section at the back of the book.
+# No answers for Ⅲ-3 원의 방정식, Ⅲ-4 도형의 이동, the 중단원 마무리 sets or the 대단원 평가 are available.
+#
+# The only Ⅲ-2/3/4 answers in the readable text are the worked 예제 answers printed in the body (not from an answer key):
+[Page 120] (book p.129) Ⅲ-2 예제 1: 점 (2, 5)를 지나고 직선 2x-y-1=0에 평행한 직선의 방정식
+[Page 120] 답 *y=2x+1*
+[Page 121] (book p.130) Ⅲ-2 예제 2
+[Page 121] 답 *y=;2\!;x+2*      (= y=(1/2)x+2)

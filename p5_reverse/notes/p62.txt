@@ -1,0 +1,269 @@
+[tbl]
+
+    소단원 평가(기본)
+
+    Ⅱ. 미분
+
+    1. 미분계수와 도함수
+
+    학년
+
+    03. 도함수
+
+    ❍❍고등학교
+
+    일시:
+
+    반:
+
+    번호:
+
+    이름:
+
+1 함수 ⟦f`left(`x`right)`=`left(`x+1right)`left(`x+2right)left(`x+3`right)`⟧에 대하여 
+⟦f`prime`left(`0`right)`⟧의 값은?
+
+① ⟦11⟧		② ⟦12⟧		③ ⟦13⟧
+
+④ ⟦14⟧		⑤ ⟦15⟧
+
+2 ⟦lim_{x->1}`{{x^n`+2x-3}over{x-1}`=100`⟧을 만족시키는 자연수 ⟦n`⟧의 값을 구하시오.
+
+3 이차함수 ⟦f(x)⟧가 ⟦f(0)=5⟧, ⟦f'(1)=5⟧, ⟦f'(2) =7⟧을 만족시킬 때, ⟦f(1)⟧의 값은?
+
+① ⟦6⟧		② ⟦7⟧		③ ⟦8⟧
+
+④ ⟦9⟧		⑤ ⟦10⟧
+
+4 곡선 ⟦y=`x^3`+ax+b`⟧가 점 ⟦`left(1,````1`right)`⟧을 지나고, 그 점에서의 접선의 기울기가 ⟦-3`⟧일 때, 상수 ⟦a,````b`⟧에 대하여 ⟦ab`⟧의 값은?
+
+① ⟦-36⟧		② ⟦-35⟧		③ ⟦-34⟧
+
+④ ⟦-33⟧		⑤ ⟦-32⟧
+
+5 미분가능한 두 함수 ⟦f`left(`x`right),````g`left(`x`right)`⟧에 대하여
+⟦f`left(`x`right)`=`left(x^2`+1`right)`g`left(`x`right)`⟧이고 ⟦g`left(`1`right)`=-1,````g`prime`left(`1`right)`=2`⟧일 때, ⟦f`prime`left(`1right)`⟧의 값은?
+
+① ⟦-1⟧		② ⟦0⟧		③ ⟦1⟧
+
+④ ⟦2⟧		⑤ ⟦4⟧
+
+6 미분가능한 함수 ⟦f`left(`x`right)`⟧가
+
+ ⟦f`left(`x`right)`=3x^2`+2x`f`prime`left(`1`right)`⟧을 만족시킬 때, ⟦f`prime`left(`2`right)`⟧의 값을 구하시오.
+
+7 함수 ⟦f`left(`x`right)`=`cases{```````````x_`^2 && left(x `ge 1 right)_` #``ax+b^` && left(x<1`right)^` }``⟧가 ⟦x=1`⟧에서 
+미분가능할 때, 상수 ⟦a,````b`⟧에 대하여 ⟦ab`⟧의 값을 구하시오.
+
+8 함수 ⟦f`left(`x`right)`=cases{````````````x_`^3 && left(`x<a`right)_` #`x^2^`+x+b && left(x`gea`right)^`^` }``⟧가 ⟦x=`a`⟧에서 미분가능하도록 하는 상수 ⟦a,````b`⟧에 대하여 ⟦a+b`⟧의 값은? (단, ⟦a>0⟧)
+
+① ⟦-1⟧		② ⟦0⟧		③ ⟦1⟧
+
+④ ⟦2⟧		⑤ ⟦3⟧
+
+9 다항식 ⟦x^3`+ax^2`+bx+5`⟧가 ⟦left(`x-1`right)^2`⟧으로 나누어떨어질 때, 상수 ⟦a,````b`⟧에 대하여 ⟦3a+b`⟧의 값을 구하시오.
+
+10 다항식 ⟦x^10`-2x^3`+1`⟧을 ⟦left(x+1right)^2`⟧으로 나눌 때의 나머지를 ⟦R`left(`x`right)`⟧라고 할 때, ⟦R`left(1`right)`⟧의 값은?
+
+① ⟦-32⟧		② ⟦-28⟧		③ ⟦-26⟧
+
+④ ⟦-24⟧		⑤ ⟦-20⟧
+
+=========== A
+[tbl]
+
+    소단원 평가(기본)
+
+    Ⅱ. 미분
+
+    1. 미분계수와 도함수
+
+    학년
+
+    03. 도함수
+
+    (소단원 평가(기본) 정답 및 풀이)
+
+    ❍❍고등학교
+
+    일시:
+
+    반:
+
+    번호:
+
+    이름:
+
+1 답 ①
+
+⟦f`left(`x`right)`=`left(x+1right)`left(x+2`right)left(x+3right)`⟧에서 
+
+⟦f`prime`left(x`right)`⟧⟦=`left(x+1right)`prime`left(x+2right)left(x+3right)⟧
+		⟦+left(`x+1`right)left(`x+2right)`prime`left(x+3`right)⟧
+			⟦+left(x+1right)left(x+2right)left(x+3right)`prime⟧
+⟦=`left(x+2right)left(x+3right)+left(x+1right)left(x+3right)+left(x+1right)left(x+2right)⟧
+
+이므로 ⟦f`prime`left(0right)`=6+3+2=11`⟧
+
+2 답 ⟦98⟧
+
+⟦f`left(x`right)`=x^n`+2x`⟧에서
+
+⟦f`prime`left(`x`right)`=n`x^n-1`+2`⟧이므로
+
+⟦f`prime`left(1right)=n+2`⟧
+
+즉, ⟦n+2=100`⟧에서 ⟦n=98⟧
+
+3 답 ④
+
+⟦f(x) =ax^2 +bx+c`(a!=0)⟧라고 하면
+
+⟦f(0)=5⟧이므로 ⟦c=5⟧
+
+⟦f(x) =ax^2 +bx+5⟧에서 ⟦f'(x)=2ax+b⟧
+
+⟦f'(1)=5⟧, ⟦f'(2)=7⟧에서
+
+⟦2a+b= 5⟧, ⟦4a+b= 7⟧
+
+두 식을 연립하여 풀면
+
+⟦a=1,~b=3⟧
+
+따라서 ⟦f(x) =x^2 +3x+5⟧이므로
+
+⟦f(1) =1+3+5 =9⟧
+
+4 답 ①
+
+⟦y`prime`=`3x^2`+a`⟧이므로 점 ⟦left(1,````1`right)`⟧에서의 접선의 기울기는 ⟦3+a`⟧이므로 
+
+⟦3+a=-3`⟧에서 ⟦a=`-6⟧
+
+또한, 점 ⟦left(1,````1right)`⟧은 곡선 ⟦y=`x^3`-6x+b`⟧ 위의 점이므로 
+
+⟦1-6+b=1⟧, ⟦b=6⟧
+
+따라서⟦~ab=`-36⟧
+
+5 답 ④
+
+⟦f`prime`left(`x`right)`⟧⟦=`left(`x^2`+1right)prime`g`left(x`right)`+`left(`x^2`+1right)`g`prime`left(x`right)`⟧
+⟦=`2x`g`left(`x`right)`+`left(`x^2`+1`right)`g`prime`left(`x`right)`⟧
+
+이므로
+
+⟦f`prime`left(1right)`⟧⟦=2g`left(1`right)+2g`prime`left(`1right)⟧
+⟦=`2` times left(-1right)`+2` times `2`=`2⟧
+
+6 답 ⟦0⟧
+
+⟦f` prime ` LEFT ( `x` RIGHT ) `=6x+2`f` prime  LEFT ( 1 RIGHT ) ```````````````````````````````````````````````````````````````````````` CDOTS  CDOTS `㉠⟧
+
+⟦f`prime`left(1right)`=6+2`f`prime`left(`1right)`⟧이므로
+
+⟦f` prime ` LEFT ( `1` RIGHT ) `=`-6````````````````````````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS ㉡⟧
+
+⟦㉡`⟧을 ⟦㉠`⟧에 대입하면
+
+⟦f`prime`left(`x`right)`=6x-12`⟧
+
+따라서 ⟦f`prime`left(2`right)`=6 times `2`-12`=0⟧
+
+7 답 ⟦-2⟧
+
+⟦g`left(`x`right)=x^2`,````h`left(x`right)`=ax+b`⟧라고 하면
+
+⟦x=1`⟧에서 연속이어야 하므로 
+
+⟦g`left(1`right)`=h`left(1`right)⟧, 즉
+
+⟦a+b=1``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS ㉠⟧
+
+또, ⟦x=1`⟧에서 미분계수가 존재해야 하므로
+
+ ⟦g`prime`left(`1`right)`=`h`prime`left(`1`right)⟧
+
+⟦g`prime`left(`x`right)`=2x,````h`prime`left(x`right)`=a`⟧에서
+
+⟦2=a`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS `㉡⟧
+
+⟦㉠,````㉡`⟧에서 ⟦a=2,````b=`-1⟧
+
+따라서 ⟦ab`=`-2⟧
+
+8 답 ②
+
+⟦g`left(`x`right)`=x^3`,````h`left(`x`right)`=x^2`+x+b`⟧라고 하면
+
+⟦x=a`⟧에서 연속이어야 하므로 
+
+⟦g`left(`a`right)`=h`left(a`right)⟧, 즉
+
+⟦a  ^{3} `=a  ^{2} `+a+b``````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS ``㉠⟧
+
+또, ⟦x=a`⟧에서 미분계수가 존재해야 하므로
+
+⟦g`prime`left(`a`right)`=`h`prime`left(`a`right)`⟧
+⟦g`prime`left(`x`right)`=3x^2`,````h`prime`left(`x`right)`=2x+1`⟧에서 
+
+⟦3a  ^{2} `=2a+1````````````````````````````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS `㉡⟧
+
+⟦㉡`⟧에서 ⟦3a^2`-2a-1`=0⟧
+
+⟦left(3a+1right)`left(a-1right)`=0`⟧
+
+⟦a>0⟧이므로 ⟦a=1⟧
+
+⟦a=1`⟧을 ⟦㉠`⟧에 대입하면 ⟦b`=-1`⟧
+
+따라서 ⟦a+b`=1+`left(-1right)`=0⟧
+
+9 답 ⟦0⟧
+
+다항식 ⟦x^3`+ax^2`+bx`+5`⟧를 ⟦left(x-1right)^2`⟧으로 나눌 때의 몫을 ⟦Q`left(`x`right)`⟧라고 하면
+
+⟦x  ^{3} `+ax  ^{2} `+bx+5`=` LEFT ( x-1 RIGHT )  ^{2} `Q` LEFT ( x` RIGHT ) ````````````````````````````` CDOTS  CDOTS ``㉠⟧
+
+⟦x=1`⟧을 ⟦㉠`⟧의 양변에 대입하면
+
+⟦1+a+b+5=0⟧
+
+즉, ⟦a+b=`-6``````````````````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS `㉡⟧
+
+⟦㉠`⟧의 양변을 ⟦x`⟧에 대하여 미분하면 
+
+⟦3x^2`+2ax+b=`2`left(x-1right)`Q`left(x`right)`+`left(x-1right)^2`Q`prime`left(x`right)⟧
+
+양변에 ⟦x=1`⟧을 대입하면
+
+⟦3+2a+b`=0⟧
+
+즉, ⟦2a+b=`-3```````````````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS `㉢`⟧
+
+⟦㉡,````㉢`⟧을 연립하여 풀면 ⟦a=3,````b=`-9`⟧
+
+따라서 ⟦3a+b`=3`  times 3+`left(-9`right)`=0⟧
+
+10 답 ②
+
+다항식 ⟦x^10`-2x^3`+1`⟧을 ⟦left(x+1right)^2`⟧으로 나누므로 몫을 ⟦Q`left(`x`right)`⟧라 하고, 나머지를 ⟦R`left(~x`right)`=ax+b`⟧ (⟦a,````b`⟧는 상수)라고 하면
+
+⟦x  ^{10} `-2x  ^{3} `+1`=` LEFT ( x+1 RIGHT )  ^{2} `Q` LEFT ( x` RIGHT ) `+ax+b``````````````` CDOTS  CDOTS `㉠⟧
+
+⟦㉠`⟧의 양변에 ⟦x=`-1`⟧을 대입하면
+
+⟦-a+b`=4`````````````````````````````````````````````````````````````````````````````````````````````````````````````` CDOTS  CDOTS `㉡⟧
+
+⟦㉠`⟧의 양변에 ⟦x`⟧에 대하여 미분하면
+
+⟦10x^9`-6x^2`=2`left(x+1right)Q`left(`x`right)+`left(x+1right)^2`Q`prime`left(x`right)`+a`⟧
+
+양변에 ⟦x=`-1`⟧을 대입하면 ⟦a=`-16⟧
+
+⟦a=`-16`⟧을 ⟦㉡`⟧에 대입하면 ⟦b`=-12`⟧
+
+따라서 ⟦R`left(~x`right)`=`-16x-12`⟧이므로
+
+⟦R`left(`1right)`=`-28`⟧
