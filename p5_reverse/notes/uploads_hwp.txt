@@ -192,3 +192,12 @@ Batch366_T2 1yU7iy-qf3OllwEb9qEq9o9Hm-y6tE0InSqNE1e3UuvE size-OK 5853B
 Batch367 1Bw1tGfkmSn0IoQicDQCnzQqPS767mMjvP3laXkLKf6o size-OK 5884B
 DEFECTIVE (empty 문항DB, superseded, not deleted): Batch363 1ZgeLEkxOdsmxzCk9Qlg3odRmfbo-HYpw05hZfy4mZPM ; Batch366 1khlwETEuwcqWT_JnTL79meQf1ajvPQDM8m4cd20y74A (1.2KB)
 Note: Batch362 first attempt and Batch365 first attempt left no file.
+Batch372 11JtWj1GWV5l286B4d-XQ0Gkfcem_EQHLO5TigmsJJMs size-OK 5723B
+Batch368 10Cm4oS_LYuB1gwMaSCkV7EhN-yw83DTrzErfz6a0wro size-OK 5614B (문항DB rows present)
+Batch373 1sE2dIG8l6sa3GY1Pk4NKseSiGM4fLweZA4xlBnka6Zo size-OK 5948B
+Batch374 13XZR5s-6UodcuB64ZhOGBKY21Hql-tfDMMTD5sJai3Y size-OK 6009B
+DEFECTIVE (empty 문항DB, superseded, not deleted): Batch369 1kAkqU8dUbRrLP7p28wFAQfP29Mv7OC8LqZThl9L65d0 (1203B) ; Batch369_T2 1m5-4jmci-DZg-auT-hWrcTPMEPhm_yLFApUru8lVwpE (1204B) — cause: 1-char transcription error at b64 pos 1500 (chunk boundary)
+Batch369_T3 1UzdRdCHtq__CDWOhzKK9JSJOsyJt88KvlOoHqp-rgxk size-OK 4355B (batch has only 4 rows: items 221-224; transcription cmp-verified)
+Batch375 1JVRl7C-dyoJH8mFuxgNbr5gJ2xAoI_0yLBlaO_yJNFw size-OK 5741B
+Batch370 1uU2HhtLwCA-gsYtvw3S7P6-QNVR8fDd19_wa0J54nRk size-OK 5674B (문항DB rows present; transcription cmp-verified)
+Batch371_T3 17hLidSczbv0tJ9DEM-JOKWsLPrU73OzQjVL_RR12x3g size-OK 5593B (문항DB rows present). Note: Batch371 and Batch371_T2 calls rejected as invalid base64 (stray newlines) - no files created

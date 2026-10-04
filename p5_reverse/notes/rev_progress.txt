@@ -103,4 +103,16 @@ Batch576-583 A02438 천재(이) 확통 Ⅰ단원 PDF (Drive 텍스트층 8~41쪽
 Batch584-597 A02435 수학Ⅰ Ⅰ단원 지수함수와 로그함수 PDF (5.0MB 다운로드, 텍스트층 지수 소실 → 58쪽 렌더 시각판독; 정답 164~170쪽 미포함 → REVIEW-정답지미연결) 131 rows; cum 14341
 BLOCKED: A02434 02 삼각함수.pdf 9.6MB (>MCP transport ~6MB; Drive 텍스트층 분수 분자·지수 소실 = formula-stripped) — not built
 Batch598-607 A02433 수학Ⅰ Ⅲ단원 수열 PDF (5.7MB 다운로드 7.6M chars OK, 48쪽 렌더 시각판독; 정답 180~185쪽 미포함 → REVIEW-정답지미연결) 99 rows; cum 14440
-IN PROGRESS: A02432 partial solving (notes A02432_notes.txt) — interrupted by session usage limit
+(A02432 resumed after usage-limit pause)
+Batch608-632 A02432 천재(이) 수학Ⅱ 교과서 전체 PDF 43MB PARTIAL (Drive 텍스트층 12~116쪽; 117쪽 이후·정답 155쪽~ 절단 → REVIEW-정답지미연결; 예제 32 YES, HOLD 22) 249 rows; cum 14689; SOURCE PARTIAL(텍스트층 절단, A02470 선례)
+BLOCKED: A02431 천재류-수학2-교과서-전체.pdf 69MB (1uBdyWJSjbnVKd6GLpL5n8ydpLFsOA8Vp) — Drive 텍스트층 빈 문자열(스캔/이미지 PDF), >전송한도 다운로드 불가 → NO_TEXT_RECHECK, not built
+BLOCKED: A02430 기하-신사고.vol2.egg (1_01GDrF4LHxGnL0unZX6tdo179TYXVjU) — 분할 압축 2권(EGG, 단독 해제 불가·동반 볼륨 필요) → not built
+LOCK A02439–A02430 range processed: done A02439 A02438 A02435 A02433 A02432(PARTIAL); blocked A02437 A02436 A02434 A02431 A02430
+LOCK doc 1ZtiYzTNUJZnSLyMzTCPLXShCVSKeXGQseD1BoxuVGJo: release A02439-A02430, lock A02429-A01776 (P2)
+A02429-A01776: 0 rows (egg BLOCKED; 준비개념 NO_QUESTIONS; 문제 PDF = duplicate of P3_TO_P1 문제 NOTE HWP)
+LOCK doc 1E_Ynsopb-rU7XlNoWTe5gEHNg8bN5vOK8FAUjmViy5g: release A02429-A01776, lock A01757-A01648 (P2 gap between P3_TO_P1 and P2_FORWARD)
+Batch633-641 A01705..A01673 [비상교육] 고등_대수 계산력 강화 문제 HWP 33종 (다중 원본 배치, 파일 내 정답; 정답충돌 3: A01698 01⑴·03⑹, A01677 03⑵; 작도형 HOLD 3) 81 rows; cum 14770
+A01757-A01755 수업 지도안 HWP -> NO_QUESTIONS (문제 번호만 참조); A01754-A01752 대단원 지도 계획 HWP -> NO_QUESTIONS(장르 분류, 미개봉); A01739-A01737 교과서 HWP >10MB BLOCKED(문제 NOTE와 중복 가능)
+Batch642-650 A01670..A01665 지학사_고_대수 대단원 기출(3종×20)·서술형 문제(3종×10) PDF (렌더 시각판독+파일 정답·해설 전 문항 일치) 90 rows; cum 14860
+A01672/A01671 [비상교육] 고등_대수_수업 활용 문제북(학생/교사용) 23MB PDF -> DUPLICATE-FAMILY COMPOSITE (계산력 강화=A01673-A01705 본 스트림, 소단원 확인·수행 과제=P3_TO_P1 A01706-A01727) + 고유 구간(중단원 수준별 문제·대단원 TEST) 텍스트층 순서 뒤섞임·>10MB 렌더 불가 -> HOLD_SOURCE(NO_TEXT_RECHECK), not built
+A01751-A01749 지도서 PDF(13MB+) -> 정답 동반자료(문제 NOTE 정답, P3_TO_P1 repair 소관) companion, not built; A01748/A01747-A01745/A01740 교과서 PDF -> 교과서 HWP(A01737-39)·문제 NOTE와 동일 계열 duplicate representation(>10MB), not built
