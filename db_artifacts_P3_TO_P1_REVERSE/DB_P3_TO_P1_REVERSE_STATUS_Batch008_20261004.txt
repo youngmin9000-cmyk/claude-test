@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch008_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=8 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00661 1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2- 풍산자필수유형수학2 교사용web (1).pdf rows=584 COMPLETE (LOCK released for this source) repair_pending=YES; A00931 1WBLdYXhGZL2POps5K3s-18wE-Rmw2Ido [64]풍산자필수유형수학(상)(PDF).zip :: 풍산자필수유형수학(상)_학생용.pdf rows=745 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=1329 (detail 0) PASS=1319 PASS_WITH_DEFECT=8 REVIEW=0 HOLD=1 FAIL=1 production_ready={'YES': 1319, 'REVIEW': 8, 'NO': 2}
+cumulative rows=5885; repair queue additions=10
+last verified completed point: A00931 미주순번 745 (source end)
+next actual unfinished point: A00620 (백발백중 고등A 1학기 중간) — 처리 예정
+LOCK: 1YbWZ89thLgLqwtFZ5ixfivOQt26WdpkL (A00661, A00931 released by this checkpoint; A00620/A00650/A00680/A00693/A00857 remain ACTIVE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

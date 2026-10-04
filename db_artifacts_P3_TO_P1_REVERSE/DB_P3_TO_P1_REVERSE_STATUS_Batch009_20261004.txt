@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch009_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=9 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00680 1iM8bKiTmsXMg1Ikjlosl741jwT_wmFUW [113]만렙AM고등수학Ⅰ(15개정)PDF.zip :: [113]만렙AM고등수학Ⅰ(15개정)PDF.pdf rows=935 COMPLETE (LOCK released for this source) repair_pending=YES; A00693 1QNCy3YZ_9NJ0luccQA9Rzfzqcre9WwKD 개념원리 중등 수학 3-1 (2022년) - 교사용부록.pdf rows=128 COMPLETE (LOCK released for this source) repair_pending=NO
+rows added=1063 (detail 0) PASS=1062 PASS_WITH_DEFECT=1 REVIEW=0 HOLD=0 FAIL=0 production_ready={'YES': 1062, 'REVIEW': 1}
+cumulative rows=6948; repair queue additions=1
+last verified completed point: A00693 미주순번 128 (source end)
+next actual unfinished point: P2: 비상교육 고등 대수 A01706-A01769 (검산 진행중)
+LOCK: 1YbWZ89thLgLqwtFZ5ixfivOQt26WdpkL (P3 final set: A00680, A00693 COMPLETE; A00620/A00650 HOLD_COMPANION; A00857 EXCLUDE non-math; lock released) + P2 lock 1Tn3AWMoXf4DybYamteanbXE7c-Od8nuw ACTIVE
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

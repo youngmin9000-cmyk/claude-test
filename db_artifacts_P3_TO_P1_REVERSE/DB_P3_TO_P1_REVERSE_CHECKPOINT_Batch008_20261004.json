@@ -1,0 +1,195 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P3",
+ "batch": 8,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "1YbWZ89thLgLqwtFZ5ixfivOQt26WdpkL (A00661, A00931 released by this checkpoint; A00620/A00650/A00680/A00693/A00857 remain ACTIVE)",
+ "sources": [
+  {
+   "queue_id": "A00661",
+   "drive_id": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "name": "풍산자필수유형수학2 교사용web (1).pdf",
+   "sha256": "47e1b31c03a403ca244ac793afc490b9ab21099edefdfa52939051ae210df20e",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-584 (전체)",
+   "canonical_rows": 584,
+   "verdicts": {
+    "PASS": 576,
+    "PASS_WITH_DEFECT": 7,
+    "HOLD": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A00931",
+   "drive_id": "1WBLdYXhGZL2POps5K3s-18wE-Rmw2Ido",
+   "name": "[64]풍산자필수유형수학(상)(PDF).zip :: 풍산자필수유형수학(상)_학생용.pdf",
+   "sha256": "5e496c9535577d598ba94a09a43a2d2de0a8a114bab55b72668aaee8efa6add7",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-745 (전체)",
+   "canonical_rows": 745,
+   "verdicts": {
+    "PASS": 743,
+    "PASS_WITH_DEFECT": 1,
+    "FAIL": 1
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 1329,
+ "detail_rows_added": 0,
+ "PASS": 1319,
+ "PASS_WITH_DEFECT": 8,
+ "REVIEW": 0,
+ "HOLD": 1,
+ "FAIL": 1,
+ "production_ready": {
+  "YES": 1319,
+  "REVIEW": 8,
+  "NO": 2
+ },
+ "new_repair_queue_additions": 10,
+ "repair_queue": [
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "037",
+   "page": "12",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: 해설이 f=3x³+2x²+ax에서 a=2를 구한 뒤 f=3x³+x²+2x로 잘못 적어 f(1)=6. 올바른 답 f(1)=7",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "127",
+   "page": "30",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 정의역이 '구간 [3, 5]'로 인쇄되었으나 그래프는 [-2, 3]에서 정의됨(126번 조건 복사 오기). 답 ④ 불변",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "133",
+   "page": "31",
+   "status": "HOLD",
+   "reason": "본문: 10x¹⁰+10x=a는 정수 a≥-6에서 항상 실근 2개라 '오직 하나의 실근' 전제가 성립하지 않음. 해설은 f(-1)f(1)<0만으로 1~19(19개) 산출; '(-1,1)에서 실근 1개'로 읽으면 a=0~19로 20개(④); HOLD_ANSWER",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "270",
+   "page": "58",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: 풀이 마지막 '6k²+1=6·1²+7=13'은 계산오류. 6·1²+1=7이 정답",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "283",
+   "page": "62",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 선지⑤ 구간 표기 '[2, ∞]'는 '[2, ∞)'의 오타",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "408",
+   "page": "85",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 선지 ③의 값이 인쇄 누락(빈칸); 정답 ④ 21에는 영향 없음",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "502",
+   "page": "105",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: x=-1 대입 시 좌변 0, 우변 -1/3-1/2+2=7/6으로 주어진 등식이 성립 불가(아래끝 0이면 정합). 미분으로 얻는 정답 -2는 유효",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00661",
+   "source": "1n_1tTZWiYuEEmeh0Qqlyzorip0TcBC2-",
+   "question": "578",
+   "page": "119",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: 발문은 p+q를 묻는데 해설·정답은 p²+q²=13으로 계산. p=3,q=-2이므로 올바른 답은 p+q=1",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00931",
+   "source": "1WBLdYXhGZL2POps5K3s-18wE-Rmw2Ido",
+   "question": "Ⅰ-1-013",
+   "page": "8",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 두번째 인수 x²+2xy+4y²는 x²-2xy+4y²의 오타(해설도 (x+2y)(x²+2xy+4y²)=x³+8y³로 잘못 처리). 의도 정답 ②",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P3",
+   "queue_id": "A00931",
+   "source": "1WBLdYXhGZL2POps5K3s-18wE-Rmw2Ido",
+   "question": "Ⅰ-2-047",
+   "page": "15",
+   "status": "FAIL",
+   "reason": "본문: (x-1)⁴의 전개와 x계수(3 vs -4)·상수항(-1 vs 1)이 맞지 않아 항등식 자체가 불가능. 해설은 x=1,2만 대입해 ab=2(①) 도출(x=0 대입 시 모순)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "상"
+  }
+ ],
+ "cumulative_rows": 5885,
+ "last_verified_completed_point": "A00931 미주순번 745 (source end)",
+ "next_actual_unfinished_point": "A00620 (백발백중 고등A 1학기 중간) — 처리 예정",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO"
+}
