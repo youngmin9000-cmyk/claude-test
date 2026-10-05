@@ -144,3 +144,6 @@ Batch712-714 A00847 대영고 2022 2-1 중간 수학Ⅰ(HWP 내 BMP 7장; 21; �
 A00840 2023년 2학기 중간고사 수정.pdf -> DUPLICATE of A00845 (동일 이미지, 회전 메타만 상이), 렌더용으로만 사용
 Batch715-717 A00845 영등포여고 2023 2-2 중간 수학Ⅱ(22; key A00844 jpg + 서답 채점기준 A00843 jpg, 전 일치; 서답2 a≠−2 가정 메모) 22 rows; cum 15449
 PAUSED 2026-10-05 by user after Batch717 (cum 15449); next A00842 Batch718; see CHECKPOINT_P5REV_20261005_Batch717.md
+RESUMED 2026-10-05 (same line: P5 reverse, P1 lock A01458-A00820 descending; no Drive upload). 6LANE 폴더는 타 세션(lane_02/04/06, A000xx 구간) — 본 구간과 충돌 없음 확인
+A00842/A00841 영등포여고 2023-1 전과목 원안(21.6/22.8MB) -> BLOCKED-ACCESS >10MB; A00834(107MB)/A00832(134MB)/A00831(121MB)/A00830(58MB) BLOCKED
+Batch718-720 A00839 EBS 버티컬 모의고사 시즌2 확통(JYJ 편집 HWP; 30; 인라인 정답 전 일치, 15·28·29 전수확인; 그림 3문항 REVIEW) 30 rows; cum 15479
