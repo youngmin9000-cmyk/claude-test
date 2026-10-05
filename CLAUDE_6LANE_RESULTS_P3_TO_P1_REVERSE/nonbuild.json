@@ -1556,5 +1556,41 @@
 "decision": "DUPLICATE (A00427 HWP원본)",
 "source_new_build_complete": "YES",
 "rows": 0
+},
+{
+"queue_id": "A00277",
+"decision": "DUPLICATE (A00273 z07)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00276",
+"decision": "DUPLICATE (A00272 z07)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00275",
+"decision": "DUPLICATE (A00271 z07)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00274",
+"decision": "DUPLICATE (A00270 z07 scan)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00221",
+"decision": "DUPLICATE (A00219 z09)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00223",
+"decision": "COMPANION_LINK_ONLY (A00224 정답·해설)",
+"source_new_build_complete": "YES",
+"rows": 0
 }
 ]
