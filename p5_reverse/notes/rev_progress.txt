@@ -147,3 +147,5 @@ PAUSED 2026-10-05 by user after Batch717 (cum 15449); next A00842 Batch718; see 
 RESUMED 2026-10-05 (same line: P5 reverse, P1 lock A01458-A00820 descending; no Drive upload). 6LANE 폴더는 타 세션(lane_02/04/06, A000xx 구간) — 본 구간과 충돌 없음 확인
 A00842/A00841 영등포여고 2023-1 전과목 원안(21.6/22.8MB) -> BLOCKED-ACCESS >10MB; A00834(107MB)/A00832(134MB)/A00831(121MB)/A00830(58MB) BLOCKED
 Batch718-720 A00839 EBS 버티컬 모의고사 시즌2 확통(JYJ 편집 HWP; 30; 인라인 정답 전 일치, 15·28·29 전수확인; 그림 3문항 REVIEW) 30 rows; cum 15479
+A00833 수분감 확통 문제편(9.1MB) -> BLOCKED-TRANSPORT (connector 응답 과대로 전송 실패)
+Batch721-725 A00829 대영고 2023 2-1 중간 수학Ⅰ(23; NOKEY REVIEW) + A00828 대영고 2023 2-1 기말 수학Ⅰ(22; NOKEY REVIEW; 디지털 동일본 A00821로 판독) 45 rows; A00821 -> DUPLICATE of A00828; cum 15524
