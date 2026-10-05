@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch044_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=44 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00321 1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS [2026년][중2수학][1학기중간고사대비][실전 모의고사][10회분][한글+PDF].zip rows=204 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=204 (detail 0) PASS=193 PASS_WITH_DEFECT=11 REVIEW=0 HOLD=0 FAIL=0 production_ready={'YES': 193, 'REVIEW': 11}
+cumulative rows=19722; repair queue additions=11
+last verified completed point: A00321 미주순번 204 (source end)
+next actual unfinished point: P1 next: A00166/165 (verifying) — last P1 items in lane
+LOCK: LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

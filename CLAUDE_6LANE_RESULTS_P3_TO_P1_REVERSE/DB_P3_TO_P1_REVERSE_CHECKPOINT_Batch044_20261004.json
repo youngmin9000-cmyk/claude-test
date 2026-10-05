@@ -1,0 +1,188 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P1",
+ "batch": 44,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)",
+ "sources": [
+  {
+   "queue_id": "A00321",
+   "drive_id": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "name": "[2026년][중2수학][1학기중간고사대비][실전 모의고사][10회분][한글+PDF].zip",
+   "sha256": "e69df218c113293c450c735bf11b414e22082f0e1ec7159aab0ef09d3c656696",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-204 (전체)",
+   "canonical_rows": 204,
+   "verdicts": {
+    "PASS": 193,
+    "PASS_WITH_DEFECT": 11
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "YES",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 204,
+ "detail_rows_added": 0,
+ "PASS": 193,
+ "PASS_WITH_DEFECT": 11,
+ "REVIEW": 0,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 193,
+  "REVIEW": 11
+ },
+ "new_repair_queue_additions": 11,
+ "repair_queue": [
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "24",
+   "page": "zip내부 z04 02. [2025년][기출][중2][1학기중간고사][아현중][서울][정답].pdf p6",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: 정답 ③(2개)은 오류, 16자리가 되는 x는 5 하나뿐이므로 ② 1개",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "15#2",
+   "page": "zip내부 z06 03. [2025년][기출][중2][1학기중간고사][신백현중][경기][해설].pdf p4",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: a_i 중 0이 포함되므로 \"한 자리 자연수\"가 아니라 \"0 이상 9 이하의 정수\"여야 함(답 영향 없음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "01#5",
+   "page": "zip내부 z10 05. [2025년][기출][중2][1학기중간고사][능인중][대구][정답].pdf p1",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: ㄹ의 소수 전개 \"7.857857587…\"은 \"7.857857857…\"의 오타로 보임(어느 쪽이든 ㄹ은 틀린 표현이므로 답 영향 없음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "16#4",
+   "page": "zip내부 z10 05. [2025년][기출][중2][1학기중간고사][능인중][대구][정답].pdf p4",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: 정답 ⑤(499)는 네 번째로 작은 a(495)의 값; 세 번째는 a=396, b=5이므로 ④ 401",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "19(서술형2)",
+   "page": "zip내부 z10 05. [2025년][기출][중2][1학기중간고사][능인중][대구][정답].pdf p5",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 단서 \"(단, a, b은 자연수이다)\"는 \"a, n\"의 오타(답 영향 없음)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "5",
+   "page": "zip내부 z12 06. [2025년][기출][중2][1학기중간고사][대륜중][대구][정답].pdf p1",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 선지② \"07̇3̇\"에 소수점 누락(0.7̇3̇ 의도), 정답에는 영향 없음",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "8",
+   "page": "zip내부 z12 06. [2025년][기출][중2][1학기중간고사][대륜중][대구][정답].pdf p2",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 24a²b²는 24a²b³의 오식(인쇄식대로 계산하면 선지에 답 없음; 의도 답 ③)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "16(서술형4)",
+   "page": "zip내부 z12 06. [2025년][기출][중2][1학기중간고사][대륜중][대구][정답].pdf p4",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: \"<o\"는 \"<0\"의 오타",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "6#3",
+   "page": "zip내부 z16 08. [2025년][기출][중2][1학기중간고사][소선여중][대구][정답].pdf p2",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: \"부등식 …의 값은?\"은 \"부등식의 해는?\"의 부정확한 표현",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "12(서술형2)",
+   "page": "zip내부 z16 08. [2025년][기출][중2][1학기중간고사][소선여중][대구][정답].pdf p3",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "본문: 정수(n=3, 한 변 1m)를 유한소수에서 제외한다는 조건 미명시(포함 시 9개)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  },
+  {
+   "phase": "P1",
+   "queue_id": "A00321",
+   "source": "1kml_AYvk56QF-MmVMIjJPvOHp21qzZCS",
+   "question": "17(서답형6)",
+   "page": "zip내부 z18 09. [2025년][기출][중2][1학기중간고사][정화중][대구][정답].pdf p5",
+   "status": "PASS_WITH_DEFECT",
+   "reason": "정답표: (1) 27개 (2) 23개는 조건(1<n≤10, 기약분수) 하 오답; 직접 열거 시 22개, 22개 (n=1 포함해도 27/26)",
+   "required_material": "원문/해설 대조",
+   "retry_condition": "GLOBAL REPAIR 단계",
+   "priority": "중"
+  }
+ ],
+ "cumulative_rows": 19722,
+ "last_verified_completed_point": "A00321 미주순번 204 (source end)",
+ "next_actual_unfinished_point": "P1 next: A00166/165 (verifying) — last P1 items in lane",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO"
+}
