@@ -1,0 +1,157 @@
+{
+ "schema_version": "1.2",
+ "stream": "P4_FORWARD",
+ "lane": "CLAUDE_6LANE_RESULTS_lane_P4F",
+ "generated": "2026-10-05",
+ "batches": "B106-B134",
+ "artifacts": [
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch106_20261005.csv",
+   "sha256": "a16cf8ae6b833035800bd425d7bde2bf07de1fce803acf4c9675e536fc768177",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch107_20261005.csv",
+   "sha256": "256d3183f11779274540937752e74a91df5d07bff2282a98659f28151e029bce",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch108_20261005.csv",
+   "sha256": "d44796d4895b5da41e58311a5ae9c8b62372e90fa5fec2895e7a831171f13ce2",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch109_20261005.csv",
+   "sha256": "953e65d10d23fdda400cd170b6ecd4d60fdac5dce7f1370beb8bf08863aac65d",
+   "rows": 10
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch110_20261005.csv",
+   "sha256": "65823682b5c5cf38032e59552240fe013c135baf68085d4cb450afcf4fae1933",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch111_20261005.csv",
+   "sha256": "b246b75b8b52179f375c3033aa62b01c95fcf03c3b6d2c61034ac3f9ecab4382",
+   "rows": 10
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch112_20261005.csv",
+   "sha256": "644cd8363cf915c7a63d1211209d9c53ea4f7f7c9b96aa751c3a78e8133d94e6",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch113_20261005.csv",
+   "sha256": "61dad19b7a6254d74f4325f2a83bd8fe4e025d47b57833ef84c8c3a639876115",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch114_20261005.csv",
+   "sha256": "5d39f44867ea0792a91de335f085b096e5dc8053352005846beab7f81db67e00",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch115_20261005.csv",
+   "sha256": "65b330049dbd34a8be1f42ff596013a82d5f50de6974f45e9d8c9f1248f78edf",
+   "rows": 20
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch116_20261005.csv",
+   "sha256": "e80a4498c0b628ea6cd8860cdf6498b58d0358e80ec627ab878498f8261394e4",
+   "rows": 10
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch117_20261005.csv",
+   "sha256": "9b2e4165f186c911f02b17b54dc23708230cf18d070f0c2e2cc320114d470f0c",
+   "rows": 13
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch118_20261005.csv",
+   "sha256": "368616caa74c2c8a6c01f5f5491956607996abb35674cd346fc0ae36260bbacc",
+   "rows": 13
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch119_20261005.csv",
+   "sha256": "8f60b3c7974263d62498bac561e47edb7e0e63bb0dc75d0df528a745d2e2abe1",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch120_20261005.csv",
+   "sha256": "cee8fddd91ebb747ee48a39e5fbeca822a35a35616ad5b0cdb64cf350a9ce958",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch121_20261005.csv",
+   "sha256": "2c4bfb358cfc1d38fa3c1c91509365eb06cb09bfbc6023a698f87d730abda86d",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch122_20261005.csv",
+   "sha256": "360c9d8aa6f98b19f0e33c939696ede476fa91d16dbb058dfab826ab012c1209",
+   "rows": 11
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch123_20261005.csv",
+   "sha256": "9e3fe17c663623751847a0a7d266df69897894e39cde6383d1bfa9102f943b0e",
+   "rows": 11
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch124_20261005.csv",
+   "sha256": "1710b68db37cb1c1417d921fdcda21d3c74c73c7696a3eda83e469a4986247d2",
+   "rows": 11
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch125_20261005.csv",
+   "sha256": "96334b40e3c3338e68ab1407cd2d3dd2754c59cd545424cd1d79742f1d6f4482",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch126_20261005.csv",
+   "sha256": "6bc2f95c484bbe2d53da9f0b780ab4eb4e5495dfde6f89f89c3b54cb51b7d6bc",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch127_20261005.csv",
+   "sha256": "5b9b2448d5f991aa05a693e328e9d4fe3406c1249ac84e1bc0a82816af2fbb85",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch128_20261005.csv",
+   "sha256": "b61dc8a5c37d82b2903e018c33a426eff4f0ec10cb577996f5c4a5d85214ed19",
+   "rows": 11
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch129_20261005.csv",
+   "sha256": "67bfbc842558dd3285c0c5b3511ca11fc775d3baf67c928fb517604832d91c2e",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch130_20261005.csv",
+   "sha256": "c1525bc5c78a2631342ab6ff93ff7b16571c60434a91ec6c311691fa008b35f5",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch131_20261005.csv",
+   "sha256": "ac5a2c20a8d6eb698bef12d072c22594dffe7080a0f747f54c41ff223b431729",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch132_20261005.csv",
+   "sha256": "b866885dcae1317ed5111a8e858d526aaeeb06f708018f9108d3672556d312a9",
+   "rows": 11
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch133_20261005.csv",
+   "sha256": "cd9fd6e36118af0d4b4c87e310b665391b706fac36cac5b7560764aa4b6526a0",
+   "rows": 12
+  },
+  {
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch134_20261005.csv",
+   "sha256": "af2c526f8ed945ca1ec6d722f38f50a3848ae7d52fe14c173c882c6715e5e365",
+   "rows": 12
+  }
+ ],
+ "total_rows": 403,
+ "review_rows": 5,
+ "actionable_backlog_remaining": 0
+}
