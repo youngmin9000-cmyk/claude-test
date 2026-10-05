@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch045_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=45 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00166 11fUOcxRUbgAAFH4-ROHdHFTWmYqOSYnQ 영신고_공통수학2_실전예상시험_1-6회_학생용.pdf rows=120 COMPLETE (LOCK released for this source) repair_pending=YES; A00165 1zQ4qDdPlMUj1VA_vVuKg1nTzZA66aZsd 영신고_공통수학2_실전예상시험_7-12회_학생용.pdf rows=120 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=240 (detail 0) PASS=0 PASS_WITH_DEFECT=0 REVIEW=240 HOLD=0 FAIL=0 production_ready={'REVIEW': 240}
+cumulative rows=19962; repair queue additions=240
+last verified completed point: A00165 미주순번 120 (source end)
+next actual unfinished point: P1 lane A00590-A00160 complete; meets P1 forward at A00159
+LOCK: LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

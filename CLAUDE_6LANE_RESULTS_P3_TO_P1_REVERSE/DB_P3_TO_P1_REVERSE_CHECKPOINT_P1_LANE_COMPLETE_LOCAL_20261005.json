@@ -1,0 +1,259 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P1",
+ "date": "2026-10-05",
+ "mode": "LOCAL_ONLY (no Drive upload; separate uploader handles Drive)",
+ "last_completed": "A00160",
+ "lane": "P1 A00590..A00160 (A01835..A00820 = P5REV lock, A00159..A00095 = P1 forward CCR done)",
+ "next_unprocessed": "NONE — reverse stream met P1 forward at A00159; processable P1 backlog = 0",
+ "cumulative_unique_rows": 19962,
+ "resume_batches": {
+  "Batch034": {
+   "rows": 739,
+   "production_ready": {
+    "REVIEW": 231,
+    "YES": 505,
+    "NO": 3
+   }
+  },
+  "Batch035": {
+   "rows": 357,
+   "production_ready": {
+    "YES": 180,
+    "REVIEW": 177
+   }
+  },
+  "Batch036": {
+   "rows": 255,
+   "production_ready": {
+    "REVIEW": 235,
+    "YES": 20
+   }
+  },
+  "Batch037": {
+   "rows": 276,
+   "production_ready": {
+    "REVIEW": 276
+   }
+  },
+  "Batch038": {
+   "rows": 307,
+   "production_ready": {
+    "REVIEW": 104,
+    "NO": 1,
+    "YES": 202
+   }
+  },
+  "Batch039": {
+   "rows": 175,
+   "production_ready": {
+    "REVIEW": 173,
+    "NO": 2
+   }
+  },
+  "Batch040": {
+   "rows": 188,
+   "production_ready": {
+    "YES": 24,
+    "REVIEW": 164
+   }
+  },
+  "Batch041": {
+   "rows": 420,
+   "production_ready": {
+    "REVIEW": 420
+   }
+  },
+  "Batch042": {
+   "rows": 120,
+   "production_ready": {
+    "YES": 120
+   }
+  },
+  "Batch043": {
+   "rows": 88,
+   "production_ready": {
+    "REVIEW": 58,
+    "YES": 30
+   }
+  },
+  "Batch044": {
+   "rows": 204,
+   "production_ready": {
+    "YES": 193,
+    "REVIEW": 11
+   }
+  },
+  "Batch045": {
+   "rows": 240,
+   "production_ready": {
+    "REVIEW": 240
+   }
+  }
+ },
+ "resume_totals_production_ready": {
+  "REVIEW": 2089,
+  "YES": 1274,
+  "NO": 6
+ },
+ "p1_ids_in_lane": 200,
+ "built_ids": 90,
+ "nonbuild_ids": 110,
+ "remaining_HOLD_SOURCE (size>5.9MB / .egg / inline; not processable via connector)": [
+  "A00218",
+  "A00279",
+  "A00282",
+  "A00284",
+  "A00285",
+  "A00315",
+  "A00320",
+  "A00322",
+  "A00328",
+  "A00329",
+  "A00330",
+  "A00331",
+  "A00339",
+  "A00340",
+  "A00341",
+  "A00342",
+  "A00343",
+  "A00344",
+  "A00345",
+  "A00346",
+  "A00347",
+  "A00348",
+  "A00353",
+  "A00354",
+  "A00355",
+  "A00356",
+  "A00358",
+  "A00365",
+  "A00368",
+  "A00369",
+  "A00414",
+  "A00420",
+  "A00421",
+  "A00422",
+  "A00424",
+  "A00425",
+  "A00426",
+  "A00433",
+  "A00457",
+  "A00459",
+  "A00464",
+  "A00465",
+  "A00466",
+  "A00467",
+  "A00468",
+  "A00469",
+  "A00470",
+  "A00484",
+  "A00548",
+  "A00549",
+  "A00551",
+  "A00588",
+  "A00589",
+  "A00590"
+ ],
+ "unuploaded_result_files": [
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch032_20261004_part01of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch032_20261004_part02of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch032_20261004_part03of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch032_20261004_part04of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch032_20261004_part05of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch032_20261004_part06of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part01of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part02of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part03of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part04of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part05of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part06of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part07of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part08of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part09of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch033_20261004_part10of10.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part01of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part02of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part03of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part04of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part05of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part06of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part07of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part08of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part09of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part10of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part11of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part12of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part13of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part14of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part15of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part16of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part17of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part18of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch034_20261004_part19of19.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part01of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part02of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part03of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part04of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part05of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part06of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part07of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part08of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch035_20261004_part09of09.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch036_20261004_part01of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch036_20261004_part02of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch036_20261004_part03of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch036_20261004_part04of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch036_20261004_part05of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch036_20261004_part06of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch036_20261004_part07of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch037_20261004_part01of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch037_20261004_part02of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch037_20261004_part03of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch037_20261004_part04of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch037_20261004_part05of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch037_20261004_part06of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch037_20261004_part07of07.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part01of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part02of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part03of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part04of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part05of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part06of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part07of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch038_20261004_part08of08.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch039_20261004_part01of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch039_20261004_part02of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch039_20261004_part03of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch039_20261004_part04of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch039_20261004_part05of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch040_20261004_part01of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch040_20261004_part02of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch040_20261004_part03of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch040_20261004_part04of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch040_20261004_part05of05.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part01of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part02of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part03of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part04of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part05of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part06of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part07of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part08of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part09of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part10of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch041_20261004_part11of11.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch042_20261004_part01of03.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch042_20261004_part02of03.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch042_20261004_part03of03.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch043_20261004_part01of03.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch043_20261004_part02of03.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch043_20261004_part03of03.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch044_20261004_part01of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch044_20261004_part02of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch044_20261004_part03of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch044_20261004_part04of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch044_20261004_part05of06.csv",
+  "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch044_20261004_part06of06.csv"
+ ]
+}

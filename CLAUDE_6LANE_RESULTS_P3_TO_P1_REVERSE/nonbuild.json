@@ -1808,5 +1808,233 @@
 "decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
 "source_new_build_complete": "NO",
 "rows": 0
+},
+{
+"queue_id": "A00368",
+"decision": "HOLD_SOURCE_SIZE(9.1MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00369",
+"decision": "HOLD_SOURCE_SIZE(10.3MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00414",
+"decision": "HOLD_SOURCE_SIZE(27.6MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00420",
+"decision": "HOLD_SOURCE_SIZE(39.5MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00421",
+"decision": "HOLD_SOURCE_SIZE(33.6MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00422",
+"decision": "HOLD_SOURCE_SIZE(42.7MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00424",
+"decision": "HOLD_SOURCE_SIZE(24.0MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00425",
+"decision": "HOLD_SOURCE_SIZE(23.5MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00426",
+"decision": "HOLD_SOURCE_SIZE(23.4MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00433",
+"decision": "HOLD_SOURCE_SIZE(15.3MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00442",
+"decision": "COMPANION_LINK_ONLY (A00434)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00443",
+"decision": "COMPANION_LINK_ONLY (A00434)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00454",
+"decision": "COMPANION_LINK_ONLY (A00453)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00455",
+"decision": "COMPANION_LINK_ONLY (A00453)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00457",
+"decision": "HOLD_SOURCE_SIZE(24.7MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00459",
+"decision": "HOLD_SOURCE_SIZE(23.0MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00464",
+"decision": "HOLD_SOURCE_SIZE(22.1MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00465",
+"decision": "HOLD_SOURCE_SIZE(13.6MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00466",
+"decision": "HOLD_SOURCE_SIZE(26.9MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00467",
+"decision": "HOLD_SOURCE_SIZE(14.8MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00468",
+"decision": "HOLD_SOURCE_SIZE(8.4MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00469",
+"decision": "HOLD_SOURCE_SIZE(6.4MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00470",
+"decision": "HOLD_SOURCE_SIZE(8.7MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00474",
+"decision": "COMPANION_LINK_ONLY (A00473)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00475",
+"decision": "COMPANION_LINK_ONLY (A00473)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00476",
+"decision": "COMPANION_LINK_ONLY (A00473)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00548",
+"decision": "HOLD_SOURCE_SIZE(48.7MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00549",
+"decision": "HOLD_SOURCE_SIZE(6.9MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00551",
+"decision": "HOLD_SOURCE_SIZE(7.3MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00581",
+"decision": "DUPLICATE (A00587)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00582",
+"decision": "DUPLICATE (A00587)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00583",
+"decision": "DUPLICATE (A00587)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00584",
+"decision": "DUPLICATE (A00587)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00585",
+"decision": "DUPLICATE (A00587)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00586",
+"decision": "DUPLICATE (A00587)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00588",
+"decision": "HOLD_SOURCE_SIZE(729.9MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00589",
+"decision": "HOLD_SOURCE_SIZE(755.6MB)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00590",
+"decision": "HOLD_SOURCE_SIZE(388.1MB)",
+"source_new_build_complete": "NO",
+"rows": 0
 }
 ]
