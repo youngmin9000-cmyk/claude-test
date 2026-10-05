@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch043_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=43 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00351 1CwiMUpyhMtPTSjjG2NFrvI1GcawlFtFt 등촌중 3-2 기말.pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES; A00300 1u-mAW4MZsHcTeF9yUq0rnRKC1xEX4GvA 2025학년도 1학기 중간고사 2학년 수학1 고사원안.pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES; A00298 1WqJJs3tQ42R0eBABNwAgn9Thm8Xus-J_ 2025학년도 1학기 기말고사 2학년 수학1 고사원안.pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES; A00296 1GqwuQ4Em0PMP7wAvRM12BwiU8Ox3n79j 2025학년도 2학기 중간고사 2학년 수학Ⅱ 고사원안.pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=88 (detail 0) PASS=30 PASS_WITH_DEFECT=4 REVIEW=54 HOLD=0 FAIL=0 production_ready={'REVIEW': 58, 'YES': 30}
+cumulative rows=19518; repair queue additions=58
+last verified completed point: A00296 미주순번 22 (source end)
+next actual unfinished point: P1 next: A00321 (schools 06-10 verifying), A00166/165 (verifying)
+LOCK: LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO
