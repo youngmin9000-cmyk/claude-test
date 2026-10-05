@@ -1592,5 +1592,221 @@
 "decision": "COMPANION_LINK_ONLY (A00224 정답·해설)",
 "source_new_build_complete": "YES",
 "rows": 0
+},
+{
+"queue_id": "A00306",
+"decision": "DUPLICATE (A00305 재조판)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00302",
+"decision": "DUPLICATE (A00298 scan)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00301",
+"decision": "DUPLICATE (A00296 scan)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00307",
+"decision": "COMPANION_LINK_ONLY (A00308 서답 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00303",
+"decision": "COMPANION_LINK_ONLY (A00304 서답 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00299",
+"decision": "COMPANION_LINK_ONLY (A00300 서답 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00297",
+"decision": "COMPANION_LINK_ONLY (A00298 서답 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00295",
+"decision": "COMPANION_LINK_ONLY (A00296 서답 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0
+},
+{
+"queue_id": "A00218",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00279",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00282",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00284",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00285",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00315",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00320",
+"decision": "HOLD_SOURCE (.egg or >5.9MB, not downloadable)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00322",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00328",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00329",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00330",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00331",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00339",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00340",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00341",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00342",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00343",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00344",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00345",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00346",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00347",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00348",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00353",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00354",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00355",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00356",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00358",
+"decision": "HOLD_SOURCE (.egg or >5.9MB, not downloadable)",
+"source_new_build_complete": "NO",
+"rows": 0
+},
+{
+"queue_id": "A00365",
+"decision": "HOLD_SOURCE_SIZE (>5.9MB, connector download limit)",
+"source_new_build_complete": "NO",
+"rows": 0
 }
 ]

@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch036_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=36 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00283 1iftu2T3eqdmkWMn-XZ6YnzeNDtj03b17 2학기 2학년 중간.zip rows=35 COMPLETE (LOCK released for this source) repair_pending=YES; A00168 1ISWhViUGBXyqitoK34Ipwcq9xLlmh_SQ 서울여상고_2025_2학기_1학년_공통수학2_중간고사.pdf rows=20 COMPLETE (LOCK released for this source) repair_pending=NO; A00167 1ztDMm9xlN0dV9CQUD8yneZFaXef7JgPL 공통수학2_중간고사대비_예상문제_1-10회_학생용.pdf rows=200 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=255 (detail 0) PASS=20 PASS_WITH_DEFECT=0 REVIEW=235 HOLD=0 FAIL=0 production_ready={'REVIEW': 235, 'YES': 20}
+cumulative rows=17944; repair queue additions=235
+last verified completed point: A00167 미주순번 200 (source end)
+next actual unfinished point: P1 next: A00365..A00160 remaining (verifying)
+LOCK: LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO
