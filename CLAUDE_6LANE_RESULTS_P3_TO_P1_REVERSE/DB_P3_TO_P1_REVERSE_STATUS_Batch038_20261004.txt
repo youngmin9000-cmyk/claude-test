@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch038_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=38 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00292 1GC9JpUp9QLwDo3-lHf9B3cgeKHjKAQv7 2024학년도 3학년 1학기 원안지.pdf rows=44 COMPLETE (LOCK released for this source) repair_pending=YES; A00291 1vB2vUorHVsFM-c1Tmk-yire05np6CB5A 3학년 2학기 기말고사 원안지.pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES; A00287 1Lq45AwilTyV16mcCaPfRQC-62YGn1zBv 2025년 1학기 1학년 기말고사(원안지).pdf rows=21 COMPLETE (LOCK released for this source) repair_pending=YES; A00224 1keqGHVm1Zmdb3d-ZmrPS827Xf9kLz2FD 관악고_공통수학2_실전예상_1-10회_학생용_합본 (1).pdf rows=220 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=307 (detail 0) PASS=202 PASS_WITH_DEFECT=18 REVIEW=86 HOLD=1 FAIL=0 production_ready={'REVIEW': 104, 'NO': 1, 'YES': 202}
+cumulative rows=18527; repair queue additions=105
+last verified completed point: A00224 미주순번 220 (source end)
+next actual unfinished point: P1 next: A00365..A00160 remaining (verifying)
+LOCK: LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO
