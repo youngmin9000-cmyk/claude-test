@@ -1,0 +1,37 @@
+from cfgex import *
+MC, S_, D = "객관식(5지선다)", "단답형", "서술형"
+M, H = "보통", "높음"
+setup("A00587", "1WHMFkh4Yyn7YeDTPDBpMI-WhbJChN4sB", "2025년 1학년 2학기 기말고사.pdf", "p4/A00587.pdf", "운암고등학교", "2025학년도", "2학기 2차 지필평가", "고1", "공통수학2", CURR="2022 개정",
+      VIS="스캔 PDF(6쪽) 1300px 렌더 + 150dpi 확대 시각판독; 선택지 번호 위 응시자 표기 흔적(정답 근거 미사용)", TEXT="OCR 텍스트층 불완전 — 렌더 판독 확정")
+builder.SOL_PAGE.update({k:0 for k in range(1,2000)})
+SET, FN = "집합과 명제", "함수와 그래프"
+def r(q, page, big, mid, small, tid, tname, tags, diff, ans, chk, pts, **kw):
+    kw.setdefault("atype", "선택지")
+    R(q, page, big, mid, small, tid, tname, tags, diff, MC, ans, f"운암고 2025 1-2 기말 공통수학2 {q}번", chk, label=str(q), pts=pts, **kw)
+r(1,1,FN,"유리함수","유리식","RATIONAL_EXPR.PRODUCT","3/x × 1/x","유리식","하","③ (3/x²)","","3.2")
+r(2,1,SET,"명제","명제의 뜻","PROP.DEFINITION.IDENTIFY","명제인 것","명제","하","② (π는 유리수이다)","참·거짓 판별 가능(거짓 명제)","3.3",trap=M)
+r(3,1,SET,"명제","절대부등식","INEQ.ABSOLUTE.IDENTIFY","절대부등식이 아닌 것","절대부등식","하","② (x−1>0)","","3.4")
+r(4,1,FN,"역함수","역함수","FUNC.INVERSE.EVAL","f=2x+2, f⁻¹(2)","역함수","하","① (0)","","3.4")
+r(5,1,FN,"무리함수","무리식","IRRATIONAL_EXPR.CONJUGATE","(√(x+5)+√x)(√(x+5)−√x)","무리식","하","③ (5)","","3.5")
+r(6,1,FN,"합성함수","합성함수","FUNC.COMPOSITE.EVAL","f=x²−2, g=−x+3, (g∘f)(2)","합성함수","하","① (1)","f(2)=2","3.5")
+r(7,2,FN,"무리함수","무리함수의 그래프","FUNC.SQRT.QUADRANT","√(x+4)−1 지나지 않는 사분면","무리함수","하","④ (제4사분면)","시작점 (−4,−1)","3.6")
+r(8,2,FN,"함수","함수의 뜻","FUNC.GRAPH.IDENTIFY","함수의 그래프인 것 (보기 4개)","함수;그래프","하","⑤ (ㄱ, ㄷ, ㄹ)","ㄴ 원은 함수 아님","3.6",fig="그래프")
+r(9,2,FN,"함수","서로 같은 함수","FUNC.EQUAL.FINITE_DOMAIN","정의역 {−1,0,1}, 2x²+4 = a|x|+b, b−a","함수의 상등","하","① (2)","b=4, a=2","3.7")
+r(10,2,FN,"유리함수","유리함수의 평행이동","FUNC.RATIONAL.TRANSLATE_MATCH","k/x를 (m,−1) 이동 = (7−x)/(x−5), mk","유리함수;평행이동","하","③ (10)","−1+2/(x−5)","3.7")
+r(11,2,SET,"명제","명제와 진리집합","PROP.SUBSET_COUNT.TRUE_IMPLICATION","q: 11 이하 짝수, p→q 참 P 개수 (P≠∅)","진리집합;부분집합","하","⑤ (31)","2⁵−1","3.8")
+r(12,2,FN,"무리함수","무리함수와 직선","FUNC.SQRT.LINE_TWO_INTERSECT","y=−√(x−3)와 y=−x+k 두 점, 정수 k 개수","무리함수;위치 관계","중하","② (1)","t²−t+3−k=0 두 음이 아닌 근: 11/4<k≤3","3.9",c=M,trap=M)
+r(13,3,SET,"명제","진리집합","PROP.NEGATION.TRUTH_SET_SUM","U=1..10, p: x²−11x+18≤0, ~p 진리집합 합","진리집합;부정","하","② (11)","{1,10}","4.0")
+r(14,3,SET,"명제","'어떤'을 포함한 명제","PROP.EXISTENTIAL_FALSE.DISCRIMINANT","'어떤 x, x²−2kx+3k<0' 거짓, 정수 k 합","명제의 부정;판별식","중하","⑤ (6)","k²−3k≤0 → 0~3","4.1",c=M,trap=M)
+r(15,3,FN,"역함수","역함수와 합성","FUNC.INVERSE.COMMUTE_PARAM","f=2x+k, g=3x−1, f⁻¹∘g=g∘f⁻¹, k","역함수;합성함수","하","① (−1/2)","","4.2")
+r(16,3,SET,"명제","충분조건과 필요조건","PROP.SUFFICIENT.SET_STATEMENTS","~q는 ~p이기 위한 충분조건, Q⊂Rᶜ, 보기","충분조건;진리집합","중하","④ (ㄱ, ㄷ)","P⊂Q⊂Rᶜ","4.3",c=M)
+r(17,4,FN,"함수","여러 가지 함수","FUNC.FINITE.BIJECTION_IDENTITY_CONST","X={1,2,3} 일대일대응 f, 항등 g, 상수 h, 조건, f(3)+g(3)+h(3)","여러 가지 함수","하","④ (6)","h≡1, f=(1,3,2)","4.3")
+r(18,4,FN,"무리함수","무리함수의 그래프","FUNC.SQRT.SYMMETRIC_AREA","√(7−3x)+3, √(3x+7)−6, x=±2 둘러싼 넓이","무리함수;대칭;넓이","중",  "④ (36)","y₁(x)=y₂(−x)+9 → 넓이 9×4","4.4",c=M,i=M)
+r(19,4,FN,"역함수","역함수의 그래프","FUNC.INVERSE.GRAPH_STAIRCASE","f와 y=x 그래프, (f∘f)⁻¹(a)","역함수;합성함수;그래프","중하","④ (c)","f(b)=a, f(c)=b (150dpi 확대 판독)","4.4",c=M,fig="그래프")
+r(20,4,SET,"명제","절대부등식","INEQ.CAUCHY.TANGENT_LINE_FILL","코시-슈바르츠로 x²+y²=5 접선(기울기 −4/3) 빈칸","절대부등식;원의 접선","중하","③ (4x+3y, (4²+3²)(x²+y²)≥(4x+3y)², 5√5)","−5√5≤k≤5√5","4.5",c=M)
+r(21,5,FN,"역함수","역함수","FUNC.INVERSE.QUADRATIC_EQ","f=2x+2, {f(a)}²=f(a)f⁻¹(a) 정수 a 합","역함수;방정식","하","① (−3)","a=−1, −2","4.5")
+r(22,5,SET,"명제","절대부등식","INEQ.AMGM.RATIONAL_MAX","x>2, (2x−4)/(x²+x−2) 최댓값 q/p, p−q","산술기하;유리식","중","④ (7)","t=x−2: 2/(t+4/t+5)≤2/9","4.6",c=M)
+r(23,5,FN,"함수","항등함수","FUNC.PIECEWISE.IDENTITY_DOMAIN","정의역 {a,b,c} 구간별 f 항등함수, a−2b+c","항등함수","중하","⑤ (5)","f(x)=x: 1, 2, 8 (3은 x≥5 범위 밖)","4.6",c=M,trap=M)
+r(24,6,SET,"명제","명제와 진리집합","PROP.INTERVAL.DISJOINT_MAX_LENGTH","p: 3≤x≤5, q: k−6≤x≤k, ~q는 p의 필요조건, 'p∨q⇒~r', r: α<x<β 최대 길이 5 k 합","진리집합;구간","중상","② (−2)","k∈{−2,−1,0,1} (전수 확인)","4.7",c=M,i=M)
+r(25,6,FN,"유리함수","유리함수와 역함수","FUNC.RATIONAL.INVERSE_LATTICE_COUNT","f=2/(x−2)+3과 역함수 교점 A, B, 역함수와 y=x−2 교점 C, D, ABCD 내부 격자점","유리함수;역함수;격자점","중","③ (3)","A(1,1), B(4,4), C(2,0), D(5,3) → (2,1),(3,2),(4,3)","4.8",c=M,fig="그래프")
+n = len(ROWS); print(n)
+for i in range((n + 9) // 10): build(f"Batch{843+i}", ROWS[i*10:(i+1)*10], 16594+i*10)
