@@ -1,0 +1,515 @@
+{
+ "stream": "P4_FORWARD_NEW_BUILD",
+ "schema_version": "1.2",
+ "written_at": "2026-10-05T00:14:25.242311Z",
+ "stop_reason": "사용자 지시로 신규 분석 즉시 중단·로컬 확정 저장(Drive 업로드 금지)",
+ "total_rows": 670,
+ "unique_ids": 670,
+ "duplicate_ids": 0,
+ "production_ready": {
+  "YES": 666,
+  "REVIEW": 4
+ },
+ "HOLD": 0,
+ "RECHECK_REVIEW": 4,
+ "review_rows": [
+  {
+   "id": "D_27d612e5f524_P4FA00019_Q010",
+   "queue": "A00019",
+   "no": "10",
+   "src_ans": "a<−2",
+   "final": "a≤−2 (독립풀이; 원해설 a<−2와 경계 불일치)",
+   "conflict": ""
+  },
+  {
+   "id": "D_1beedb673992_P4FA00017_E10Q008",
+   "queue": "A00017",
+   "no": "연습10-8",
+   "src_ans": "미확보(정답지 없음)",
+   "final": "(1) 20 (2) 35 (숫자 중복 허용 해석; 중복 불허 시 (2)=20)",
+   "conflict": "'3개의 숫자를 택하여'와 (2) a≥b 조건 사이 숫자 중복 허용 여부 불명확"
+  },
+  {
+   "id": "D_a7ca56e12d9c_P4FA00136_Q030",
+   "queue": "A00136",
+   "no": "30",
+   "src_ans": "②",
+   "final": "⑤",
+   "conflict": "독립풀이·SymPy ⑤(45/4) ≠ 원정답표 ②(39/4)"
+  },
+  {
+   "id": "D_0bf639d16323_P4FA00189_MU32_Q005",
+   "queue": "A00189",
+   "no": "중단원평가 Ⅲ-2 통계적 추정-5",
+   "src_ans": "②",
+   "final": "① (추정: BIN0003)",
+   "conflict": "원답지 ② ↔ 독립판정 ①(그림 순서 기반); HWP 렌더로 선지 배치 확인 필요"
+  }
+ ],
+ "rows_by_queue": {
+  "A00016": 18,
+  "A00018": 18,
+  "A00019": 17,
+  "A00017": 72,
+  "A00044": 120,
+  "A00113": 31,
+  "A00121": 53,
+  "A00123": 35,
+  "A00126": 40,
+  "A00132": 42,
+  "A00136": 36,
+  "A00141": 35,
+  "A00189": 153
+ },
+ "batches": [
+  {
+   "batch": "B001",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch001_20261004.csv",
+   "rows": 53,
+   "sha256": "7a8e6386d89acf41d8277c6fb3225af7bcf22b9d383246218f167d78a6136d24",
+   "first_id": "D_4d3747fe31d1_P4FA00016_Q001",
+   "last_id": "D_27d612e5f524_P4FA00019_Q017",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": [
+    "D_27d612e5f524_P4FA00019_Q010"
+   ]
+  },
+  {
+   "batch": "B002",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch002_20261004.csv",
+   "rows": 22,
+   "sha256": "295a78ff0acffa0a7b2bd30f0e242435a15ecb841c2e33c79fd600a3e74b7245",
+   "first_id": "D_1beedb673992_P4FA00017_TBQ001",
+   "last_id": "D_1beedb673992_P4FA00017_E02Q006",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B003",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch003_20261004.csv",
+   "rows": 25,
+   "sha256": "2f97e4a750779d1775e5109d690bb3d10c0a7d57ebd651fab956dad843424d79",
+   "first_id": "D_1beedb673992_P4FA00017_E03Q001",
+   "last_id": "D_1beedb673992_P4FA00017_E06Q006",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B004",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch004_20261004.csv",
+   "rows": 25,
+   "sha256": "00545e2a96764f1bbd0381a8977dcc9476db07beff5c6c712d06e21072ffe14a",
+   "first_id": "D_1beedb673992_P4FA00017_E07Q001",
+   "last_id": "D_1beedb673992_P4FA00017_E09Q006",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": [
+    "D_1beedb673992_P4FA00017_E10Q008"
+   ]
+  },
+  {
+   "batch": "B005",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch005_20261004.csv",
+   "rows": 40,
+   "sha256": "5cd42c98cec8db39a0fda3469167fb6253a96066f6c0189c2a4738a30340e0aa",
+   "first_id": "D_e534f6b4ea60_P4FA00044_R1Q001",
+   "last_id": "D_e534f6b4ea60_P4FA00044_R2S004",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B006",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch006_20261004.csv",
+   "rows": 20,
+   "sha256": "ed18f00e583c59eacbf4bfc2aa180297bc68d64b037afa61656ba1823d8d3422",
+   "first_id": "D_e534f6b4ea60_P4FA00044_R3Q001",
+   "last_id": "D_e534f6b4ea60_P4FA00044_R3S004",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B007",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch007_20261004.csv",
+   "rows": 20,
+   "sha256": "0495af11c24d3ee01a3ab41c8cf23be7d16cb2d1020c949d60a921ed032909dd",
+   "first_id": "D_e534f6b4ea60_P4FA00044_R4Q001",
+   "last_id": "D_e534f6b4ea60_P4FA00044_R4S004",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B008",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch008_20261004.csv",
+   "rows": 20,
+   "sha256": "722ad0a58dcc2085a294d27725c88d8597a0a30bb92a07c458372914bca594ca",
+   "first_id": "D_e534f6b4ea60_P4FA00044_R5Q001",
+   "last_id": "D_e534f6b4ea60_P4FA00044_R5S004",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B009",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch009_20261004.csv",
+   "rows": 20,
+   "sha256": "cc014b89ac5d40f6b9c9a71a956d0cd4616ffa435336f813fba23347b5480c53",
+   "first_id": "D_e534f6b4ea60_P4FA00044_R6Q001",
+   "last_id": "D_e534f6b4ea60_P4FA00044_R6S004",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B010",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch010_20261004.csv",
+   "rows": 16,
+   "sha256": "9150f0ef0461115a1b41497580aae3a969a58a6582dda7aefc24aef0554eff7c",
+   "first_id": "D_da9baf71f234_P4FA00113_Q001",
+   "last_id": "D_da9baf71f234_P4FA00113_Q016",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B011",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch011_20261004.csv",
+   "rows": 15,
+   "sha256": "d7912ea80c9fc53cdfab072a7ac2bed6d067201e5312d5c7a0cd519ba8563a0f",
+   "first_id": "D_da9baf71f234_P4FA00113_Q017",
+   "last_id": "D_da9baf71f234_P4FA00113_Q031",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B012",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch012_20261004.csv",
+   "rows": 15,
+   "sha256": "d21346b3da7bb06acedc1e6aaabeeddc997d810dad6177b6cd3a0722c0544dd1",
+   "first_id": "D_4b96160f2351_P4FA00121_R1Q001",
+   "last_id": "D_4b96160f2351_P4FA00121_R1Q015",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B013",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch013_20261004.csv",
+   "rows": 15,
+   "sha256": "5e8a19f3543579eed3867f26d5b716c22036d799596deda8000d84a9ab09090f",
+   "first_id": "D_4b96160f2351_P4FA00121_R2Q001",
+   "last_id": "D_4b96160f2351_P4FA00121_R2Q015",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B014",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch014_20261004.csv",
+   "rows": 13,
+   "sha256": "50abd9f7ffeaa15cdf6ebd177e0e602ea9bbd6191ed7b3c5455695c758418423",
+   "first_id": "D_4b96160f2351_P4FA00121_R3Q001",
+   "last_id": "D_4b96160f2351_P4FA00121_R3Q013",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B015",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch015_20261004.csv",
+   "rows": 10,
+   "sha256": "933f1cdefdc5d7be37f3845a6594e162b520acfbea3a00b2643c65c00206ceca",
+   "first_id": "D_4b96160f2351_P4FA00121_R4Q001",
+   "last_id": "D_4b96160f2351_P4FA00121_R4Q010",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B016",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch016_20261004.csv",
+   "rows": 18,
+   "sha256": "2d803a87c22b4e4c161b0ae6354476173e87a4383df094228101f8598babdcd2",
+   "first_id": "D_632b4ed94d1f_P4FA00123_Q001",
+   "last_id": "D_632b4ed94d1f_P4FA00123_Q018",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B017",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch017_20261004.csv",
+   "rows": 17,
+   "sha256": "5faf94ef7a146b186e8df888b212b4cfa6bdd0f015cd9d58c5fbe13a1b569c0b",
+   "first_id": "D_632b4ed94d1f_P4FA00123_Q019",
+   "last_id": "D_632b4ed94d1f_P4FA00123_Q035",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B018",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch018_20261004.csv",
+   "rows": 20,
+   "sha256": "6ce1892ad1d4a8e05e65102620f8541a0a001fe2b937f908e80d21f97954e489",
+   "first_id": "D_cfe46559c6a7_P4FA00126_Q001",
+   "last_id": "D_cfe46559c6a7_P4FA00126_Q020",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B019",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch019_20261004.csv",
+   "rows": 20,
+   "sha256": "202e3aed1c75c49d1ba358619f6b3fc2a8015cd1838261893d8b49728df9402a",
+   "first_id": "D_cfe46559c6a7_P4FA00126_Q021",
+   "last_id": "D_cfe46559c6a7_P4FA00126_Q040",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B020",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch020_20261004.csv",
+   "rows": 14,
+   "sha256": "56fbfc1def1cea4d722aa7297788272e1565d6c9bb04db6b4d540453f66bb90c",
+   "first_id": "D_9d90676fd601_P4FA00132_Q001",
+   "last_id": "D_9d90676fd601_P4FA00132_Q014",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B021",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch021_20261004.csv",
+   "rows": 14,
+   "sha256": "d0529ae3dacea0ab070a8000ebcb549aa6f4fbfc92dbeba79593b6abc881c969",
+   "first_id": "D_9d90676fd601_P4FA00132_Q015",
+   "last_id": "D_9d90676fd601_P4FA00132_Q028",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B022",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch022_20261004.csv",
+   "rows": 14,
+   "sha256": "b73a8de18db028da9af8061eb7f44cb997bffb679f884509bf0466bd420afde8",
+   "first_id": "D_9d90676fd601_P4FA00132_Q029",
+   "last_id": "D_9d90676fd601_P4FA00132_Q042",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B023",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch023_20261004.csv",
+   "rows": 18,
+   "sha256": "1fbd030d78e4512473513145e35a4e961fc04808aeebd45893ba967c6a5835e3",
+   "first_id": "D_a7ca56e12d9c_P4FA00136_Q001",
+   "last_id": "D_a7ca56e12d9c_P4FA00136_Q018",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": []
+  },
+  {
+   "batch": "B024",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch024_20261004.csv",
+   "rows": 18,
+   "sha256": "81c1734411c50328981635dc96e436339e1814b2c0a4c9c4d7e3bdd1a151ef23",
+   "first_id": "D_a7ca56e12d9c_P4FA00136_Q019",
+   "last_id": "D_a7ca56e12d9c_P4FA00136_Q036",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "(이전 세션 기록 참조)",
+   "review": [
+    "D_a7ca56e12d9c_P4FA00136_Q030"
+   ]
+  },
+  {
+   "batch": "B025",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch025_20261004.csv",
+   "rows": 18,
+   "sha256": "60662bb21928ebe10cc37da4c2b894147b6f35398f6fc97f13682fea0b959305",
+   "first_id": "D_5f30a8d26a92_P4FA00141_Q001",
+   "last_id": "D_5f30a8d26a92_P4FA00141_Q018",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "14OXf1-A1LDZtNUGDwlP_LHtRUCY1tcdXasYKGXeBt7A",
+   "review": []
+  },
+  {
+   "batch": "B026",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch026_20261004.csv",
+   "rows": 17,
+   "sha256": "ae23c14623a9dae9ff34694887c06d70ee11e8cad02aed47d95041aa2b4165d5",
+   "first_id": "D_5f30a8d26a92_P4FA00141_Q019",
+   "last_id": "D_5f30a8d26a92_P4FA00141_Q035",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "1ODxxoJ_PetfsYqAozUeQ7FY1WWFGrdh9_TVcl7KSvE4",
+   "review": []
+  },
+  {
+   "batch": "B027",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch027_20261004.csv",
+   "rows": 12,
+   "sha256": "4ee1339b2727558291ae61bad9de6a92bac2f47bb158758af55a76700bd2aacf",
+   "first_id": "D_0bf639d16323_P4FA00189_MU11_Q001",
+   "last_id": "D_0bf639d16323_P4FA00189_MU11_Q012",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "1e3xRGUbHFHVcK5pR_jaDjoSMzNpTMz2tHhBc5x-Svo8",
+   "review": []
+  },
+  {
+   "batch": "B028",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch028_20261004.csv",
+   "rows": 12,
+   "sha256": "b16736cef74c9c4320a3e7518e0998ba5cbe72f1d90f0c6ad15a760e15bf656e",
+   "first_id": "D_0bf639d16323_P4FA00189_MU11_Q013",
+   "last_id": "D_0bf639d16323_P4FA00189_MU11_Q024",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "1f-3pik46RH65Gv6XaD1WJ4DYvZ5AFCwOxL3RwHZWruQ",
+   "review": []
+  },
+  {
+   "batch": "B029",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch029_20261004.csv",
+   "rows": 12,
+   "sha256": "6cf46c653d6a395486df1d92683981ff40a63ffe2b1904dfe46b1574b6c4fff6",
+   "first_id": "D_0bf639d16323_P4FA00189_MU12_Q001",
+   "last_id": "D_0bf639d16323_P4FA00189_MU12_Q012",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "12snkA7X1sKpHXoXDwTDpJIuHEH4TnohlbLvVMllkGnA",
+   "review": []
+  },
+  {
+   "batch": "B030",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch030_20261004.csv",
+   "rows": 12,
+   "sha256": "3e72a241bc674a8c3e5bb862c1f80fe3c3d7157b82341aa720968e289a647b93",
+   "first_id": "D_0bf639d16323_P4FA00189_MU12_Q013",
+   "last_id": "D_0bf639d16323_P4FA00189_MU12_Q024",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "1hN4zHQvLZ8RUCmjjN133RNcvq7mnoNhyJbDRmmDy-EM",
+   "review": []
+  },
+  {
+   "batch": "B031",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch031_20261004.csv",
+   "rows": 12,
+   "sha256": "c70cd7bbaf51729f05d53467bfff1d4417660fd76baa9be74a9a788e062ec5b9",
+   "first_id": "D_0bf639d16323_P4FA00189_MU13_Q001",
+   "last_id": "D_0bf639d16323_P4FA00189_MU13_Q012",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "1muNTYiKjnrvfHvNpMdwssLaDj3lA6Mnae3ZQlY2COfw",
+   "review": []
+  },
+  {
+   "batch": "B032",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch032_20261004.csv",
+   "rows": 12,
+   "sha256": "bd708143bfa5b9e2b1f9e1bf4b30790575ebe175c8ca64372b23d9df405c5520",
+   "first_id": "D_0bf639d16323_P4FA00189_MU21_Q001",
+   "last_id": "D_0bf639d16323_P4FA00189_MU21_Q012",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "19YSNXJgOrV5rtwlVsBViD1DRSi5eMeY0reRibc-f3p4",
+   "review": []
+  },
+  {
+   "batch": "B033",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch033_20261004.csv",
+   "rows": 12,
+   "sha256": "bae18dec38a89e2c87aef32232b0edeb865a19987edc19f2c96076c541240642",
+   "first_id": "D_0bf639d16323_P4FA00189_MU21_Q013",
+   "last_id": "D_0bf639d16323_P4FA00189_MU21_Q024",
+   "drive_status": "UPLOADED_READBACK_OK",
+   "drive_id": "1r-v9uL5AVjfK8gGy8dIJhj2KX0pu4y-NSjyzKAolFiQ",
+   "review": []
+  },
+  {
+   "batch": "B034",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch034_20261004.csv",
+   "rows": 12,
+   "sha256": "c44664f25dfb6bc3c5d5d40b063d9b84e491defbb961f6cbe024d06830cce10d",
+   "first_id": "D_0bf639d16323_P4FA00189_MU22_Q001",
+   "last_id": "D_0bf639d16323_P4FA00189_MU22_Q012",
+   "drive_status": "UPLOADED_READBACK_PENDING",
+   "drive_id": "12mz3VEw6kNil8znkJXWFaaBRlMYCCDbJmDlqREfx_5M",
+   "review": []
+  },
+  {
+   "batch": "B035",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch035_20261004.csv",
+   "rows": 11,
+   "sha256": "1a41597e86ff8fef4bfc4bdff47e0f506ef2470c73c2ebc155762e90a6010225",
+   "first_id": "D_0bf639d16323_P4FA00189_MU22_Q013",
+   "last_id": "D_0bf639d16323_P4FA00189_MU22_Q023",
+   "drive_status": "UPLOADED_READBACK_PENDING",
+   "drive_id": "1ugJIooovVuCHMY_qvVOGAf5HJbcE8bIII70mWGFCgnU",
+   "review": []
+  },
+  {
+   "batch": "B036",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch036_20261004.csv",
+   "rows": 12,
+   "sha256": "7867fa92903be3938ef6eb3274ba172953a27349be5ec283aee892a1e2fcbe4f",
+   "first_id": "D_0bf639d16323_P4FA00189_MU31_Q001",
+   "last_id": "D_0bf639d16323_P4FA00189_MU31_Q012",
+   "drive_status": "UPLOADED_READBACK_PENDING",
+   "drive_id": "1EomSBAspiJJv4J1CUomX593NlnGV7qcAne7Vwns3vKQ",
+   "review": []
+  },
+  {
+   "batch": "B037",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch037_20261004.csv",
+   "rows": 11,
+   "sha256": "d807f7bfa74354a35fafad5ac9f8da88d59a1d8546e4faf576ff7f99e380c918",
+   "first_id": "D_0bf639d16323_P4FA00189_MU31_Q013",
+   "last_id": "D_0bf639d16323_P4FA00189_MU31_Q023",
+   "drive_status": "UPLOADED_READBACK_PENDING",
+   "drive_id": "1MOuBFvLByeweUmuuKUAQVDi9Z9qGTGegSF5tYgy1efc",
+   "review": []
+  },
+  {
+   "batch": "B038",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch038_20261004.csv",
+   "rows": 12,
+   "sha256": "c0cbe17869311c728866c436891ccc842e11ff08358f33dbf984a3a3562ed0c0",
+   "first_id": "D_0bf639d16323_P4FA00189_MU32_Q001",
+   "last_id": "D_0bf639d16323_P4FA00189_MU32_Q012",
+   "drive_status": "UPLOADED_READBACK_PENDING",
+   "drive_id": "1_KyImZ6xX2HZjtdBlU4VpYJgyZDGuRZhoDS5o6aH5DE",
+   "review": [
+    "D_0bf639d16323_P4FA00189_MU32_Q005"
+   ]
+  },
+  {
+   "batch": "B039",
+   "file": "Math_Question_DB_P4_FORWARD_Result_Batch039_20261004.csv",
+   "rows": 11,
+   "sha256": "aa7388bcd337014fe16965d9ef950f5ddb6fcc3b037f7c556503f488e044cab3",
+   "first_id": "D_0bf639d16323_P4FA00189_MU32_Q013",
+   "last_id": "D_0bf639d16323_P4FA00189_MU32_Q023",
+   "drive_status": "NOT_UPLOADED",
+   "drive_id": null,
+   "review": []
+  }
+ ],
+ "not_uploaded_files": [
+  "Math_Question_DB_P4_FORWARD_Result_Batch039_20261004.csv"
+ ],
+ "uploaded_readback_pending": [
+  "Math_Question_DB_P4_FORWARD_Result_Batch034_20261004.csv",
+  "Math_Question_DB_P4_FORWARD_Result_Batch035_20261004.csv",
+  "Math_Question_DB_P4_FORWARD_Result_Batch036_20261004.csv",
+  "Math_Question_DB_P4_FORWARD_Result_Batch037_20261004.csv",
+  "Math_Question_DB_P4_FORWARD_Result_Batch038_20261004.csv"
+ ],
+ "merged_file": "P4_FORWARD_ALL_B001-B039_20261005.csv",
+ "merged_sha256": "c2091aa5a29c79b5d0264405a2e9513e34c16f59959529f05b619ce942f83cae"
+}
