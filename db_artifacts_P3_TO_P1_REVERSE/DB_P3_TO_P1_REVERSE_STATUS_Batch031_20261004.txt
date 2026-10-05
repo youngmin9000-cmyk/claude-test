@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch031_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=31 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A01876 1d6YDfIem5yx_eIVKF9uWBp4XI_UAY989 영신고 2018-2학기-기말 2학년 전과목 문제.pdf rows=66 COMPLETE (LOCK released for this source) repair_pending=YES; A01844 1NH4ekA1uCX_NBKe651TwJHo9hjAoFyLV 2017년도 1학년 1학기 중간고사 영신고.pdf rows=23 COMPLETE (LOCK released for this source) repair_pending=YES; A01841 1tvEOC32kyyFaGqnaAR9gAg0E3nfbzN2- 영신고 2018년 2학기 중간고사 2학년 고사원안.pdf rows=66 COMPLETE (LOCK released for this source) repair_pending=YES; A01840 16DGpC2NQocQ607Sp2_RbVQEKq2omn1_e 2019학년도 1학기 중간고사 원안(1학년).pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES; A01837 1ZNt23NUOYUdjGlUWRdJb9NVe5cCMzgZ3 2019학년도 2학기 중간고사 원안(1학년).pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES; A01836 1lTdAP3FdVWqdOk5ECJFxBmqd6d0QEJr7 2019학년도 2학기 중간고사 원안(2학년).pdf rows=22 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=221 (detail 0) PASS=0 PASS_WITH_DEFECT=0 REVIEW=221 HOLD=0 FAIL=0 production_ready={'REVIEW': 221}
+cumulative rows=15975; repair queue additions=221
+last verified completed point: A01836 미주순번 22 (source end)
+next actual unfinished point: P1 A01835→A00437 (survey)
+LOCK: 1SwCfoqJwXeT4F5IO27jn2ja9eTO6ZIyA (P1 A01836-A02035 RELEASED: lane COMPLETE except HOLD_SOURCE_SIZE/INLINE)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO

@@ -1,0 +1,956 @@
+{
+ "saved_at": "2026-10-05T00:14Z",
+ "workdir": "/tmp/claude-0/w",
+ "result_files": [
+  {
+   "batch": 1,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch001_20261004.csv",
+   "rows": 75,
+   "sha256": "256a9024f9012ee7577872f78e21c81918f1b04077538120a8cd62d090a75598"
+  },
+  {
+   "batch": 2,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch002_20261004.csv.whole",
+   "rows": 243,
+   "sha256": "20d0151505f1fd91aab1b99bcad753a544aefe8106dca5da1104a0f3a9aea45e"
+  },
+  {
+   "batch": 3,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch003_20261004.csv.whole",
+   "rows": 642,
+   "sha256": "a487e580e1c829b41d75f531d627330c6923e717ef171747f30135622c5c8334"
+  },
+  {
+   "batch": 4,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch004_20261004.csv.whole",
+   "rows": 310,
+   "sha256": "80341f794f15bddb5a76063b141955027d920dd296bbc3b6a21a2910e1af0823"
+  },
+  {
+   "batch": 5,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch005_20261004.csv.whole",
+   "rows": 545,
+   "sha256": "ccd1d88c86eeac674c7519c9f34184741dc5bf3ccbd716095ea26659026ab660"
+  },
+  {
+   "batch": 6,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch006_20261004.csv.whole",
+   "rows": 1607,
+   "sha256": "a2fd8cb1042e0fa691688f1586a2f675bc1aafea011c9fce65e9c8b1b8258031"
+  },
+  {
+   "batch": 7,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch007_20261004.csv.whole",
+   "rows": 1134,
+   "sha256": "efb0dc1e9f1978fadc6e7400679182e8ed4ffc642b1152ebca6b950d2cc7635f"
+  },
+  {
+   "batch": 8,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch008_20261004.csv.whole",
+   "rows": 1329,
+   "sha256": "49a0f9ccc10c005325360bebe30877da339ea8cf4a323cb7803690f7b03d35a6"
+  },
+  {
+   "batch": 9,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch009_20261004.csv.whole",
+   "rows": 1063,
+   "sha256": "f2232f8a2b6e47f96aca898ace2ad99343809aa0c9df064f8da26d94970ba497"
+  },
+  {
+   "batch": 10,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch010_20261004.csv.whole",
+   "rows": 556,
+   "sha256": "a560a8f7f04178980e4d1679c156ac98fc5c61f833e6279df312a6253748ad64"
+  },
+  {
+   "batch": 11,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch011_20261004.csv.whole",
+   "rows": 81,
+   "sha256": "f83f1c54559323659965c266efa541b041d062cffcea1e3fdc13d765a1af17b1"
+  },
+  {
+   "batch": 12,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch012_20261004.csv.whole",
+   "rows": 90,
+   "sha256": "e0497be4370c31b8a5ef6dbb48370f6046c49c0ce0c680613908bdeed5c7a671"
+  },
+  {
+   "batch": 13,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch013_20261004.csv.whole",
+   "rows": 294,
+   "sha256": "2515f61f619a9cfd001108fa93cba5379ddff1dde182f2f4da79665868a83221"
+  },
+  {
+   "batch": 14,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch014_20261004.csv.whole",
+   "rows": 954,
+   "sha256": "ee23842dfad3ab8de9018feed23a38cb96023604e0e5d1ae012d9fbf25736cb1"
+  },
+  {
+   "batch": 15,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch015_20261004.csv.whole",
+   "rows": 223,
+   "sha256": "c8ec190e000d4975585853e8c18c9952c30b25f47fafbb0cacea6abda29326d6"
+  },
+  {
+   "batch": 16,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch016_20261004.csv.whole",
+   "rows": 695,
+   "sha256": "96e9585ad669d9f887c7b0f76235d5173fab452249627e430f64599a7abe2bd5"
+  },
+  {
+   "batch": 17,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch017_20261004.csv.whole",
+   "rows": 348,
+   "sha256": "aa3f749b9d7e7ea933a360e762f3468532b1cbc46f4116595961e36fee479556"
+  },
+  {
+   "batch": 18,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch018_20261004.csv.whole",
+   "rows": 198,
+   "sha256": "a263d818bfa51415317814fd93fdad9a8d49a9133edf106747100606ef7d6e81"
+  },
+  {
+   "batch": 19,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch019_20261004.csv.whole",
+   "rows": 317,
+   "sha256": "b1e8a16a3e6f564b3679fcbf34d7495a3409a9b940e659e2232b5c2ee78476e7"
+  },
+  {
+   "batch": 20,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch020_20261004.csv.whole",
+   "rows": 362,
+   "sha256": "a02ca816bef87da806082f1cf884d18d83cfcfe9ba2b4094bec39aa504bfc146"
+  },
+  {
+   "batch": 21,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch021_20261004.csv.whole",
+   "rows": 199,
+   "sha256": "365d9f5c585502dec8da85d9dd2eafdea5dd50c179a111e3e55c923f0099f8ef"
+  },
+  {
+   "batch": 22,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch022_20261004.csv.whole",
+   "rows": 160,
+   "sha256": "2355afe229e01ae787e12371739659e764313c89a660f5bb3c99c4ca98ddbeb9"
+  },
+  {
+   "batch": 23,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch023_20261004.csv.whole",
+   "rows": 540,
+   "sha256": "7f4001462810dcd636750ae7ddf6b82da65d5dd6ba0675bb57b3153f04f2ae5e"
+  },
+  {
+   "batch": 24,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch024_20261004.csv.whole",
+   "rows": 264,
+   "sha256": "a4963c8e905f94d02a8ba635628967ab9c3e5401e38722e8f293f3c2a006a3a3"
+  },
+  {
+   "batch": 25,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch025_20261004.csv.whole",
+   "rows": 464,
+   "sha256": "823eb69bf105bada95d9e027bb80055824a3b50cdd3f1a3ced09250681b62516"
+  },
+  {
+   "batch": 26,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch026_20261004.csv.whole",
+   "rows": 234,
+   "sha256": "f7656f7bc46a9a4f267871e6663fbf47ba1939afe92cb8993c5b74daee3d9a0f"
+  },
+  {
+   "batch": 27,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch027_20261004.csv.whole",
+   "rows": 682,
+   "sha256": "11ee34524a677e5bd99dd22d578b90dc2b67feed5d9bbe95d7981fc0db5df61b"
+  },
+  {
+   "batch": 28,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch028_20261004.csv.whole",
+   "rows": 1104,
+   "sha256": "699161411a0b58583419a3264d066fc116f78ae99a804d35597869aaed3eb50f"
+  },
+  {
+   "batch": 29,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch029_20261004.csv.whole",
+   "rows": 457,
+   "sha256": "e4fa824bba925ccd02a02bd41dbd24dbb73f56ba04aa2ba1f9e79fe7ede590e4"
+  },
+  {
+   "batch": 30,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch030_20261004.csv.whole",
+   "rows": 584,
+   "sha256": "9e5fd85ff910d228e376dabbe840b39cbbb39bc5469602dc3fe17be8b5718c27"
+  },
+  {
+   "batch": 31,
+   "path": "/tmp/claude-0/w/up/Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch031_20261004.csv.whole",
+   "rows": 221,
+   "sha256": "0d2e469719cce8b05d03cc2b3b870ce2aa15e37ee077ff0d713afcb7fd78855a"
+  }
+ ],
+ "not_uploaded": [
+  {
+   "batch": 5,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch005_20261004.csv.whole",
+   "rows_total": 545,
+   "rows_not_uploaded": 10,
+   "ranges": [
+    [
+     501,
+     510
+    ]
+   ]
+  },
+  {
+   "batch": 6,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch006_20261004.csv.whole",
+   "rows_total": 1607,
+   "rows_not_uploaded": 120,
+   "ranges": [
+    [
+     271,
+     280
+    ],
+    [
+     341,
+     350
+    ],
+    [
+     641,
+     650
+    ],
+    [
+     801,
+     810
+    ],
+    [
+     911,
+     920
+    ],
+    [
+     931,
+     940
+    ],
+    [
+     1001,
+     1010
+    ],
+    [
+     1161,
+     1170
+    ],
+    [
+     1211,
+     1220
+    ],
+    [
+     1341,
+     1350
+    ],
+    [
+     1561,
+     1570
+    ],
+    [
+     1591,
+     1600
+    ]
+   ]
+  },
+  {
+   "batch": 7,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch007_20261004.csv.whole",
+   "rows_total": 1134,
+   "rows_not_uploaded": 300,
+   "ranges": [
+    [
+     81,
+     90
+    ],
+    [
+     161,
+     170
+    ],
+    [
+     201,
+     210
+    ],
+    [
+     291,
+     300
+    ],
+    [
+     341,
+     360
+    ],
+    [
+     401,
+     410
+    ],
+    [
+     421,
+     440
+    ],
+    [
+     451,
+     460
+    ],
+    [
+     521,
+     530
+    ],
+    [
+     541,
+     560
+    ],
+    [
+     571,
+     580
+    ],
+    [
+     611,
+     620
+    ],
+    [
+     641,
+     650
+    ],
+    [
+     661,
+     670
+    ],
+    [
+     691,
+     700
+    ],
+    [
+     711,
+     720
+    ],
+    [
+     761,
+     770
+    ],
+    [
+     791,
+     800
+    ],
+    [
+     941,
+     950
+    ],
+    [
+     971,
+     990
+    ],
+    [
+     1001,
+     1010
+    ],
+    [
+     1031,
+     1040
+    ],
+    [
+     1051,
+     1060
+    ],
+    [
+     1091,
+     1110
+    ],
+    [
+     1121,
+     1130
+    ]
+   ]
+  },
+  {
+   "batch": 8,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch008_20261004.csv.whole",
+   "rows_total": 1329,
+   "rows_not_uploaded": 260,
+   "ranges": [
+    [
+     191,
+     200
+    ],
+    [
+     241,
+     250
+    ],
+    [
+     331,
+     340
+    ],
+    [
+     361,
+     370
+    ],
+    [
+     451,
+     460
+    ],
+    [
+     481,
+     490
+    ],
+    [
+     511,
+     520
+    ],
+    [
+     601,
+     610
+    ],
+    [
+     691,
+     700
+    ],
+    [
+     811,
+     820
+    ],
+    [
+     881,
+     890
+    ],
+    [
+     901,
+     920
+    ],
+    [
+     941,
+     980
+    ],
+    [
+     991,
+     1000
+    ],
+    [
+     1011,
+     1030
+    ],
+    [
+     1041,
+     1050
+    ],
+    [
+     1061,
+     1080
+    ],
+    [
+     1111,
+     1120
+    ],
+    [
+     1141,
+     1150
+    ],
+    [
+     1161,
+     1170
+    ]
+   ]
+  },
+  {
+   "batch": 9,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch009_20261004.csv.whole",
+   "rows_total": 1063,
+   "rows_not_uploaded": 481,
+   "ranges": [
+    [
+     21,
+     30
+    ],
+    [
+     51,
+     60
+    ],
+    [
+     71,
+     80
+    ],
+    [
+     91,
+     100
+    ],
+    [
+     111,
+     120
+    ],
+    [
+     141,
+     150
+    ],
+    [
+     161,
+     170
+    ],
+    [
+     201,
+     210
+    ],
+    [
+     221,
+     230
+    ],
+    [
+     261,
+     270
+    ],
+    [
+     311,
+     320
+    ],
+    [
+     331,
+     340
+    ],
+    [
+     381,
+     390
+    ],
+    [
+     401,
+     410
+    ],
+    [
+     461,
+     470
+    ],
+    [
+     501,
+     510
+    ],
+    [
+     541,
+     550
+    ],
+    [
+     561,
+     600
+    ],
+    [
+     621,
+     630
+    ],
+    [
+     641,
+     660
+    ],
+    [
+     686,
+     730
+    ],
+    [
+     741,
+     750
+    ],
+    [
+     761,
+     770
+    ],
+    [
+     791,
+     810
+    ],
+    [
+     821,
+     850
+    ],
+    [
+     861,
+     900
+    ],
+    [
+     938,
+     970
+    ],
+    [
+     981,
+     990
+    ],
+    [
+     1001,
+     1020
+    ],
+    [
+     1041,
+     1063
+    ]
+   ]
+  },
+  {
+   "batch": 10,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch010_20261004.csv.whole",
+   "rows_total": 556,
+   "rows_not_uploaded": 498,
+   "ranges": [
+    [
+     1,
+     40
+    ],
+    [
+     51,
+     508
+    ]
+   ]
+  },
+  {
+   "batch": 11,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch011_20261004.csv.whole",
+   "rows_total": 81,
+   "rows_not_uploaded": 81,
+   "ranges": [
+    [
+     1,
+     81
+    ]
+   ]
+  },
+  {
+   "batch": 12,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch012_20261004.csv.whole",
+   "rows_total": 90,
+   "rows_not_uploaded": 90,
+   "ranges": [
+    [
+     1,
+     90
+    ]
+   ]
+  },
+  {
+   "batch": 13,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch013_20261004.csv.whole",
+   "rows_total": 294,
+   "rows_not_uploaded": 294,
+   "ranges": [
+    [
+     1,
+     294
+    ]
+   ]
+  },
+  {
+   "batch": 14,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch014_20261004.csv.whole",
+   "rows_total": 954,
+   "rows_not_uploaded": 734,
+   "ranges": [
+    [
+     101,
+     110
+    ],
+    [
+     121,
+     159
+    ],
+    [
+     220,
+     847
+    ],
+    [
+     898,
+     954
+    ]
+   ]
+  },
+  {
+   "batch": 15,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch015_20261004.csv.whole",
+   "rows_total": 223,
+   "rows_not_uploaded": 223,
+   "ranges": [
+    [
+     1,
+     223
+    ]
+   ]
+  },
+  {
+   "batch": 16,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch016_20261004.csv.whole",
+   "rows_total": 695,
+   "rows_not_uploaded": 662,
+   "ranges": [
+    [
+     1,
+     264
+    ],
+    [
+     298,
+     695
+    ]
+   ]
+  },
+  {
+   "batch": 17,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch017_20261004.csv.whole",
+   "rows_total": 348,
+   "rows_not_uploaded": 333,
+   "ranges": [
+    [
+     1,
+     177
+    ],
+    [
+     193,
+     348
+    ]
+   ]
+  },
+  {
+   "batch": 18,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch018_20261004.csv.whole",
+   "rows_total": 198,
+   "rows_not_uploaded": 178,
+   "ranges": [
+    [
+     21,
+     198
+    ]
+   ]
+  },
+  {
+   "batch": 19,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch019_20261004.csv.whole",
+   "rows_total": 317,
+   "rows_not_uploaded": 270,
+   "ranges": [
+    [
+     1,
+     220
+    ],
+    [
+     268,
+     317
+    ]
+   ]
+  },
+  {
+   "batch": 20,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch020_20261004.csv.whole",
+   "rows_total": 362,
+   "rows_not_uploaded": 362,
+   "ranges": [
+    [
+     1,
+     362
+    ]
+   ]
+  },
+  {
+   "batch": 21,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch021_20261004.csv.whole",
+   "rows_total": 199,
+   "rows_not_uploaded": 155,
+   "ranges": [
+    [
+     1,
+     86
+    ],
+    [
+     131,
+     199
+    ]
+   ]
+  },
+  {
+   "batch": 22,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch022_20261004.csv.whole",
+   "rows_total": 160,
+   "rows_not_uploaded": 160,
+   "ranges": [
+    [
+     1,
+     160
+    ]
+   ]
+  },
+  {
+   "batch": 23,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch023_20261004.csv.whole",
+   "rows_total": 540,
+   "rows_not_uploaded": 364,
+   "ranges": [
+    [
+     131,
+     405
+    ],
+    [
+     452,
+     540
+    ]
+   ]
+  },
+  {
+   "batch": 24,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch024_20261004.csv.whole",
+   "rows_total": 264,
+   "rows_not_uploaded": 264,
+   "ranges": [
+    [
+     1,
+     264
+    ]
+   ]
+  },
+  {
+   "batch": 25,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch025_20261004.csv.whole",
+   "rows_total": 464,
+   "rows_not_uploaded": 364,
+   "ranges": [
+    [
+     21,
+     30
+    ],
+    [
+     41,
+     50
+    ],
+    [
+     111,
+     130
+    ],
+    [
+     141,
+     464
+    ]
+   ]
+  },
+  {
+   "batch": 26,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch026_20261004.csv.whole",
+   "rows_total": 234,
+   "rows_not_uploaded": 154,
+   "ranges": [
+    [
+     81,
+     234
+    ]
+   ]
+  },
+  {
+   "batch": 27,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch027_20261004.csv.whole",
+   "rows_total": 682,
+   "rows_not_uploaded": 639,
+   "ranges": [
+    [
+     1,
+     197
+    ],
+    [
+     241,
+     682
+    ]
+   ]
+  },
+  {
+   "batch": 28,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch028_20261004.csv.whole",
+   "rows_total": 1104,
+   "rows_not_uploaded": 1020,
+   "ranges": [
+    [
+     1,
+     79
+    ],
+    [
+     113,
+     709
+    ],
+    [
+     761,
+     1104
+    ]
+   ]
+  },
+  {
+   "batch": 29,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch029_20261004.csv.whole",
+   "rows_total": 457,
+   "rows_not_uploaded": 442,
+   "ranges": [
+    [
+     1,
+     212
+    ],
+    [
+     228,
+     457
+    ]
+   ]
+  },
+  {
+   "batch": 30,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch030_20261004.csv.whole",
+   "rows_total": 584,
+   "rows_not_uploaded": 537,
+   "ranges": [
+    [
+     1,
+     304
+    ],
+    [
+     352,
+     584
+    ]
+   ]
+  },
+  {
+   "batch": 31,
+   "file": "Math_Question_DB_P3_TO_P1_REVERSE_Result_Batch031_20261004.csv.whole",
+   "rows_total": 221,
+   "rows_not_uploaded": 221,
+   "ranges": [
+    [
+     1,
+     221
+    ]
+   ]
+  }
+ ],
+ "ledger": "/tmp/claude-0/w/ledger.json",
+ "nonbuild": "/tmp/claude-0/w/nonbuild.json",
+ "checkpoints": [
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch001_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch002_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch003_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch004_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch005_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch006_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch007_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch008_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch009_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch010_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch011_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch012_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch013_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch014_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch015_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch016_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch017_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch018_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch019_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch020_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch021_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch022_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch023_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch024_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch025_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch026_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch027_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch028_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch029_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch030_20261004.json",
+  "/tmp/claude-0/w/up/DB_P3_TO_P1_REVERSE_CHECKPOINT_Batch031_20261004.json"
+ ],
+ "verify_outputs_dir": "/tmp/claude-0/w/out (agent JSONL per source)",
+ "xlsx_parts_dir": "/tmp/claude-0/w/xl",
+ "git_backup": "/home/user/claude-test/db_artifacts_P3_TO_P1_REVERSE (branch claude/optimistic-hypatia-15hicf)"
+}

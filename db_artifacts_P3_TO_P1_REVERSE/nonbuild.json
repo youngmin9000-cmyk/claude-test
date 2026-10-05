@@ -818,5 +818,431 @@
 "decision": "LANE COMPLETE: 99 downloadable BUILD/CLASSIFY done; 55 HOLD_SOURCE_SIZE (>5.9MB connector limit); 5 EXCLUDE 비수학; A02114 118B txt = NO_ITEMS(메모)",
 "source_new_build_complete": "YES",
 "rows": 0
+},
+{
+"queue_id": "A01971",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01967",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01982",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01972",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01963",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01919",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01985",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01977",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01961",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01942",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01940",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01918",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01920",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01981",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01966",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01958",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01962",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01923",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01944",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01968",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01947",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01964",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01957",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01951",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01921",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01955",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01991",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01975",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01936",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01949",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01943",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01938",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01959",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01979",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01945",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01953",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01954",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01917",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01988",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01989",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01950",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01986",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01960",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01984",
+"decision": "EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02030",
+"decision": "DUPLICATE_REPRESENTATION (변환_ 사본 = A02036)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02029",
+"decision": "DUPLICATE_REPRESENTATION (변환_ 사본 = A02035)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02023",
+"decision": "COMPANION_LINK_ONLY (A02024 정답/채점)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02007",
+"decision": "COMPANION_LINK_ONLY (A02005/A02006 정답/채점)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A02002",
+"decision": "COMPANION_LINK_ONLY (A02003/A02004 정답/채점)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01911",
+"decision": "COMPANION_LINK_ONLY (A01912 채점기준)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01907",
+"decision": "COMPANION_LINK_ONLY (A01908 채점표)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01904",
+"decision": "COMPANION_LINK_ONLY (A01905 이원/정답)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01903",
+"decision": "COMPANION_LINK_ONLY (A01905 서술형)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01886",
+"decision": "COMPANION_LINK_ONLY (A01885 이원목적분류표/정답)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01884",
+"decision": "COMPANION_LINK_ONLY (A01883 이원표)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01879",
+"decision": "COMPANION_LINK_ONLY (A01880 답)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01888",
+"decision": "COMPANION_LINK_ONLY (2020-1 중간 서논술 채점기준 묶음, 다과목)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01842",
+"decision": "COMPANION_LINK_ONLY (영신 2017 2학년 OMR 답안 묶음)",
+"source_new_build_complete": "YES",
+"rows": 0,
+"repair_pending": "NO"
+},
+{
+"queue_id": "A01909",
+"decision": "HOLD_SOURCE_INLINE (소형 HWP 커넥터 inline 반환으로 디코드 불가; A01910 채점기준)",
+"source_new_build_complete": "NO",
+"rows": 0,
+"repair_pending": "YES"
+},
+{
+"queue_id": "A01860",
+"decision": "HOLD_SOURCE_INLINE (소형 HWP inline 반환; 영락고 2018-1 1학년 중간)",
+"source_new_build_complete": "NO",
+"rows": 0,
+"repair_pending": "YES"
+},
+{
+"queue_id": "A01836-A02035 lane",
+"decision": "LANE COMPLETE: 116 downloadable processed (2 HOLD_SOURCE_INLINE A01909/A01860); 40 HOLD_SOURCE_SIZE; 44 EXCLUDE 비수학",
+"source_new_build_complete": "YES",
+"rows": 0
 }
 ]

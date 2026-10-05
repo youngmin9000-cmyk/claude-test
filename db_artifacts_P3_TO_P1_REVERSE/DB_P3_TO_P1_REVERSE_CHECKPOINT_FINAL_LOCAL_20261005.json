@@ -1,0 +1,58 @@
+{
+ "artifact": "DB_P3_TO_P1_REVERSE_CHECKPOINT_FINAL_LOCAL",
+ "stream": "P3_TO_P1_REVERSE",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "saved_at": "2026-10-05T00:14Z",
+ "state": "PAUSED_BY_USER (신규 분석 중단, Drive 업로드 중단, 대기)",
+ "phases": {
+  "P3": "COMPLETE (대용량 HOLD_SOURCE 제외)",
+  "P2": "own lane COMPLETE (A01488-A01769 일부 HOLD_SOURCE_SIZE); P2_FORWARD와 A01459에서 만남",
+  "P1": "A03191→A01836 처리 완료 (P1 항목만; 대용량 HOLD_SOURCE_SIZE, A01909/A01860 HOLD_SOURCE_INLINE)"
+ },
+ "last_completed_point": "P1 A01836 (lane A01836-A02035 COMPLETE, Batch031)",
+ "next_unprocessed_point": "P1 A01835 (descending; P1 queue items below A01836, next slice A01835→A00437 not yet reserved/surveyed). P1 forward stream frontier ~A00181 (yield on meet).",
+ "batches_built": "Batch001-Batch031",
+ "cumulative_rows": 15975,
+ "cumulative_unique_question_ids": 15975,
+ "verdict_counts": {
+  "PASS": 12370,
+  "PASS_WITH_DEFECT": 549,
+  "HOLD": 180,
+  "REVIEW": 2873,
+  "FAIL": 3
+ },
+ "production_ready": {
+  "YES": 12506,
+  "REVIEW": 3286,
+  "NO": 183
+ },
+ "hold_review_codes": {
+  "HOLD_VISUAL": 127,
+  "HOLD_ANSWER": 29,
+  "HOLD_SOURCE": 24,
+  "REVIEW_PROOF": 17,
+  "REVIEW_OPEN_TASK": 15,
+  "REVIEW_NO_KEY": 2812
+ },
+ "HOLD_total": 180,
+ "FAIL_total": 3,
+ "REVIEW_total": 2873,
+ "PASS_WITH_DEFECT_total": 549,
+ "RECHECK_queue": {
+  "production_ready_REVIEW_or_NO": 3469,
+  "note": "REVIEW/HOLD/FAIL/PASS_WITH_DEFECT(match=N) 행은 GLOBAL REPAIR 대상. 이전 기준(크기+ID)으로 READBACK_OK 처리된 Drive 파트는 한글 깨짐 재점검 필요(RECHECK_DRIVE_READBACK)."
+ },
+ "drive_upload": {
+  "readback_committed_rows": 6759,
+  "not_uploaded_rows": 9216,
+  "superseded_drive_files": 153,
+  "upload_policy_last": "20행 이하/base64 17.3KB 이하 (50행은 connector 안전분류기 차단, 미사용)"
+ },
+ "non_build_source_decisions": 170,
+ "locks_active_on_drive": [
+  "1SwCfoqJwXeT4F5IO27jn2ja9eTO6ZIyA (P1 A01836-A02035: lane complete; release pending upload)"
+ ],
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "other_stream_mutation": 0
+}
