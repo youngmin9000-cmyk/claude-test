@@ -154,3 +154,5 @@ Batch729-733 A00823 대영고 2023 2-2 기말 수학Ⅱ(22; NOKEY) + A00822 대�
 LOCK P1 A01458-A00820 COMPLETE (Batch704-733). Drive lock-release 문서는 사용자 지시(Drive 직접 업로드 금지)에 따라 로컬 기록만: notes/lock_P1_A01458-A00820_RELEASE_LOCAL.txt. 다음 P1 구간 A00819↓ 계속
 New local range P1 A00819-A00190 (descending). A00805/A00803/A00802/A00801 김성은 모의고사(11-31MB), A00675(egg), A00669(10.1MB), A00668(15.6MB), A00651(egg), A00649(10.8MB) -> BLOCKED
 Batch734-739 A00648 수능기출올픽 미적분 BOOK1 PARTIAL p4-25 (Ⅰ 수열의 극한 001-055; 해설 별책 미보유 NOKEY; 원본 ✔ 표기와 전 일치) 55 rows; cum 15647; NEXT A00648 p26- (Ⅱ 미분법 056~)
+Batch740-746 A00648 PARTIAL p34-66 (Ⅱ 미분법 001-069, q=56..124 label Ⅱ-xxx; NOKEY REVIEW; 수치검산 Ⅱ-022/023/062/064/069; Ⅱ 4점 고난도 다수는 인쇄 체크값 기록·독립풀이 미완 → review에 RECHECK-독립풀이미완 표기) 69 rows; cum 15716; NEXT A00648 p67- (Ⅲ 적분법)
+CORRECTION NOTE (append-only, Batch734-739 행 미수정): A00648 Ⅰ 019,022,032,033,034,035,043,047,049,050,051,052,054,055 의 chk 해법 요약은 정밀 독립검증 미완(048·053만 전수/수치 확인) → RECHECK 대상으로 간주
