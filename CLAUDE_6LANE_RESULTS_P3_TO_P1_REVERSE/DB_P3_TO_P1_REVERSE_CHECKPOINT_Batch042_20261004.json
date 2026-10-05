@@ -1,0 +1,113 @@
+{
+ "stream": "P3_TO_P1_REVERSE",
+ "phase": "P1",
+ "batch": 42,
+ "date": "2026-10-04",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "lock": "LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)",
+ "sources": [
+  {
+   "queue_id": "A00273",
+   "drive_id": "1STwIoyJqxHfCGAG9SH4J032ECPNJ20AU",
+   "name": "2025학년도 1학기 중간(1학년).zip",
+   "sha256": "1753bb6ba754e39bbf2fcc6f2139b32e68acd5c7d1214273d5c421088d097d9d",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 20
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A00272",
+   "drive_id": "15YKvnElXYkqou41XAXi0ggr79kfCXMSg",
+   "name": "2025학년도 1학기 기말 1학년.zip",
+   "sha256": "93e6578e48ee1d4c93ad861c75be00efcf894b328a6b1571d26fb3a27d259291",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 20
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A00271",
+   "drive_id": "1SkdaqlL4UCQd2vlzmGuQ48iQ6Oy2tiU2",
+   "name": "2025학년도 2학기 중간(1학년).zip",
+   "sha256": "8b3ad71e563bfc226a69e8a7f6db0b8adbb7bf2cd029ae2a0367514b7ce38e74",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 20
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A00270",
+   "drive_id": "1jNJD3fWiLVZDuIwppFIgLHCavNaoxNyl",
+   "name": "1학년 2학기 기말.zip",
+   "sha256": "cfba9e3be7fa4973394ca7319ac1aeae28a993e32b8c6e47e2a3e1880b28c96e",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-20 (전체)",
+   "canonical_rows": 20,
+   "verdicts": {
+    "PASS": 20
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  },
+  {
+   "queue_id": "A00219",
+   "drive_id": "1S1oI-GxAg5hR7-qOttAp_0C8wIgBg6Aj",
+   "name": "2학년 1학기 중간고사.zip",
+   "sha256": "5a66e223748d867f24f5dbae59f646d73fcec961702c885ca985bee1cb679811",
+   "companion_ids": "원본 내장 미주(정답·해설); 별도 companion 없음",
+   "processed_range": "미주순번 1-40 (전체)",
+   "canonical_rows": 40,
+   "verdicts": {
+    "PASS": 40
+   },
+   "source_new_build_complete": "YES",
+   "repair_pending": "NO",
+   "state": "COMPLETE (LOCK released for this source)"
+  }
+ ],
+ "canonical_rows_added": 120,
+ "detail_rows_added": 0,
+ "PASS": 120,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 0,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 120
+ },
+ "new_repair_queue_additions": 0,
+ "repair_queue": [],
+ "cumulative_rows": 19430,
+ "last_verified_completed_point": "A00219 미주순번 40 (source end)",
+ "next_actual_unfinished_point": "P1 next: A00321/A00300/298/296/351/A00166/165 (verifying)",
+ "collisions_skipped": [],
+ "qc": {
+  "unique_ids": true,
+  "dup_source_question_keys": 0,
+  "verification": "subagent independent solve + python arithmetic; orchestrator assembled"
+ },
+ "duplicate_family_note": "A00678 [수1] 마플시너지 [PDF, 한글].zip (P3, unprocessed) likely contains the same book family -> treat as duplicate-candidate representation; do not build again without dedup.",
+ "original_mutation": 0,
+ "existing_artifact_overwrite": 0,
+ "P4_P5_mutation": 0,
+ "P5_REPAIR_mutation": 0,
+ "official_mutation": 0,
+ "master_merge": "NO"
+}

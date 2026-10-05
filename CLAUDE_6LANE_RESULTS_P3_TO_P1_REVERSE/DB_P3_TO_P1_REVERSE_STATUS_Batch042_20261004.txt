@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch042_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=42 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00273 1STwIoyJqxHfCGAG9SH4J032ECPNJ20AU 2025학년도 1학기 중간(1학년).zip rows=20 COMPLETE (LOCK released for this source) repair_pending=NO; A00272 15YKvnElXYkqou41XAXi0ggr79kfCXMSg 2025학년도 1학기 기말 1학년.zip rows=20 COMPLETE (LOCK released for this source) repair_pending=NO; A00271 1SkdaqlL4UCQd2vlzmGuQ48iQ6Oy2tiU2 2025학년도 2학기 중간(1학년).zip rows=20 COMPLETE (LOCK released for this source) repair_pending=NO; A00270 1jNJD3fWiLVZDuIwppFIgLHCavNaoxNyl 1학년 2학기 기말.zip rows=20 COMPLETE (LOCK released for this source) repair_pending=NO; A00219 1S1oI-GxAg5hR7-qOttAp_0C8wIgBg6Aj 2학년 1학기 중간고사.zip rows=40 COMPLETE (LOCK released for this source) repair_pending=NO
+rows added=120 (detail 0) PASS=120 PASS_WITH_DEFECT=0 REVIEW=0 HOLD=0 FAIL=0 production_ready={'YES': 120}
+cumulative rows=19430; repair queue additions=0
+last verified completed point: A00219 미주순번 40 (source end)
+next actual unfinished point: P1 next: A00321/A00300/298/296/351/A00166/165 (verifying)
+LOCK: LOCAL_ONLY P1 reverse A00590-A00160 (no Drive upload)
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO
