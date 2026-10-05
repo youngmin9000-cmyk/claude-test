@@ -1,0 +1,9 @@
+DB_P3_TO_P1_REVERSE_STATUS_Batch032_20261004
+stream=P3_TO_P1_REVERSE phase=P3 batch=32 owner=CCR session_01G8AM1s8UGF5HC5SSzvAtDk
+sources: A00625 19Ld-7L6g5MknyyGFYm09E5cC0RQbtIHa 미래엔(ver.2025)1학기 2차시험 예상문제 6회분(여러가지방정식~행렬)_2025_06_11_17_14_56.zip rows=128 COMPLETE (LOCK released for this source) repair_pending=YES; A00597 1PK3NuVvoGaCa5260AF38y3TtFk610JtY img04978.pdf rows=20 COMPLETE (LOCK released for this source) repair_pending=YES; A00596 1lDTUPaPOins7b0Mp5InOiioblEbijw6Z 2023년 고1 중간고사.pdf rows=24 COMPLETE (LOCK released for this source) repair_pending=YES; A00595 1PRooVJS-T0mDLuyMaW2TFBXLUzrB6Sx9 2025년 고1 2학기 기말고사.pdf rows=24 COMPLETE (LOCK released for this source) repair_pending=YES; A00591 1Dpt0QVw-45ubhidjJ6pnGhbtUAhaJkQ5 장훈고등학교_2학년_2025_1학기중간_수학1_공통_문제.pdf rows=24 COMPLETE (LOCK released for this source) repair_pending=YES
+rows added=220 (detail 0) PASS=144 PASS_WITH_DEFECT=6 REVIEW=68 HOLD=0 FAIL=2 production_ready={'YES': 146, 'REVIEW': 72, 'NO': 2}
+cumulative rows=16195; repair queue additions=76
+last verified completed point: A00591 미주순번 24 (source end)
+next actual unfinished point: P1 A00590→A00366 (verifying), then below A00366
+LOCK: LOCAL_ONLY lock_p1g_LOCAL.json (A00366-A00590) + A00591-A00819 (P5REV lock ends at A00820); Drive 업로드 금지 지시로 로컬 저장
+original_mutation=0 existing_artifact_overwrite=0 P4/P5_mutation=0 P5_REPAIR_mutation=0 official_mutation=0 master_merge=NO
