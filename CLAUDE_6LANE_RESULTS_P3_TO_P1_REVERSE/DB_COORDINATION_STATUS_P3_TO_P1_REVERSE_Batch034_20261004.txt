@@ -1,0 +1,7 @@
+DB_COORDINATION_STATUS_P3_TO_P1_REVERSE_Batch034_20261004 (append-only supplement)
+P3_TO_P1_REVERSE (P3 lane, descending) — 739 rows committed this batch, cumulative 17332.
+COMPLETE (new build): A00587/1WHMFkh4Yyn7YeDTPDBpMI-WhbJChN4sB, A00568/1wLKur6fEsWP4134g5JJS3ZzwjaqW7Y5d, A00567/19wG0taAZUCHcy-Rj7PMj32xOtH70Hdm5, A00566/1bVDISx-kzciqhjw21AjeKeD8cTCvkmcd, A00563/1viln3t9XjVootUm_MoOZzFJpZgS0_AuV, A00562/124m1bO_1DAUY4y3U2T1NGpVa5Lut_5RT, A00558/1F2vkB2b5vm8EIbISC25P9tHXvYiuXTjN, A00557/1z0DFspswUjgMDyg3NFHviJjx1qLxdvkR, A00553/11Tous6zWdDMa50v5GZlXgujZ2l6f-S0N, A00552/1PStiGaLjhorq8LY6_cson8WVBAQs6nUR, A00550/1yC1fFPyCHf2b6miDktA7-eIQsKMzOndu, A00472/1gSRaQGmLcht1OBuc1w_NVHuMi56nY5G5, A00471/1JspI_dpw4eA8CgfOM_fPCX7mcmB3leGJ, A00437/11otu7mk202VqTpqWNo1nn-7GIraqoz1f, A00436/1P0zD9PQYkIpmbqfUdRVXryg1pv84VNJG, A00435/1huqfgVYerEN5TO3IYGHjq_7oF5_Szr5p, A00434/1FqcG_YCKCAfzSOH4-DldC5BU2MY3ysfV, A00429/1eKDHhEl50JghsxT-IF9W1k-pqHokZsT8, A00428/1bI4BQp1JbBUOpxU7J0k0SwcmjXYGxRgs, A00427/1OKIZ1xmjD_ERc_SK5LNB_6TW2GuSbk1C, A00412/1ngl34O8vUdsHcXPZBMRUWfB6X00WrcuG
+ACTIVE LOCK (unchanged): 1j2JtvXjoVyZGMReB55RNiCUfLpqCijOF covering remaining 마플시너지 수학1 HWP A02336..A02322 (not yet committed ones).
+Other streams read-only: P5->P4->P3->P2 REVERSE (LOCK A02589-A02500), P1 forward, P2 forward, P3 work/GEMINI, OFFICIAL, P5 REPAIR — no overlap, no mutation.
+Duplicate-family note: A00678 '[수1] 마플시너지 [PDF, 한글].zip' likely same book family as A02322-A02337 HWP -> dedup before any build.
+Next: P1 next: A00481-A00478 / A00463-A00447 (verifying), then A00365..A00160
