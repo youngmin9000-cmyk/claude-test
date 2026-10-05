@@ -1,0 +1,188 @@
+{
+ "stream": "P2_FORWARD",
+ "type": "CONVERGENCE_COMPLETION_CHECKPOINT",
+ "created": "2026-10-05(세션 로컬)",
+ "session": "CCR",
+ "verdict": "CONVERGED_WITH_REVIEW_DEBT",
+ "basis": {
+  "own_lock": "P2_FORWARD LOCK A01171-A01434: 전 범위 처리 완료(Batch022-046). 소단원/쌍둥이/단원마무리 구축, A01196-A01207 OFFICIAL_SKIP, A01208-A01213 ACTIVITY_NO_CANONICAL, A01382-A01402 COMPANION_LINK, A01171-A01195 AUTO_ZERO_LESSON_PLAN",
+  "prior_ranges": "A00020-A01170 이전 배치(Batch001-014) 처리·형식중복 처리 완료; A01435-A01458 Batch015-021 COMPLETE(lock doc 15orUgyTSP1BgliyOwgjblxK2mEFSZRq2)",
+  "above_frontier": "A01459 이상 P2 큐: A01463-A01487 COMPANION_LINK/BLOCKED_SIZE/무문항(P2_FORWARD 기록, P5REV 1ZIUm5DHpYlMyG4RxgsqQHXHfRRcIr44IvrqkEZD7S6o 동의 — 'no unclaimed P2 interval remains above A01434'); A01488-A01504, A01522-A01769 P3_TO_P1_REVERSE 예약/처리; A01648-A01757 P5REV 완료(1RDDlAUzsRKNT5xpGggOmJZq7DwpjIP6Q1wY4Y34GCg0); A01776-A02429 P5REV 완료 noRows(1E_Ynsopb-rU7XlNoWTe5gEHNg8bN5vOK8FAUjmViy5g); A02430-A02672 P5REV 처리(1ZtiYzTNUJZnSLyMzTCPLXShCVSKeXGQseD1BoxuVGJo 이전 배치); A02673 RESERVED_EXISTING_STREAM; A02674-A03070 SKIP_REVERSE_ALREADY_ACCOUNTED",
+  "p2_order_tsv_check": "p2_order.tsv 1441건 중 line 690 이후 ACTIONABLE 전부 역방향 스트림 예약/완료 구간 내; 미예약 구간 0",
+  "remaining_unclaimed_backlog": 0
+ },
+ "blocked_not_actionable": [
+  "A01466 (216MB) BLOCKED_SIZE REVIEW_UNVERIFIED",
+  "A01484 (163MB) BLOCKED_SIZE REVIEW_UNVERIFIED"
+ ],
+ "last_completed": "A01434 / P2_A01434_U16 (대단원 Ⅵ 6-04 세트 + Ⅵ 단원 마무리 완료 → P2_FORWARD LOCK A01171-A01434 전 범위 신규 구축 완료)",
+ "cumulative": {
+  "committed_rows": 1902,
+  "merge_eligible_rows": 1851,
+  "excluded_rows(Batch001 collision yield)": 36
+ },
+ "local_batches_041_046": {
+  "rows": 232,
+  "qc": {
+   "?": 232
+  },
+  "production": {
+   "YES": 229,
+   "REVIEW": 3
+  }
+ },
+ "open_repair_pending_stream_total": [
+  "P2_A01450_Q03 (REVIEW)",
+  "P2_A01450_Q21 (HOLD_SOURCE_DEFECT)",
+  "P2_A01245_CHK03 (REVIEW)",
+  "P2_A01287_Q09 (REVIEW)",
+  "P2_A01295_Q04 (REVIEW)",
+  "P2_A01309_CHK02 (REVIEW)",
+  "P2_A01311_Q10 (REVIEW)",
+  "P2_A01317_U14 (REVIEW)",
+  "P2_A01337_PRE02 (PASS_WITH_DEFECT, production REVIEW)",
+  "P2_A01341_CHK02 (REVIEW)",
+  "P2_A01379_CHK05 (REVIEW)",
+  "P2_A01361_Q06 (PASS_WITH_DEFECT, production REVIEW)",
+  "P2_A01381_CHK06 (REVIEW)",
+  "P2_A01373_CHK02 (PASS_WITH_DEFECT, production REVIEW)"
+ ],
+ "metadata_repair_pending": [
+  {
+   "field": "원본페이지",
+   "issue": "2쪽짜리 소단원 평가 Q PDF에서 p2 문항(대개 6~10번)이 원본페이지=1로 기록됨(mkq 기본값). 정답·분류·검증에는 영향 없음",
+   "sources": [
+    "A01224",
+    "A01230",
+    "A01236",
+    "A01247",
+    "A01255",
+    "A01263",
+    "A01271"
+   ],
+   "fix": "마스터 병합 시 해당 행 원본페이지를 Q PDF 실제 쪽으로 보정(문항 위치는 PDF 렌더로 확인 가능). Batch030부터는 spec에서 page 명시"
+  }
+ ],
+ "merge_eligible_discrepancy": "Batch040 시점 checkpoint 1622 vs 로컬 YES−충돌제외 1619 (3행) — 마스터 병합 전 재대조 필요(미해결)",
+ "lock": {
+  "range": "A01171-A01434",
+  "state": "RELEASED(로컬 기록; Drive 해제문서는 외부 업로더 처리 대기)",
+  "released_at": "2026-10-05"
+ },
+ "unuploaded_local_files": [
+  {
+   "file": "p2f_results/DB_P2_FORWARD_CHECKPOINT_Batch041_20261005_CCR_LOCAL.json",
+   "bytes": 5966,
+   "sha256": "ec13362bb885e401e8c721d79081cec2a74fe5705eba8e27082724188ac33d8c",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_CHECKPOINT_Batch042_20261005_CCR_LOCAL.json",
+   "bytes": 6014,
+   "sha256": "80192c84a5f9596f376211e603b72a97ae996cd72347576e27d8a536d9f5f0bc",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_CHECKPOINT_Batch043_20261005_CCR_LOCAL.json",
+   "bytes": 5758,
+   "sha256": "6eb9ddc96db6a09866f1cd3ec5e9ff9662e06ba4d4199c91e2420b7d28fda541",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_CHECKPOINT_Batch044_20261005_CCR_LOCAL.json",
+   "bytes": 5639,
+   "sha256": "0c9c085f51f8681aa2a36489aeb1ec09852c0a76ca4c0225bbd342c7ed1686e4",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_CHECKPOINT_Batch045_20261005_CCR_LOCAL.json",
+   "bytes": 5671,
+   "sha256": "239bf04dc846da047a9d277ce847315358133275b29664d43a0c5c66c9d7ec3f",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_CHECKPOINT_Batch046_20261005_CCR_LOCAL.json",
+   "bytes": 5961,
+   "sha256": "7ba7efc86814bb4f702ac7d99a81ee803c5e35ed852a84ac16ac0852072c0c73",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_STATUS_QC_COORDINATION_Batch041_20261005_CCR_LOCAL.json",
+   "bytes": 1035,
+   "sha256": "866eb360f384fbfa49fd6704250751c58e85f3aae76b0c5029a988f8c779276f",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_STATUS_QC_COORDINATION_Batch042_20261005_CCR_LOCAL.json",
+   "bytes": 942,
+   "sha256": "bdaab1046ba45037212db67aaee9ed9f56b559e1556bfcf57473d9f228ab5108",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_STATUS_QC_COORDINATION_Batch043_20261005_CCR_LOCAL.json",
+   "bytes": 829,
+   "sha256": "6ee8cb8d2ab18e8168fbe0617e37b014f64f46662cb6774082f01229527376e1",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_STATUS_QC_COORDINATION_Batch044_20261005_CCR_LOCAL.json",
+   "bytes": 834,
+   "sha256": "ab15d375cac1ae5a7f57f675a959384bffbf2c3cb6210220256f3248fa2d9a00",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_STATUS_QC_COORDINATION_Batch045_20261005_CCR_LOCAL.json",
+   "bytes": 834,
+   "sha256": "a93e579293a65389a1dc57b69d411d6623f9297f91a2a2e0df4482c0a9682a6d",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/DB_P2_FORWARD_STATUS_QC_COORDINATION_Batch046_20261005_CCR_LOCAL.json",
+   "bytes": 902,
+   "sha256": "34cdcc203043a452cedcc589c58f7365bd30a3c027db7915a82f6c2e9f54204a",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/Math_Question_DB_P2_FORWARD_Result_Batch041_A01361-A01381_20261005_CCR_LOCAL.csv",
+   "bytes": 22037,
+   "sha256": "7b6a46c77f40d0d5e89ee50f7c2568c1e275dfcd9f72c19307aa58b7c0d14507",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/Math_Question_DB_P2_FORWARD_Result_Batch042_A01367-A01373_20261005_CCR_LOCAL.csv",
+   "bytes": 26264,
+   "sha256": "3c97aa53523d363848bd8f0e714b7384bfa71ddfd3b6a62de40f5ea7934c37e4",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/Math_Question_DB_P2_FORWARD_Result_Batch043_A01404-A01410_20261005_CCR_LOCAL.csv",
+   "bytes": 21322,
+   "sha256": "5ba83354dc3cb43117e5f258a03fe2903211fbc7dee396656fe7d5f3ba17a216",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/Math_Question_DB_P2_FORWARD_Result_Batch044_A01412-A01418_20261005_CCR_LOCAL.csv",
+   "bytes": 17610,
+   "sha256": "baefb8f69544c1afe80c02a962485d9223506c58a3e0c86a30ad599d0096bef0",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/Math_Question_DB_P2_FORWARD_Result_Batch045_A01420-A01426_20261005_CCR_LOCAL.csv",
+   "bytes": 17845,
+   "sha256": "7b50acefdaec1779e4a25c8ae0b9c095c450e3237403288acc1841a0c181c2a9",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  },
+  {
+   "file": "p2f_results/Math_Question_DB_P2_FORWARD_Result_Batch046_A01428-A01434_20261005_CCR_LOCAL.csv",
+   "bytes": 19782,
+   "sha256": "c486a98534b81fba463437c91092b5c4a0f4526708ecfa570af0645a126da3db",
+   "drive_upload": "NOT_UPLOADED(외부 업로더 대기)"
+  }
+ ],
+ "next_point": "신규 구축 대상 없음. 남은 작업은 REVIEW/HOLD 수리(별도 지시 필요)와 마스터 병합(금지 범위 — 미수행).",
+ "original_mutation": 0,
+ "other_stream_mutation": 0,
+ "master_merge": "NO",
+ "drive_uploads_this_session_since_stop": 0,
+ "append_only": true
+}
