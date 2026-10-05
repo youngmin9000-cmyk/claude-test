@@ -143,3 +143,4 @@ A00846 2022 2-2 중간 수학2_rotated.pdf -> DUPLICATE of A00852 (동일 페이
 Batch712-714 A00847 대영고 2022 2-1 중간 수학Ⅰ(HWP 내 BMP 7장; 21; 정답 미동봉 — A00848 정답 zip 20MB BLOCKED; NOKEY REVIEW) 21 rows
 A00840 2023년 2학기 중간고사 수정.pdf -> DUPLICATE of A00845 (동일 이미지, 회전 메타만 상이), 렌더용으로만 사용
 Batch715-717 A00845 영등포여고 2023 2-2 중간 수학Ⅱ(22; key A00844 jpg + 서답 채점기준 A00843 jpg, 전 일치; 서답2 a≠−2 가정 메모) 22 rows; cum 15449
+PAUSED 2026-10-05 by user after Batch717 (cum 15449); next A00842 Batch718; see CHECKPOINT_P5REV_20261005_Batch717.md
