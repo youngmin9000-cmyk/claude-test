@@ -139,3 +139,7 @@ LOCK P1 A01835-A01459 COMPLETE (Batch651-703, 292 rows; BLOCKED A01807-A01803 >1
 LOCK P1 A01458-A00820 (doc 1SeSQP_oFOAWibSmon9I9aqIAIomiiKlJA0cyCjbx-g0) ACTIVE. Triage: A00923(34MB zip), A00917(43MB hwp), A00884(73MB zip), A00880/A00879(>120MB), A00877-A00872 중학 기출문제집(11-30MB), A00856(49MB), A00848(20MB zip) -> BLOCKED-ACCESS >10MB; A00881 .egg BLOCKED-FORMAT
 Batch704-706 A00854 대영고 2022 2-1 기말 수학Ⅰ(21; 정답·채점기준 A00853 연결, 전 문항 일치) 21 rows; A00853 companion
 Batch707-711 A00852 대영고 2022 2-2 중간 수학Ⅱ(21; key A00851; 13번 아래첨자 −2⁺ 확대 판독 후 일치; 서답2 개방형 REVIEW) + A00850 대영고 2022 2-2 기말 수학Ⅱ(21; key A00849, 전 일치; 학생 필기 흔적) 42 rows; cum 15406
+A00846 2022 2-2 중간 수학2_rotated.pdf -> DUPLICATE of A00852 (동일 페이지 이미지 MD5), not built
+Batch712-714 A00847 대영고 2022 2-1 중간 수학Ⅰ(HWP 내 BMP 7장; 21; 정답 미동봉 — A00848 정답 zip 20MB BLOCKED; NOKEY REVIEW) 21 rows
+A00840 2023년 2학기 중간고사 수정.pdf -> DUPLICATE of A00845 (동일 이미지, 회전 메타만 상이), 렌더용으로만 사용
+Batch715-717 A00845 영등포여고 2023 2-2 중간 수학Ⅱ(22; key A00844 jpg + 서답 채점기준 A00843 jpg, 전 일치; 서답2 a≠−2 가정 메모) 22 rows; cum 15449
