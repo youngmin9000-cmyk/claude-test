@@ -149,3 +149,6 @@ A00842/A00841 영등포여고 2023-1 전과목 원안(21.6/22.8MB) -> BLOCKED-AC
 Batch718-720 A00839 EBS 버티컬 모의고사 시즌2 확통(JYJ 편집 HWP; 30; 인라인 정답 전 일치, 15·28·29 전수확인; 그림 3문항 REVIEW) 30 rows; cum 15479
 A00833 수분감 확통 문제편(9.1MB) -> BLOCKED-TRANSPORT (connector 응답 과대로 전송 실패)
 Batch721-725 A00829 대영고 2023 2-1 중간 수학Ⅰ(23; NOKEY REVIEW) + A00828 대영고 2023 2-1 기말 수학Ⅰ(22; NOKEY REVIEW; 디지털 동일본 A00821로 판독) 45 rows; A00821 -> DUPLICATE of A00828; cum 15524
+Batch726-728 A00827 대영고 2023 2-2 중간 수학Ⅱ(23; key A00824 + 채점기준 A00825/A00826 jpg, 전 일치) 23 rows; A00820 -> DUPLICATE of A00827(동일 이미지 회전본); A00826/A00825/A00824 companion
+Batch729-733 A00823 대영고 2023 2-2 기말 수학Ⅱ(22; NOKEY) + A00822 대영고 2023 2-1 기말 기하(23; NOKEY) 45 rows; cum 15592
+LOCK P1 A01458-A00820 COMPLETE (Batch704-733). Drive lock-release 문서는 사용자 지시(Drive 직접 업로드 금지)에 따라 로컬 기록만: notes/lock_P1_A01458-A00820_RELEASE_LOCAL.txt. 다음 P1 구간 A00819↓ 계속
