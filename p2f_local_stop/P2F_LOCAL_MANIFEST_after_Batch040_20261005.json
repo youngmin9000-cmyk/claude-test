@@ -1,0 +1,496 @@
+{
+ "stream": "P2_FORWARD",
+ "type": "LOCAL_MANIFEST",
+ "created": "2026-10-05",
+ "local_consolidated_result": {
+  "file": "P2F_ALL_UNIQUE_through_Batch040_20261005_LOCAL.csv",
+  "rows": 1670,
+  "bytes": 854796,
+  "sha256": "91a65940799e5c2ea7248bd21da2c8bb70ee6216907dc766ccdb1cd60e29f344",
+  "uploaded": false
+ },
+ "uploaded_batches(Drive, read-back OK)": [
+  {
+   "batch": "Batch007",
+   "rows": 30,
+   "drive_result_parts": [
+    {
+     "id": "1asJnG8glOGZEaiVyh9_SIAIx0CYCkfSz",
+     "rows": 30,
+     "bytes": 14155,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch008",
+   "rows": 33,
+   "drive_result_parts": [
+    {
+     "id": "1U55cVe4gNm-d7uGhVt4i_BsEcOGGQws2",
+     "rows": 33,
+     "bytes": 13348,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch009",
+   "rows": 47,
+   "drive_result_parts": [
+    {
+     "id": "10sdJmtZytnpKJR23DYH8dp1ZsYGCaD_i",
+     "rows": 47,
+     "bytes": 20149,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch010",
+   "rows": 50,
+   "drive_result_parts": [
+    {
+     "id": "1e65sBSdpN_dK6VIlnGw9FI1KzNQI3JYr",
+     "rows": 50,
+     "bytes": 23374,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch011",
+   "rows": 41,
+   "drive_result_parts": [
+    {
+     "id": "1eU5QtG5kpFkRfCqKRxKqcpOun-rGkO8r",
+     "rows": 41,
+     "bytes": 18475,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch012",
+   "rows": 58,
+   "drive_result_parts": [
+    {
+     "id": "14oumnbHnArqleaW_yDaTWQ-_SJ-kUOjU",
+     "rows": 58,
+     "bytes": 27227,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch013",
+   "rows": 48,
+   "drive_result_parts": [
+    {
+     "id": "1bLX3_mPIO60GCqS3gWmjSW6z-OK8nHEn",
+     "rows": 48,
+     "bytes": 21097,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch014",
+   "rows": 34,
+   "drive_result_parts": [
+    {
+     "id": "1kmuz1RtY1cQcmS0Vz7jnHgJEfVAOyTC8",
+     "rows": 34,
+     "bytes": 13575,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch015",
+   "rows": 40,
+   "drive_result_parts": [
+    {
+     "id": "1ZSbkUzHBQqTilvhJrLZDdG9icQgFltlf",
+     "rows": 40,
+     "bytes": 19869,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch016",
+   "rows": 20,
+   "drive_result_parts": [
+    {
+     "id": "1Zb1BtuiEwuEPRE_SHYR2xC61hMT5ji3F",
+     "rows": 20,
+     "bytes": 10687,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch017",
+   "rows": 28,
+   "drive_result_parts": [
+    {
+     "id": "1KfCb6noZBo905iqWB_NDAJwTttW53fIz",
+     "rows": 28,
+     "bytes": 15102,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch018",
+   "rows": 32,
+   "drive_result_parts": [
+    {
+     "id": "1tXapbNTlMB0fQjoPW-1nZjM3bDnVlvhv",
+     "rows": 32,
+     "bytes": 17380,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch019",
+   "rows": 40,
+   "drive_result_parts": [
+    {
+     "id": "1XCYthpOofrNS1SYR25uJSzDVhVH8ogls",
+     "rows": 40,
+     "bytes": 21576,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch020",
+   "rows": 32,
+   "drive_result_parts": [
+    {
+     "id": "1d1DJJoYZPCH9Mzj-KZ-z9MtvAzm5x7OO",
+     "rows": 32,
+     "bytes": 16884,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch021",
+   "rows": 32,
+   "drive_result_parts": [
+    {
+     "id": "1j-D7NEQrOQCiyFdHkiXt6Oi9bMziapse",
+     "rows": 32,
+     "bytes": 16938,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch022",
+   "rows": 57,
+   "drive_result_parts": [
+    {
+     "id": "1lJ2RXVGr1lOJRnDsjpWyDpk_9omjmKAH",
+     "rows": 57,
+     "bytes": 30443,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch023",
+   "rows": 50,
+   "drive_result_parts": [
+    {
+     "id": "15uS_N7d7H_zUjfJ5MhU9d217t2I2kPed",
+     "rows": 50,
+     "bytes": 28901,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch024",
+   "rows": 51,
+   "drive_result_parts": [
+    {
+     "id": "1Ue0wZeq8nFtQTDGvo-H18YO3YiJARA5d",
+     "rows": 51,
+     "bytes": 28446,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch025",
+   "rows": 60,
+   "drive_result_parts": [
+    {
+     "id": "1zTMYITtz4Tb9KcoTpBnbvYOFpnIq46Wr",
+     "rows": 34,
+     "bytes": 19374,
+     "readback": "OK"
+    },
+    {
+     "id": "1CaCpqLepbO_ygbmK2vm_fT7lsSA3FDUt",
+     "rows": 26,
+     "bytes": 17232,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch026",
+   "rows": 45,
+   "drive_result_parts": [
+    {
+     "id": "18EhrGPTUrsrzBzZbq2fM6ItLQZsY4LpO",
+     "rows": 45,
+     "bytes": 28031,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch027",
+   "rows": 44,
+   "drive_result_parts": [
+    {
+     "id": "1HY9LZH4b01XzXsQa-tUZDPqPfXnkI2kM",
+     "rows": 44,
+     "bytes": 26914,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch028",
+   "rows": 39,
+   "drive_result_parts": [
+    {
+     "id": "1XS64ZK71N--liU_wBXe4Z4pNcQPlWa0W",
+     "rows": 39,
+     "bytes": 21727,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch029",
+   "rows": 51,
+   "drive_result_parts": [
+    {
+     "id": "1ruE6T3zXRTuAu5BsAr26b5ow2SbyBwWf",
+     "rows": 27,
+     "bytes": 14953,
+     "readback": "OK"
+    },
+    {
+     "id": "1WOjeKTf3CZ-FpFHSOv0d0Kn-p6X4IhSv",
+     "rows": 24,
+     "bytes": 15810,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch030",
+   "rows": 38,
+   "drive_result_parts": [
+    {
+     "id": "1FVj9rJTD9UqwFcX0Sg0S7TFR5esL0mnh",
+     "rows": 38,
+     "bytes": 22876,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch031",
+   "rows": 36,
+   "drive_result_parts": [
+    {
+     "id": "1CtctcmXB3Jny5fl18sSkqT2gsxv_BDyQ",
+     "rows": 36,
+     "bytes": 21970,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch032",
+   "rows": 33,
+   "drive_result_parts": [
+    {
+     "id": "1C3Ba4THOOXZ5m2oJuufT61OVdX9yb1mv",
+     "rows": 33,
+     "bytes": 20670,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch033",
+   "rows": 35,
+   "drive_result_parts": [
+    {
+     "id": "1nTX7yWScfVt3JQj7OUIvOua0EEgTxMWo",
+     "rows": 35,
+     "bytes": 19782,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch034",
+   "rows": 46,
+   "drive_result_parts": [
+    {
+     "id": "1JJUQOEsKVJ824LiLgxoKoC7ZeuI2Cfgv",
+     "rows": 23,
+     "bytes": 14199,
+     "readback": "OK"
+    },
+    {
+     "id": "1YKzkYUg6FRWG4UB8lgOhZELiRVFxTXmu",
+     "rows": 23,
+     "bytes": 15336,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch035",
+   "rows": 34,
+   "drive_result_parts": [
+    {
+     "id": "1GVa2bGZG73hZH2_VE0uZHcgEWfSOF_8a",
+     "rows": 34,
+     "bytes": 18836,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch036",
+   "rows": 35,
+   "drive_result_parts": [
+    {
+     "id": "1U_B5RV7AlI2gN6aAEesZPuF0aEPcC1OK",
+     "rows": 35,
+     "bytes": 18489,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch037",
+   "rows": 45,
+   "drive_result_parts": [
+    {
+     "id": "1QMKc3mzWBK7fFRz6U5ZgjnZUR2f-Gb1Y",
+     "rows": 45,
+     "bytes": 26400,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch038",
+   "rows": 40,
+   "drive_result_parts": [
+    {
+     "id": "1XHOFz10bwu1WDqr9e3meWbJo7Jv8An9k",
+     "rows": 40,
+     "bytes": 19726,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch039",
+   "rows": 41,
+   "drive_result_parts": [
+    {
+     "id": "1rMzsZ5RhY-in6KfajJ5diTs2OSPnziZJ",
+     "rows": 41,
+     "bytes": 19996,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  },
+  {
+   "batch": "Batch040",
+   "rows": 36,
+   "drive_result_parts": [
+    {
+     "id": "1-AJsYiOG5KtkT8nV2KytsnKuJvvQf_9Y",
+     "rows": 36,
+     "bytes": 19388,
+     "readback": "OK"
+    }
+   ],
+   "uploaded": true
+  }
+ ],
+ "not_uploaded_result_files": [
+  {
+   "file": "P2F_ALL_UNIQUE_through_Batch040_20261005_LOCAL.csv",
+   "why": "로컬 통합본(사용자 지시로 업로드 안 함); 내용은 Batch001~040 업로드본과 동일 행"
+  },
+  {
+   "file": "P2F_LOCAL_STOP_CHECKPOINT_after_Batch040_20261005.json",
+   "why": "로컬 중단 체크포인트"
+  },
+  {
+   "file": "P2F_LOCAL_MANIFEST_after_Batch040_20261005.json",
+   "why": "본 매니페스트"
+  }
+ ],
+ "unuploaded_batch_results": [],
+ "note_unuploaded": "Batch001~Batch040 결과/체크포인트/상태는 모두 Drive 업로드·readback 완료. 미업로드 batch 결과 없음. Batch041(5-04) 미착수.",
+ "local_work_dirs": {
+  "specs": "specs/*.py (소스별 spec)",
+  "per_source_results": "P2F_B0xx_*.csv/.json, *_compact.csv",
+  "renders": "r*/ (PDF 렌더)",
+  "sources": "src/*.pdf (원본 사본, 수정 없음)"
+ }
+}
