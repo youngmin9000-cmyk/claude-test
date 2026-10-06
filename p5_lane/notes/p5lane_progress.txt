@@ -1,0 +1,5 @@
+# P5 lane progress log (append-only, local; Drive 업로드 안 함)
+B08 QC_REPAIR p108~ : BLOCKED-ACCESS (원본 20.1MB·해설 11.7MB >10MB 다운로드 한도; Drive 텍스트 추출 PDF p86에서 절단) — next B08 p108 유지
+A00009 기하 계산력 문제(22개정).zip 23.9MB : BLOCKED-ACCESS(>10MB)
+A00013 2024 양승진 4점코드 수1 수2.pdf 50.9MB : BLOCKED-ACCESS(>10MB)
+A00014 맑은개념수학 수1&수2 전자책.pdf : LOCAL_RESULT_READY — Math_Question_DB_P5LANE_Result_A00014_20261006.xlsx; 22 rows(예제 단위, 하위문항 101); PASS 17 / REVIEW 3 (p238 예제2 정답지 ⑵⑶ 라벨 뒤바뀜 CONFLICT, p270 예제1·2 그래프 답 REVIEW-그림) / HOLD 2 (p295·p300 작도 예제 정답 미수록); 정답 = 부록 p338~345 동일파일; 마스터 추정 209는 예제 하위항목 포함 추정치 — 실제 문항형 예제 22개(하위 101); READY_FOR_UPLOAD
