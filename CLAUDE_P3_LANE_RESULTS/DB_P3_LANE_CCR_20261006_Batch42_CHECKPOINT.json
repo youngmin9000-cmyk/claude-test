@@ -1,0 +1,43 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 42,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 247,
+ "PASS": 81,
+ "PASS_WITH_DEFECT": 2,
+ "REVIEW": 164,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 81,
+  "REVIEW": 166
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch42_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch42_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A02349",
+   "drive_id": "1IJjP4Gd8MOtz6ENDuAah_AxfJRVdMzrz",
+   "processed_range": "본문 p1–104 전체 (22010-0001~0164 + 예제)",
+   "source_state": "COMPLETE_INDEXED",
+   "answer_state": "정답과 풀이 미보유 → REVIEW_NO_KEY (예제만 PASS)",
+   "official_excluded": "대표 기출 12문항(2021·2022학년도 대수능/6·9월 모평) 행 생성 안 함"
+  },
+  {
+   "queue_id": "A02660",
+   "drive_id": "11sRoga96GRLWdzNAwNdkdizwZNkGSokR",
+   "processed_range": "p1–13 전체",
+   "source_state": "COMPLETE",
+   "answer_state": "파일 말미 정답 대조(이미지 판독)"
+  }
+ ],
+ "latest_completed": "A02349, A02660 (source ends)",
+ "next_start": "A02345/A02365/A02347/천재 5종 in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
