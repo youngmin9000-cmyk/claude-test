@@ -1069,5 +1069,47 @@
   "state": "EXCLUDE_OFFICIAL_EXAM",
   "reason": "자이스토리 확률과 통계 = 수능/평가원/교육청/경찰대·사관 기출 모음(959문항 중 자체 예상문제 7개뿐) → 기출 작업 금지로 행 생성 안 함; 자체 예상문제 7개도 텍스트 절단 구간 밖/소량으로 미처리",
   "needs": ""
+ },
+ {
+  "queue_id": "A00908",
+  "drive_id": "(master)",
+  "state": "COMPANION_LINK_ONLY",
+  "reason": "올림포스 유형편 수학(상) 정답과 풀이 전용 파일(문항 본문 없음) → 본문 A00909(BLOCKED) companion",
+  "needs": ""
+ },
+ {
+  "queue_id": "A02366",
+  "drive_id": "(master)",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "2026 수능특강 미적분 = A02342 (159/160쪽 텍스트 동일)",
+  "needs": ""
+ },
+ {
+  "queue_id": "A02372",
+  "drive_id": "(master)",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "2026 수능특강 수학Ⅰ = A02343",
+  "needs": ""
+ },
+ {
+  "queue_id": "A02370",
+  "drive_id": "(master)",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "2026 수능특강 수학Ⅱ = A02344 (전 페이지 텍스트 동일)",
+  "needs": ""
+ },
+ {
+  "queue_id": "A02368",
+  "drive_id": "(master)",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "2026 수능특강 확률과 통계 = A02345",
+  "needs": ""
+ },
+ {
+  "queue_id": "A02350",
+  "drive_id": "(master)",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "2023 수능특강 미적분 본문 = A02347 ZIP z01 (체크섬 동일) → A02347 canonical",
+  "needs": ""
  }
 ]
