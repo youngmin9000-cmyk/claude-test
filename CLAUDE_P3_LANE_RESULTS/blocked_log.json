@@ -1,0 +1,100 @@
+[
+ {
+  "queue_id": "A00073",
+  "drive_id": "1Iio826H7TCFXSZ7sMs98iq1vW8dRQTWN",
+  "state": "BLOCKED",
+  "reason": "스캔본(텍스트층 없음, Drive 텍스트표현 0자) + 7.35MB > 다운로드 한도 → 이미지/텍스트 모두 접근 불가",
+  "needs": "로컬 Python 전처리(OCR/페이지 이미지)"
+ },
+ {
+  "queue_id": "A00079",
+  "drive_id": "1wCHrL4fL5jA3Ovv33ORuOf8JnsTm5wbY",
+  "state": "BLOCKED",
+  "reason": "스캔본(텍스트 0자) + 49.5MB",
+  "needs": "로컬 OCR/페이지 이미지"
+ },
+ {
+  "queue_id": "A00084",
+  "drive_id": "15l4irusFpT8g_4iHuoHWyNbM3rUqK-kL",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(페이지 마커 없음) + 25.7MB",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00314",
+  "drive_id": "17bMZxhKjdafXR5nvZG6ry-ynCpQeUbzR",
+  "state": "BLOCKED",
+  "reason": "ZIP 301MB(ARCHIVE_RECHECK) → 커넥터로 다운로드/열람 불가",
+  "needs": "로컬 압축해제 후 멤버별 전처리"
+ },
+ {
+  "queue_id": "A00323",
+  "drive_id": "1K1ph7w6TPbNmuP1y1O9oCwDEzAHf9SO_",
+  "state": "BLOCKED",
+  "reason": "ZIP 723MB(초등 왕수학, DEEP) → 커넥터로 접근 불가",
+  "needs": "로컬 압축해제 후 전처리"
+ },
+ {
+  "queue_id": "A00071",
+  "drive_id": "1J4bxpwlGmy1p5Agd7Cd_XeFdyM8E1yOk",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현에서 숫자·기호가 거의 전부 소실(에듀원 전용폰트; 선택지 숫자 보존율 ~1-2%) + 원본 >6MB로 이미지 접근 불가 → 문항 재구성 불가; p53-76 시험분석 116문항 중 114 HOLD_SOURCE(증빙: evidence/)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00081",
+  "drive_id": "12bDnEVsLNe4Kqz3fAUtTo9cMB_IGDRgJ",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현에서 숫자·기호가 거의 전부 소실(에듀원 전용폰트; 선택지 숫자 보존율 ~1-2%) + 원본 >6MB로 이미지 접근 불가 → 문항 재구성 불가",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00248",
+  "drive_id": "1VF4dAy0FF42Cz7K6aSxnSDr5QJxogVLL",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현에서 숫자·기호가 거의 전부 소실(에듀원 전용폰트; 선택지 숫자 보존율 ~1-2%) + 원본 >6MB로 이미지 접근 불가 → 문항 재구성 불가",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00249",
+  "drive_id": "1XfSqy2ewWX-TEsIiuHmtTaYZVwRjgNkH",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현에서 숫자·기호가 거의 전부 소실(에듀원 전용폰트; 선택지 숫자 보존율 ~1-2%) + 원본 >6MB로 이미지 접근 불가 → 문항 재구성 불가 (6.29MB, 한도 근접 초과)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00310",
+  "drive_id": "1N-1d-cX8SklvznIbyTydPOxUY1l8PU7i",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현에서 숫자·기호가 거의 전부 소실(에듀원 전용폰트; 선택지 숫자 보존율 ~1-2%) + 원본 >6MB로 이미지 접근 불가 → 문항 재구성 불가",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00311",
+  "drive_id": "1y-pfTcwuW7uL0FGlPG_0SuXLDrb45O5s",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답 + 16.1MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00357",
+  "drive_id": "1qs68FjRAmLCiII8GEhMhmdWuebpSKPd-",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(텍스트=표지문구·워터마크뿐) + 16.8MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00375",
+  "drive_id": "1SOqikB4cUwwlc6N_e8jY-snekSbS8__L",
+  "state": "BLOCKED",
+  "reason": "이미지 전용(144쪽 빈 텍스트) + 10.0MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR) 또는 ≤6MB 분할본"
+ },
+ {
+  "queue_id": "A00350",
+  "drive_id": "1edinEhs3Zck_PFfaszbNs6gSpyU-d3ou",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "A00349(자이스토리 3-2 unlocked)와 동일 도서: p1-76 텍스트 바이트 동일 → A00349를 canonical로 처리",
+  "needs": ""
+ }
+]
