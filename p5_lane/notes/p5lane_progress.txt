@@ -21,3 +21,7 @@ A00389 다항함수의 적분법.pdf : LOCAL_RESULT_READY — …_A00389_….xls
 A00394 함수의 극한과 연속 (1).hwp : DUPLICATE_SOURCE — A00388(PDF)과 본문 동일한 HWP 원본(제목·항목·'연속 성질(2)' 중복표기까지 일치) → 신규 행 없음, A00388 행으로 대표
 A00395 수학2 시작 전 기본개념.hwpx : LOCAL_RESULT_READY — …_A00395_….xlsx; 18 rows (그래프 작도 12[REVIEW-그림] + 곱셈공식·변형·거리·직선 6, 하위 34); NOKEY REVIEW; sympy 절편·점근선 검산; 원문 곱셈공식 번호 4)·5) 누락; P5 lane 누적 231
 === 고정 순서 목록 처리 완료(A00009~A00395). 다음: master lane=P5 ACTIONABLE 미완료 대상 A번호 오름차순 ===
+A00402 개념test\다항함수의 적분법.hwp : DUPLICATE_SOURCE — A00389(PDF)의 HWP 원본, 항목 동일; 정적분과 미분 ⑤ 'lim_{x→a}(1/x)∫_a^{x+a}' 원본에도 동일 표기 → A00389 항목6 HOLD 유지(원문 자체 표기 확인)
+A00403 개념test\다항함수의 미분법.hwp : DUPLICATE_SOURCE — A00385(PDF)의 HWP 원본, 항목 동일 → 신규 행 없음
+A00404 개념test\복소수.hwp : DUPLICATE_SOURCE — A00381(PDF)의 HWP 원본, 항목 동일 → 신규 행 없음
+A00405 개념test\곱셉공식.hwp : DUPLICATE_SOURCE — A00382(PDF)의 HWP 원본(곱셈공식 12 + 변형 12) → 신규 행 없음
