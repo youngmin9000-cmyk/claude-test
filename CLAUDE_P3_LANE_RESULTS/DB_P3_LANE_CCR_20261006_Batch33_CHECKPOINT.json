@@ -1,0 +1,45 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 33,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 216,
+ "PASS": 191,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 6,
+ "HOLD": 19,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 191,
+  "NO": 19,
+  "REVIEW": 6
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch33_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch33_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00883",
+   "drive_id": "1ogKNCjCZn908KCrGacfSu-nSwZeQWF3X",
+   "processed_range": "p1–77 of 232 (Ⅰ 삼각형의 성질 ~ Ⅱ-2-01 일부)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "p77 이후 미도달: 원본 19.2MB, Drive 텍스트표현 ~108K자 절단",
+   "answer_state": "정답·풀이 오버레이판 대조",
+   "next_question_when_unblocked": "Ⅱ-2-01 개념원리 확인하기 04 (p77~)"
+  }
+ ],
+ "blocked_or_excluded_new": [
+  "A00905",
+  "A00915",
+  "A00916",
+  "A01813",
+  "A01811(EXCLUDE_OFFICIAL_EXAM)"
+ ],
+ "latest_completed": "A00883 p77",
+ "next_start": "A01818/A02317/A00907 in progress; download fetch running",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}

@@ -1034,5 +1034,40 @@
   "state": "NO_ITEMS",
   "reason": "168바이트 ZIP(손상/빈 파일)",
   "needs": ""
+ },
+ {
+  "queue_id": "A00905",
+  "drive_id": "1FJjeAdCK_SkRhq-FxgvMrEPCAgHhnTVw",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용) + 원본 >6MB",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00915",
+  "drive_id": "1ePKo32hBOuY0BIzAa6tlFP6PjueM85cM",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용) + 원본 >6MB",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00916",
+  "drive_id": "1CKj_3ior4hljwo1EwmDgRJHRrApvw2mv",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용) + 원본 >6MB",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A01813",
+  "drive_id": "1QCbOmjqDjqmLvUyIupG4-HMTHW2BS1dD",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용) + 원본 >6MB",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A01811",
+  "drive_id": "1q3VYNVndVS6KVOSWFLDWI9d4UzOT5p__",
+  "state": "EXCLUDE_OFFICIAL_EXAM",
+  "reason": "자이스토리 확률과 통계 = 수능/평가원/교육청/경찰대·사관 기출 모음(959문항 중 자체 예상문제 7개뿐) → 기출 작업 금지로 행 생성 안 함; 자체 예상문제 7개도 텍스트 절단 구간 밖/소량으로 미처리",
+  "needs": ""
  }
 ]
