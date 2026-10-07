@@ -1,0 +1,63 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 45,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 643,
+ "PASS": 635,
+ "PASS_WITH_DEFECT": 6,
+ "REVIEW": 2,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 635,
+  "REVIEW": 8
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch45_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch45_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A02365",
+   "drive_id": "190nvjTvk6pojy5PB0k-DfG9rzXSqP2Av",
+   "processed_range": "본문 p1–94 전체 (유제/Level/예제)",
+   "source_state": "COMPLETE",
+   "answer_state": "본문 정답과 풀이 p97~ 대조"
+  },
+  {
+   "queue_id": "A02657",
+   "drive_id": "1e7eJqaJyLigKBM8m4iw5_klIoku4ARIy",
+   "processed_range": "3. 도형의 방정식 전체",
+   "source_state": "COMPLETE",
+   "answer_state": "책 내 정답표 대조"
+  },
+  {
+   "queue_id": "A02658",
+   "drive_id": "1V9URUiB7Som7xbpbJaQFkQ6595LJ6SeZ",
+   "processed_range": "2. 방정식과 부등식 p1–38 전체 (따라 하기 9행 포함)",
+   "source_state": "COMPLETE",
+   "answer_state": "책 내 정답표 대조; 문제2 정답표 오류(PWD)"
+  },
+  {
+   "queue_id": "A02661",
+   "drive_id": "1lpIeVqSITfYrT4fqQQv3-er78mbJBO9J",
+   "processed_range": "5. 함수 전체",
+   "source_state": "COMPLETE",
+   "answer_state": "책 내 정답표 대조"
+  },
+  {
+   "queue_id": "A02663",
+   "drive_id": "1HFSPMwm1GxlL0KHaE7gNAoLH0WDLyW1i",
+   "processed_range": "4. 집합과 명제 전체",
+   "source_state": "COMPLETE",
+   "answer_state": "책 내 정답표 대조"
+  }
+ ],
+ "latest_completed": "A02663 (source end); A02365/A02657/A02658/A02661 complete",
+ "next_start": "NONE processable in P3 ACTIONABLE backlog (remaining = BLOCKED, see P3_LANE_FINAL_STATUS)",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
