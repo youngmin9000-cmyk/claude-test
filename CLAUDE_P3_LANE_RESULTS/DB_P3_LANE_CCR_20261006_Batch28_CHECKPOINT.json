@@ -1,0 +1,40 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 28,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 335,
+ "PASS": 329,
+ "PASS_WITH_DEFECT": 6,
+ "REVIEW": 0,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 329,
+  "REVIEW": 6
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch28_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch28_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00666",
+   "drive_id": "1ILhMvePrVBNHKPqwXopkR2PoH0b6d7L3",
+   "processed_range": "본문 z01 p1–128 전체 (Ⅰ 함수의 극한과 연속 ~ Ⅲ 적분)",
+   "source_state": "COMPLETE",
+   "answer_state": "ZIP 동봉 해설(z02) 대조",
+   "answer_conflicts": [
+    "Ⅱ-2 유형33 55⑴: 해설 10/3 vs 인쇄식 기준 -17/3 (본문 모순)",
+    "Ⅲ-3 중단원 점검 08: 인쇄 -6 vs 해설 +6 → 인쇄 기준 8√3"
+   ],
+   "errata_note": "정오표.hwp에 본문 29-⑹ 정정 기재 확인"
+  }
+ ],
+ "latest_completed": "A00666 z01 p128 (source end)",
+ "next_start": "A00674/A00681/A00694/A00685/A00650 in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
