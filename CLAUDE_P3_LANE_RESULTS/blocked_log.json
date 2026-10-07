@@ -271,5 +271,159 @@
   "state": "BLOCKED",
   "reason": "빈 텍스트 + 10.2MB",
   "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00855",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "34.4MB 이미지 전용(NO_TEXT)",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00857",
+  "drive_id": "(master)",
+  "state": "EXCLUDE_NONMATH",
+  "reason": "비수학(영어 시험지) — 이전 P3 단계 EXCLUDE 판정 유지",
+  "needs": ""
+ },
+ {
+  "queue_id": "A00860",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "159.8MB 이미지 전용",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00861",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "177.3MB 이미지 전용",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00862",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "ZIP 24.0MB > 한도",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00863",
+  "drive_id": "(master)",
+  "state": "COMPANION_LINK_ONLY",
+  "reason": "특급기출 중3-2 중간 정오표(HWP) → 본문 A00860의 companion",
+  "needs": ""
+ },
+ {
+  "queue_id": "A00864",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "ZIP 14.4MB > 한도",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00865",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "ZIP 22.6MB > 한도",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00868",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "170.3MB 이미지 전용",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00869",
+  "drive_id": "(master)",
+  "state": "COMPANION_LINK_ONLY",
+  "reason": "특급기출 중3-2 기말 정오표(HWP) → 본문 A00868의 companion",
+  "needs": ""
+ },
+ {
+  "queue_id": "A00871",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "175.1MB 이미지 전용",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00894",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "HWP 8.0MB > 한도(이전 P3 단계 HOLD_SOURCE size 판정 유지)",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00699",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00858",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00859",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00885",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00887",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00890",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00903",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00904",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "이미지 전용 PDF(Drive 텍스트표현 빈 페이지 마커) + 원본 >6MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00882",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "OCR 텍스트 숫자 비보존(선지 숫자율 0.50) + 12.0MB",
+  "needs": "로컬 페이지 이미지"
+ },
+ {
+  "queue_id": "A00891",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "수식 다수 깨짐(텍스트 재구성 불가) + 18.2MB",
+  "needs": "로컬 페이지 이미지"
  }
 ]
