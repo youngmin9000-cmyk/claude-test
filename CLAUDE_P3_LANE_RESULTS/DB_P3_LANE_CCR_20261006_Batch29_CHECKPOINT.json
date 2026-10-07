@@ -1,0 +1,37 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 29,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 309,
+ "PASS": 303,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 6,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 303,
+  "REVIEW": 6
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch29_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch29_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00681",
+   "drive_id": "1Qj9tdnCnCaP5nMFXvCyv5j5MuQHgR8rd",
+   "processed_range": "0001–0309 (p1–39)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "p40 이후(0310~) 미도달: 원본 8.0MB(한도 초과), Drive 텍스트표현 절단",
+   "answer_state": "정답·풀이 오버레이판 인쇄 정답과 독립풀이 대조",
+   "next_question_when_unblocked": "0310"
+  }
+ ],
+ "latest_completed": "A00681 0309 (p39)",
+ "next_start": "A00674/A00694/A00685/A00650 in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
