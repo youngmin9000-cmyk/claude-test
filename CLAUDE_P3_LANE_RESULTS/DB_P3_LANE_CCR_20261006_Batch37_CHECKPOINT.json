@@ -1,0 +1,41 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 37,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 288,
+ "PASS": 273,
+ "PASS_WITH_DEFECT": 15,
+ "REVIEW": 0,
+ "HOLD": 0,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 277,
+  "REVIEW": 11
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch37_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch37_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A01817",
+   "drive_id": "1f7IYxoUdXOxFtQpna5aP3yeVyrc_8v3w",
+   "processed_range": "본문 z01 p1–120 전체 (Ⅰ 경우의 수 ~ Ⅲ 통계)",
+   "source_state": "COMPLETE",
+   "answer_state": "ZIP 동봉 해설(z02) 대조; 정오표(m01.hwp) 반영 확인",
+   "answer_conflicts": [
+    "Ⅱ-2 중단원 점검 11: 정답 0.6 vs 0.5 (정오표에도 정정)",
+    "Ⅱ-1 중단원 점검 05: 정답 1/3 vs 1/2 (정오표 미기재)",
+    "Ⅰ-1 유형30 33⑺: 정답 n=5만 기재, n=8도 성립"
+   ],
+   "companion": "A01821 정오표 link-only"
+  }
+ ],
+ "latest_completed": "A01817 p120 (source end)",
+ "next_start": "수능특강 2026/2023, A00907 in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
