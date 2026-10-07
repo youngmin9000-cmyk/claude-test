@@ -1,0 +1,17 @@
+문항ID,분석큐ID,원본파일 Drive ID,원문항번호,원본페이지,검토상태,production_ready,메모,원문조건충돌,원답지정답,확정정답
+D_c95311cacdc8_0012,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0012,p7,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,⑴0 ⑵2 ⑶2 ⑷2 ⑸존재하지 않는다 ⑹2,
+D_c95311cacdc8_0035,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0035,p10,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,④,
+D_c95311cacdc8_0036,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0036,p10,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,⑤,
+D_c95311cacdc8_0051,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0051,p12,HOLD,NO,"본문: 첫 조건 (f(x)-5)/(x-2)→10이 lim f=5를 강제하여 둘째 조건과 모순; 풀이의 a=3은 성립 불가; HOLD_ANSWER; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,③ (3),
+D_c95311cacdc8_0086,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0086,p17,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,①,
+D_c95311cacdc8_0089,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0089,p17,PASS_WITH_DEFECT,REVIEW,"본문: P의 위치(t>0, 제1사분면) 조건이 본문에 없음(그림 의존); t→0-이면 극한 0이 되어 양쪽 극한 불일치; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시","본문: P의 위치(t>0, 제1사분면) 조건이 본문에 없음(그림 의존); t→0-이면 극한 0이 되어 양쪽 극한 불일치",2,2
+D_c95311cacdc8_0091,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0091,p18,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,⑤,
+D_c95311cacdc8_0100,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0100,p19,HOLD,NO,"HOLD_SOURCE; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,미확인(✔ 위치·풀이 없음),
+D_c95311cacdc8_0116,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0116,p21,PASS_WITH_DEFECT,REVIEW,"본문: '다항함수' 조건이 '함수 f(x)'로만 기재되어 f 결정 불가(평가원 원문은 다항함수); 정답 35; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",본문: '다항함수' 조건이 '함수 f(x)'로만 기재되어 f 결정 불가(평가원 원문은 다항함수); 정답 35,35,35
+D_c95311cacdc8_0119,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0119,p23,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,f(0) 정의 안 됨,
+D_c95311cacdc8_0120,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0120,p23,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,lim_{x→0}f 미존재,
+D_c95311cacdc8_0121,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0121,p23,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,lim_{x→0}f≠f(0),
+D_c95311cacdc8_0122,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0122,p23,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,f(0) 미정의·극한 미존재,
+D_c95311cacdc8_0155,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0155,p26,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,"ㄴ, ㄷ",
+D_c95311cacdc8_0180,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0180,p30,REVIEW,REVIEW,"REVIEW_FIG_LAYOUT; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,②,
+D_c95311cacdc8_0194,A00664,1FLN9xVNBm5NoWpPx7i9WuDpXkgOJWzQE,0194,p33,HOLD,NO,"HOLD_VISUAL; 원본 21.1MB → Drive 텍스트표현(p1-38, 절단); 문항별 정답·풀이 내장; 그림 비가시",,✔ 위치 미확인,

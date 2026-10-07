@@ -198,8 +198,78 @@
  {
   "queue_id": "A00650",
   "drive_id": "1ziQEu2FOdhocyznAeZFt8ZAgYG1rueaw",
-  "state": "EXCLUDE_OFFICIAL_EXAM",
-  "reason": "짱중요한유형 수학Ⅱ = 수능/모평 기출 유형별 모음(공식 기출 원문항) → 기출 작업 금지 지시에 따라 P3 lane에서 행 생성 안 함(공식기출 파이프라인 대상)",
+  "state": "PARTIAL_PENDING",
+  "reason": "짱중요한유형 수학Ⅱ: 유형별 [기본문제 다지기]/[예상문제 도전하기]는 교재 자체문항, [기출문제 맛보기]만 수능/모평 원문항 → 기출 섹션만 제외하고 처리 예정(이전 전체 EXCLUDE 판정 정정)",
   "needs": ""
+ },
+ {
+  "queue_id": "A00672",
+  "drive_id": "1WrzwhVxrRqix3dpoTlcMhvYesYMN08hD",
+  "state": "BLOCKED",
+  "reason": "ZIP 18.1MB > 다운로드 한도, ZIP은 텍스트표현 불가",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00678",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "ZIP 1.19GB > 다운로드 한도",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00679",
+  "drive_id": "1VatNnd65pQRyqqRyI9R2iOAR0c4ZZpnF",
+  "state": "BLOCKED",
+  "reason": "110MB 이미지 전용(NO_TEXT) PDF",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00683",
+  "drive_id": "1JGzF-9VM8HG_DEuq8EpXLieISxGb3QN_",
+  "state": "BLOCKED",
+  "reason": "ZIP 6.79MB > 다운로드 한도(~5.9MB), ZIP은 텍스트표현 불가",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00671",
+  "drive_id": "1QbF-5JShAldxemPmDeUVdMDZKJM7mvRT",
+  "state": "BLOCKED",
+  "reason": "OCR 텍스트 숫자 비보존 + 16.2MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00690",
+  "drive_id": "1CGUinv0xyfJcVCqdWbAOt0-14kReNgrH",
+  "state": "BLOCKED",
+  "reason": "OCR 잡음(숫자 비보존) + 18.2MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00692",
+  "drive_id": "1G8f9-_eltvvxALYMlx8V_KqJh8-JrNem",
+  "state": "BLOCKED",
+  "reason": "이미지 전용(빈 텍스트) + 44.5MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00695",
+  "drive_id": "12nhih_QDbC_bi8kz0VC2mNIMjyOJDaEi",
+  "state": "BLOCKED",
+  "reason": "빈 텍스트 + 38.0MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00696",
+  "drive_id": "1zZ4DG4h3PsiFYTL3tCfImz1jUKYg5xgi",
+  "state": "BLOCKED",
+  "reason": "빈 텍스트(워터마크만) + 23.3MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00697",
+  "drive_id": "1ZdPXCi4ZamFWLQfb-OC57P0RO4KBGd1J",
+  "state": "BLOCKED",
+  "reason": "빈 텍스트 + 10.2MB",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
  }
 ]
