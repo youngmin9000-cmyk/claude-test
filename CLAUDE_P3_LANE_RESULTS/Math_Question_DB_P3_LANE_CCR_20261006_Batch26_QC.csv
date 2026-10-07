@@ -1,0 +1,30 @@
+문항ID,분석큐ID,원본파일 Drive ID,원문항번호,원본페이지,검토상태,production_ready,메모,원문조건충돌,원답지정답,확정정답
+D_5d6dd0855c38_0176,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0176,p28,PASS_WITH_DEFECT,REVIEW,본문: 선지 ③ Σ_{n=1} n/(n-1)은 n=1에서 정의되지 않음(오답 선지라 정답 ② 불변); 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,본문: 선지 ③ Σ_{n=1} n/(n-1)은 n=1에서 정의되지 않음(오답 선지라 정답 ② 불변),② (Σ1/(n(n+1))),② (Σ1/(n(n+1)))
+D_5d6dd0855c38_0341,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0341,p53,PASS_WITH_DEFECT,REVIEW,"본문: 선지⑤ {log₃(1−x)/x}^x는 x→0에서 밑이 음수(→−1/ln3)인 실수 지수 거듭제곱이라 정의되지 않음(해설은 (−log₃e)⁰=1로 처리). 어느 해석이든 ⑤는 거짓이므로 정답 ③,⑤ 확정; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장","본문: 선지⑤ {log₃(1−x)/x}^x는 x→0에서 밑이 음수(→−1/ln3)인 실수 지수 거듭제곱이라 정의되지 않음(해설은 (−log₃e)⁰=1로 처리). 어느 해석이든 ⑤는 거짓이므로 정답 ③,⑤ 확정","③, ⑤","③, ⑤"
+D_5d6dd0855c38_0652,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0652,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0653,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0653,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0654,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0654,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0655,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0655,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0656,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0656,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0657,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0657,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0658,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0658,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0659,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0659,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0660,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0660,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0661,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0661,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0662,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0662,p93,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0724,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0724,p101,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,,
+D_5d6dd0855c38_0743,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0743,p104,HOLD,NO,"정답표: 풀이도 a=2√3/3, b=1을 구한 뒤 a²+b=5/3으로 오계산(실제 7/3). 5개 선지 모두 오답이라 본문 선지도 수정 필요; HOLD_ANSWER; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장",,⑤ 5/3,
+D_5d6dd0855c38_0786,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0786,p109,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0787,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0787,p109,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0788,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0788,p109,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0789,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0789,p109,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0790,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0790,p109,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0791,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0791,p109,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0792,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0792,p109,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0804,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0804,p111,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,풀이 참조,
+D_5d6dd0855c38_0930,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0930,p130,PASS_WITH_DEFECT,REVIEW,"본문: x=0에서 정의되지 않아 x<0, x>0 적분상수가 독립 — f(-1)만으로 f(1) 결정 불가; 동일 적분상수 관례 하에서 -4/3; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장","본문: x=0에서 정의되지 않아 x<0, x>0 적분상수가 독립 — f(-1)만으로 f(1) 결정 불가; 동일 적분상수 관례 하에서 -4/3",-4/3,-4/3
+D_5d6dd0855c38_0946,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0946,p132,PASS_WITH_DEFECT,REVIEW,"본문: x=π/2에서 피적분함수 미정의라 [0,π]가 끊김 — 동일 적분상수 관례 하에서 6; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장","본문: x=π/2에서 피적분함수 미정의라 [0,π]가 끊김 — 동일 적분상수 관례 하에서 6",④,④ 6
+D_5d6dd0855c38_0975,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0975,p136,PASS_WITH_DEFECT,REVIEW,본문: x=1에서 f' 미정의라 x=0과 x=2가 다른 구간 — 동일 적분상수 관례 하에서 10; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,본문: x=1에서 f' 미정의라 x=0과 x=2가 다른 구간 — 동일 적분상수 관례 하에서 10,⑤,⑤ 10
+D_5d6dd0855c38_0979,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,0979,p137,PASS_WITH_DEFECT,REVIEW,"본문: x=1에서 피적분함수 미정의라 x=0,2가 다른 구간 — 동일 적분상수 관례 하에서 5; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장","본문: x=1에서 피적분함수 미정의라 x=0,2가 다른 구간 — 동일 적분상수 관례 하에서 5",5,5
+D_5d6dd0855c38_1123,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,1123,p155,REVIEW,REVIEW,REVIEW_NO_KEY; 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,,,
+D_5d6dd0855c38_1126,A00627,1jnlwMdcM9Vhr_vO4-GfZ07Wf71tm9ncf,1126,p156,PASS_WITH_DEFECT,REVIEW,본문: x>0에서 정의된 함수인데 f(−1)을 요구(정의역 밖; 식 연장값 2e−1/e로 처리); 원본 PDF(5.86MB) 다운로드·텍스트+페이지 이미지; 문항별 정답·풀이 내장,본문: x>0에서 정의된 함수인데 f(−1)을 요구(정의역 밖; 식 연장값 2e−1/e로 처리),2e-1/e,2e-1/e
