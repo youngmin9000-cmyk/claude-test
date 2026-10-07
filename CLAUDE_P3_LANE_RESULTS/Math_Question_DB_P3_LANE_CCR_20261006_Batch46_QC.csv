@@ -1,0 +1,6 @@
+문항ID,분석큐ID,원본파일 Drive ID,원문항번호,원본페이지,검토상태,production_ready,메모,원문조건충돌,원답지정답,확정정답
+Q_A02352_21010_0005,A02352,111NwlPEKdtzikmaBG4_zaCAh8eSB-mkk,21010-0005,p9,HOLD,NO,"HOLD_VISUAL; V2 전처리 packet(_FULL_AUDIT_REPREPROCESS_V2, pdf_text) 재사용 — 원본 재파싱/OCR 없음; 도형 비가시; 본문+정답과해설 ZIP; 대표 기출 제외",,27,
+Q_A02352_21010_0018,A02352,111NwlPEKdtzikmaBG4_zaCAh8eSB-mkk,21010-0018,p12,HOLD,NO,"HOLD_VISUAL; V2 전처리 packet(_FULL_AUDIT_REPREPROCESS_V2, pdf_text) 재사용 — 원본 재파싱/OCR 없음; 도형 비가시; 본문+정답과해설 ZIP; 대표 기출 제외",,⑤,
+Q_A02352_21010_0067,A02352,111NwlPEKdtzikmaBG4_zaCAh8eSB-mkk,21010-0067,p41,HOLD,NO,"HOLD_VISUAL; V2 전처리 packet(_FULL_AUDIT_REPREPROCESS_V2, pdf_text) 재사용 — 원본 재파싱/OCR 없음; 도형 비가시; 본문+정답과해설 ZIP; 대표 기출 제외",,①,
+Q_A02352_21010_0114,A02352,111NwlPEKdtzikmaBG4_zaCAh8eSB-mkk,21010-0114,p71,HOLD,NO,"HOLD_VISUAL; V2 전처리 packet(_FULL_AUDIT_REPREPROCESS_V2, pdf_text) 재사용 — 원본 재파싱/OCR 없음; 도형 비가시; 본문+정답과해설 ZIP; 대표 기출 제외",,③,
+Q_A02354_21012_0017,A02354,1Dm79fbL0zRxyriJpFxcwP3WPrVpn7k-A,21012-0017,p12,PASS_WITH_DEFECT,REVIEW,"본문: 조건 과잉으로 미세 불일치(A의 x좌표 2∛7, ∠FAB=60°, 넓이 7을 모두 정확히 만족하는 a는 약 6.998·넓이 6.999). 해설 경로상 의도 정답 ④ 21/4, 선지 판별은 확실; V2 전처리 packet(_FULL_AUDIT_REPREPROCESS_V2, pdf_text) 재사용 — 원본 재파싱/OCR 없음; 도형 비가시; 본문+정답과해설 ZIP; 대표 기출 제외","본문: 조건 과잉으로 미세 불일치(A의 x좌표 2∛7, ∠FAB=60°, 넓이 7을 모두 정확히 만족하는 a는 약 6.998·넓이 6.999). 해설 경로상 의도 정답 ④ 21/4, 선지 판별은 확실",④,④ (21/4)
