@@ -1111,5 +1111,68 @@
   "state": "DUPLICATE_REPRESENTATION",
   "reason": "2023 수능특강 미적분 본문 = A02347 ZIP z01 (체크섬 동일) → A02347 canonical",
   "needs": ""
+ },
+ {
+  "queue_id": "A00632",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 202.8MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용)",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00634",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 204.7MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용)",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00645",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 196.1MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용)",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00663",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 67.6MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용)",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00686",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 20.6MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용) ; 짱중요한 시리즈 → 처리 시 [기출문제 맛보기] 공식 기출 제외 필요",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00687",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 29.1MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용) ; 짱중요한 시리즈 → 처리 시 [기출문제 맛보기] 공식 기출 제외 필요",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00688",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 19.7MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용) ; 짱중요한 시리즈 → 처리 시 [기출문제 맛보기] 공식 기출 제외 필요",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00689",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "원본 22.1MB > 다운로드 한도 + cache NO_TEXT_RECHECK(이미지 전용) ; 짱중요한 시리즈 → 처리 시 [기출문제 맛보기] 공식 기출 제외 필요",
+  "needs": "로컬 Python 전처리"
+ },
+ {
+  "queue_id": "A00636",
+  "drive_id": "(master)",
+  "state": "BLOCKED",
+  "reason": "ZIP 7.36MB > 다운로드 한도(~5.9MB)",
+  "needs": "로컬 압축해제"
  }
 ]
