@@ -1,0 +1,2 @@
+문항ID,분석큐ID,원본파일 Drive ID,원문항번호,원본페이지,검토상태,production_ready,메모,원문조건충돌,원답지정답,확정정답
+D_ba9720d35b5a_25008_0111,A02343,1V8dIiU9IEDkhbQyARAE0XeEfaY1tCc3F,25008-0111,p60,FAIL,NO,"본문: 조건 모순—PB·cos(C/2)=2√2·sin∠ACB≤2√2<√10이라 삼각형 불존재; 해설도 sin∠ACB=√5/2(>1)로 125 도출, 정답 125 무효; HOLD_SOURCE; PDF(<6MB) 다운로드: 본문+정답과 풀이 동일 파일; 페이지 이미지 판독",,125,
