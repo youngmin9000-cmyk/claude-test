@@ -1,0 +1,38 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 15,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 451,
+ "PASS": 2,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 315,
+ "HOLD": 134,
+ "FAIL": 0,
+ "production_ready": {
+  "NO": 134,
+  "REVIEW": 315,
+  "YES": 2
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch15_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch15_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00349",
+   "drive_id": "1poYBQUTfp2x7Eka5sOW7YDGCTbj6gqSj",
+   "processed_range": "J001–J159, K001–K137, L001–L145, M001–M008·M010·M011 (p1–77)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "p77 이후 미도달(원본 37.4MB, Drive 텍스트표현 절단); M009·M012~ 미처리. 정답 및 해설 미보유 → REVIEW_NO_KEY",
+   "next_question_when_unblocked": "M009 (p77~)",
+   "duplicate_representation": "A00350 = 동일 도서(p1-76 텍스트 바이트 동일) → 행 생성 안 함"
+  }
+ ],
+ "latest_completed": "A00349 M011 (p77)",
+ "next_start": "A00072/A00077/A00352 remaining parts in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
