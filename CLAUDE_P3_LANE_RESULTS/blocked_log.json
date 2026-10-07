@@ -198,8 +198,8 @@
  {
   "queue_id": "A00650",
   "drive_id": "1ziQEu2FOdhocyznAeZFt8ZAgYG1rueaw",
-  "state": "PARTIAL_PENDING",
-  "reason": "짱중요한유형 수학Ⅱ: 유형별 [기본문제 다지기]/[예상문제 도전하기]는 교재 자체문항, [기출문제 맛보기]만 수능/모평 원문항 → 기출 섹션만 제외하고 처리 예정(이전 전체 EXCLUDE 판정 정정)",
+  "state": "PROCESSED_PARTIAL_OFFICIAL_EXCLUDED",
+  "reason": "자체문항(기본/예상) 행 생성 완료(Batch32); [기출문제 맛보기] 수능/모평/교육청 원문항은 기출 작업 금지로 제외",
   "needs": ""
  },
  {
@@ -425,5 +425,614 @@
   "state": "BLOCKED",
   "reason": "수식 다수 깨짐(텍스트 재구성 불가) + 18.2MB",
   "needs": "로컬 페이지 이미지"
+ },
+ {
+  "queue_id": "A00906",
+  "drive_id": "1R9BwXRUTmcCbAljyPjtXIgaDx7eEgA4w",
+  "state": "BLOCKED",
+  "reason": "원본 10.0MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00909",
+  "drive_id": "1iqn680e8rxxq5U_c_1cgL1ED4OBwa_sD",
+  "state": "BLOCKED",
+  "reason": "원본 11.1MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00912",
+  "drive_id": "1JWP4TFn42iF_lgL5IG3TxQhl-DgssNcL",
+  "state": "BLOCKED",
+  "reason": "원본 26.7MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00913",
+  "drive_id": "1D_cG98Q4xraRvLlyN857GAI7nWMtlqq-",
+  "state": "BLOCKED",
+  "reason": "원본 229.8MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00914",
+  "drive_id": "17NNf8ykx1dSt__He3WiJ5cmBVK_zw22K",
+  "state": "BLOCKED",
+  "reason": "원본 118.1MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00918",
+  "drive_id": "14TFet920KqQKGNI-oc08qKTjzxwAs3No",
+  "state": "BLOCKED",
+  "reason": "원본 10.7MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00922",
+  "drive_id": "1xg7U9Szi4A14fgemrUgHcFWYkWFZqkKL",
+  "state": "BLOCKED",
+  "reason": "원본 60.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00925",
+  "drive_id": "1jlQvdprXzFe_HM8JVnp_b-275Ra4h5LK",
+  "state": "BLOCKED",
+  "reason": "원본 107.0MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A01812",
+  "drive_id": "1A7JnZs1wMZnrZfwhHd-Ek3lnvnY_bJ0U",
+  "state": "BLOCKED",
+  "reason": "원본 56.1MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A01814",
+  "drive_id": "1PLXTyf1muxtBZy_WcpmoqgkzHLklBHvZ",
+  "state": "BLOCKED",
+  "reason": "원본 73.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A01820",
+  "drive_id": "1rCmyZ4rS6xX49cUkOqTkhJWxE3NXsdiE",
+  "state": "BLOCKED",
+  "reason": "원본 6.6MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02280",
+  "drive_id": "1O_ILITlrHVk8YAM94TOWwC6v9wTx-nos",
+  "state": "BLOCKED",
+  "reason": "원본 18.0MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02281",
+  "drive_id": "1fOQo95r3z9LFizkql0eQfVJbrR4Bi7mH",
+  "state": "BLOCKED",
+  "reason": "원본 20.9MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02282",
+  "drive_id": "1fG09e_SIggUgr55cuC5B9gkFX6uQN-C2",
+  "state": "BLOCKED",
+  "reason": "원본 20.3MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02283",
+  "drive_id": "1VqdK6ggTl6TevjG7tclYE8DqXnR1rtU_",
+  "state": "BLOCKED",
+  "reason": "원본 26.2MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02284",
+  "drive_id": "1SvOQWGwOEt_0k9cw0Ic-Zl9sb0Vu72QK",
+  "state": "BLOCKED",
+  "reason": "원본 17.9MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02285",
+  "drive_id": "1JIJ01ifn_MriD186HcWvuBwpJ8xRwFGG",
+  "state": "BLOCKED",
+  "reason": "원본 30.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02286",
+  "drive_id": "1QuwhKthhe0wPdwwG7dyMkLqx6y7JtlqV",
+  "state": "BLOCKED",
+  "reason": "원본 32.3MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02287",
+  "drive_id": "1Hh38EJqtIKBn1NEqf_9d2MGFjKHMIUOZ",
+  "state": "BLOCKED",
+  "reason": "원본 26.7MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02288",
+  "drive_id": "1Pfq2SgPw7S8jqm78HkgfTTDAul2XxxFw",
+  "state": "BLOCKED",
+  "reason": "원본 29.0MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02289",
+  "drive_id": "1C2-zUkoicVtMIFZIxTOuWlHLrZQLWv1O",
+  "state": "BLOCKED",
+  "reason": "원본 21.1MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02290",
+  "drive_id": "18VvLDKCsAnWv426DzDX7YJ6uOnrTpbtQ",
+  "state": "BLOCKED",
+  "reason": "원본 16.6MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02291",
+  "drive_id": "1SBLv_vA_DcB3eecJblyhq5l0Wj91VNFy",
+  "state": "BLOCKED",
+  "reason": "원본 18.4MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02292",
+  "drive_id": "1ofo9rS-fmCqL5IJTKB9iMnR94jka03AT",
+  "state": "BLOCKED",
+  "reason": "원본 17.3MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02293",
+  "drive_id": "1Pjqf2TDKyDc54yv9jkybYc0lSgujs5Ot",
+  "state": "BLOCKED",
+  "reason": "원본 15.7MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02294",
+  "drive_id": "1mUhNXCyze1CQInX-NDh1GvIahxVfAluO",
+  "state": "BLOCKED",
+  "reason": "원본 21.6MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02295",
+  "drive_id": "1Rk3tTE0OG8H_0BL_bRHawTPnOCb7cn2W",
+  "state": "BLOCKED",
+  "reason": "원본 14.2MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02296",
+  "drive_id": "1Te5JOAOg8GyuPRd01L5fIpWUXdrhpKFd",
+  "state": "BLOCKED",
+  "reason": "원본 18.6MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02297",
+  "drive_id": "1nQbtYXKVlSDcoIpQh34tl8WJjNTnDCXZ",
+  "state": "BLOCKED",
+  "reason": "원본 11.1MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02314",
+  "drive_id": "1hg39ET_Aqyyqt6Ddg8iLekAnC3P7TLyN",
+  "state": "BLOCKED",
+  "reason": "원본 53.4MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02318",
+  "drive_id": "1fPA6kfpLTqK0QLjWKrF9lsbM9quCG1Zf",
+  "state": "BLOCKED",
+  "reason": "원본 96.4MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02319",
+  "drive_id": "1ahHJ-bOwajlm2rJTtemQiFKOr_uGARUn",
+  "state": "BLOCKED",
+  "reason": "원본 30.0MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02320",
+  "drive_id": "1aFNu1BYZZV_UGPstDfB2LFfR3uLbp4E9",
+  "state": "BLOCKED",
+  "reason": "원본 31.9MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02321",
+  "drive_id": "1gPylVjfMLjPmuGHE_Y8eNUyfyCPIobRu",
+  "state": "BLOCKED",
+  "reason": "원본 38.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02346",
+  "drive_id": "12XvyflHXq34-9fwsOBo6t7JHZwQWtnht",
+  "state": "BLOCKED",
+  "reason": "원본 154.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02356",
+  "drive_id": "1_ovoLR9RcZNlnMsRVWOwmNbvsOn3HQBC",
+  "state": "BLOCKED",
+  "reason": "원본 148.7MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02357",
+  "drive_id": "1A-9x4YRysFKZwZtc_vyRaJAV0QoPkLeF",
+  "state": "BLOCKED",
+  "reason": "원본 93.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02358",
+  "drive_id": "1Dkaz7TwGOsWI94rsvxHLEX6Jo9UJ1mKT",
+  "state": "BLOCKED",
+  "reason": "원본 106.3MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02359",
+  "drive_id": "1uWE29mgAqv4WlxcUcPLVKeUPdt-qqGDd",
+  "state": "BLOCKED",
+  "reason": "원본 100.4MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02374",
+  "drive_id": "1wax48iavm3_idHFRGFHk-yf_gfSvxLGm",
+  "state": "BLOCKED",
+  "reason": "원본 122.1MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02375",
+  "drive_id": "1oIi3oDz1pfpXlw4WwhVV_KLSTlu4Rnsm",
+  "state": "BLOCKED",
+  "reason": "원본 175.9MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02376",
+  "drive_id": "1He8-8FlDl8aY3qOrXBYB8Pu8Dk0ufxB1",
+  "state": "BLOCKED",
+  "reason": "원본 188.2MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02392",
+  "drive_id": "1PRgf9SCVgUzs4QCnRI_S_2jfBxYxmwa4",
+  "state": "BLOCKED",
+  "reason": "원본 20.4MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02393",
+  "drive_id": "1FE_glskOZKEdLMD3QRCXBY68avgZbl0z",
+  "state": "BLOCKED",
+  "reason": "원본 49.0MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02394",
+  "drive_id": "1a-qq8JkmwRoteYK2axh4uLprK4DUZwLH",
+  "state": "BLOCKED",
+  "reason": "원본 31.3MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02395",
+  "drive_id": "1c3Y6EHFPySafnMxedIrvk4ESqufxIqKw",
+  "state": "BLOCKED",
+  "reason": "원본 27.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02396",
+  "drive_id": "10negdoVvvcOqfYmreqZLK9BZkIVXAxlG",
+  "state": "BLOCKED",
+  "reason": "원본 226.1MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A02398",
+  "drive_id": "1UuHoT1OFxpOqPCWAgADznphT6x57oMwc",
+  "state": "BLOCKED",
+  "reason": "원본 54.5MB > 다운로드 한도 + 전처리 cache NO_TEXT_RECHECK(이미지 전용; 동일 조건 선행 20여 건 전부 Drive 텍스트 빈 응답/깨짐)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00919",
+  "drive_id": "1ej8fgg6vMysPUnEDX6nfTEFKJPhkTayk",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 12.3MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00920",
+  "drive_id": "1-YEZzhMuvLN283UzKN4cYTGbbyGHS8PH",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 59.1MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00927",
+  "drive_id": "1gSDSwTMQVvZ0WKnpywV5DDU1H470DWLj",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 99.3MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00929",
+  "drive_id": "12EAQykC7d7kjVRY5LNlJTsL70M7HvTN3",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 10.5MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00930",
+  "drive_id": "1ozPp0UXnwoPUZZEMUahIN5Ow-GRUAEIK",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 7.2MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00932",
+  "drive_id": "1TofBYqrfCMwSctnH1yJ21imONv5wEJcv",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 73.8MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00933",
+  "drive_id": "1ee-Cln-DjIKrG9n_KMYb458nFW5n6xgz",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 67.8MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00934",
+  "drive_id": "1DT-PAkMWaoUmHKozqKr1TSO4Ccx3bs1y",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 14.4MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00935",
+  "drive_id": "1YwlcK5hI6ahP3r81-BXsBT9hRk8N_ggW",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 169.1MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00936",
+  "drive_id": "1R1K--gArbuxlC_hSl3g6PztV5kFh39nd",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 115.8MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00941",
+  "drive_id": "1g30RuEXo5zNH0xmUE_SjWTRvZXy-RbuH",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 263.2MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00942",
+  "drive_id": "1IXiDDLLlyevqwLlIZ8tizBwj1gbzKlcT",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 26.7MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A00945",
+  "drive_id": "16hYX9jrFWvlL6raFXVmJm6bZvwRzO_eD",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 13.1MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02322",
+  "drive_id": "1pogt6PFF8sRfikVaYYZwIyHHPdWTLZIu",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 12.4MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02323",
+  "drive_id": "1-17cqCgJ3QVIeOIz9OxY8Q5nOkG3bcwN",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 6.1MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02329",
+  "drive_id": "1YIl8HBXvQMnfmxiKtZEEb_FpkSeX3h3r",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 14.5MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02331",
+  "drive_id": "1XGtG66iROe1hKNAGvQSOuMw_8NO7f_j-",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 30.1MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02332",
+  "drive_id": "1rikBJjD46C-k37jyE9QBcm7ZzX2imInp",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 23.5MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02333",
+  "drive_id": "1ndSRkoNGcbKEhHrPjEIiaFQf0cSdf4jm",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 9.3MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02348",
+  "drive_id": "1-iQCYDJMh-N91brR4IjKQK4ShFqn0WSW",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 6.2MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02351",
+  "drive_id": "19Bavy7OHaP5C49RsMbzCQGEMPKi-2LAD",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 6.8MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02352",
+  "drive_id": "111NwlPEKdtzikmaBG4_zaCAh8eSB-mkk",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 8.1MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02353",
+  "drive_id": "1_fCM_qnMLy02eI1ALqXOtaDQOG4dXgVg",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 6.3MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02354",
+  "drive_id": "1Dm79fbL0zRxyriJpFxcwP3WPrVpn7k-A",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 10.0MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02355",
+  "drive_id": "1anM2g5HRr3D9IaUBCDujcQrESpi93JuY",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 7.6MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02364",
+  "drive_id": "1HS6h9VwVOEPOYc-mCZcl1USEdj4Wwlw1",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 23.8MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02367",
+  "drive_id": "19jA55LNY_YJp0lCGjCODXjto390JAP8e",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 10.2MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02369",
+  "drive_id": "1W3UtUNdds4hoNxpPsEil2hy7oqToQIP-",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 7.3MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02371",
+  "drive_id": "1okDtVY-hpWhqTNPI41lSns8cuCFp22Hu",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 8.9MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02373",
+  "drive_id": "1Qab0_Zs8dLX-po_ayxFvHWp1vkcqUKP1",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 10.1MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02377",
+  "drive_id": "1D3-PYDNbhAsEB5pwsF0FlvlP_45YWCyV",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 11.2MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02378",
+  "drive_id": "1RQWe81R03COTGSO8KjUYI3Bhl2OiENF3",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 11.2MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02379",
+  "drive_id": "1tN8D1eIo55JZXNmgZ7DRLj0gwN-7nSu5",
+  "state": "BLOCKED",
+  "reason": "아카이브/HWP 11.8MB > 다운로드 한도(텍스트표현 불가 형식)",
+  "needs": "로컬 압축해제/전처리"
+ },
+ {
+  "queue_id": "A02341",
+  "drive_id": "(master)",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "만렙AM 수학Ⅰ PDF = A00680(ZIP, 이전 P3 단계 처리 완료) 본문과 동일 도서",
+  "needs": ""
+ },
+ {
+  "queue_id": "A02316",
+  "drive_id": "(master)",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "만렙AM 수학Ⅱ PDF(6,325,687B) = A00667 ZIP 본문 멤버와 바이트 크기 동일 → A00667 canonical(Batch27)",
+  "needs": ""
+ },
+ {
+  "queue_id": "A02339",
+  "drive_id": "(master)",
+  "state": "COMPANION_LINK_ONLY",
+  "reason": "풍산자 반복수학 수학Ⅰ 정오표(HWP) → 본문 A02340",
+  "needs": ""
+ },
+ {
+  "queue_id": "A01821",
+  "drive_id": "(master)",
+  "state": "COMPANION_LINK_ONLY",
+  "reason": "풍산자 반복수학 확률과통계 정오표(HWP) → A01817",
+  "needs": ""
+ },
+ {
+  "queue_id": "A00911",
+  "drive_id": "(master)",
+  "state": "COMPANION_LINK_ONLY",
+  "reason": "자이스토리 2024 수학(상) 빠른답 → 본문 A00913(BLOCKED) 정답 companion",
+  "needs": ""
+ },
+ {
+  "queue_id": "A00926",
+  "drive_id": "(master)",
+  "state": "NO_ITEMS",
+  "reason": "168바이트 ZIP(손상/빈 파일)",
+  "needs": ""
  }
 ]
