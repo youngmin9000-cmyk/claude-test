@@ -14,3 +14,7 @@ A00382 곱셉공식.pdf : LOCAL_RESULT_READY — Math_Question_DB_P5LANE_Result_
 A00380 곱셉공식(중3).hwp : LOCAL_RESULT_READY — …_A00380_….xlsx; 12 rows (곱셈공식 5 + 변형 6 + 거듭제곱 암기표 1[하위 33]); NOKEY REVIEW
 A00381 복소수.pdf : LOCAL_RESULT_READY — …_A00381_….xlsx; 7 rows (복소수·켤레·음수제곱근·복소수제곱·이차방정식·켤레근·이차함수 공식 빈칸, 하위 28); NOKEY REVIEW; P5 lane 누적 158
 A00385 다항함수의 미분법.pdf : LOCAL_RESULT_READY — …_A00385_….xlsx; 14 rows (미분 공식 빈칸 워크시트, 하위 34); NOKEY REVIEW; P5 lane 누적 172
+A00386 중1 공식정리 서브노트.hwp : LOCAL_RESULT_READY — …_A00386_….xlsx; 17 rows (단원별 개념정리, 하위 106); REVIEW(개념정리자료·문항 아님); 원문표기확인 3건(04 번호중복, 07 공역 정의 부정확, 11 [3] 누락·그림칸)
+A00387 중1 공식.hwp : LOCAL_RESULT_READY — …_A00387_….xlsx; 4 rows (평면도형 공식표·정다면체표·회전체표·겉넓이부피, 하위 26); 원문 값 독립검증 전부 일치; REVIEW(문항 아님); 문서가 3절부터 시작(1·2절 부재)
+A00388 함수의 극한과 연속 (1).pdf : LOCAL_RESULT_READY — …_A00388_….xlsx; 12 rows (공식 빈칸 3쪽, 하위 39); NOKEY REVIEW; 2쪽 '연속 성질(2)' 제목 중복
+A00389 다항함수의 적분법.pdf : LOCAL_RESULT_READY — …_A00389_….xlsx; 8 rows (공식 빈칸 2쪽, 하위 25); NOKEY REVIEW 7 + HOLD 1(정적분과 미분 ⑤ lim x→a 오기 의심, x→0이면 f(a)); P5 lane 누적 213
