@@ -18,3 +18,6 @@ A00386 중1 공식정리 서브노트.hwp : LOCAL_RESULT_READY — …_A00386_�
 A00387 중1 공식.hwp : LOCAL_RESULT_READY — …_A00387_….xlsx; 4 rows (평면도형 공식표·정다면체표·회전체표·겉넓이부피, 하위 26); 원문 값 독립검증 전부 일치; REVIEW(문항 아님); 문서가 3절부터 시작(1·2절 부재)
 A00388 함수의 극한과 연속 (1).pdf : LOCAL_RESULT_READY — …_A00388_….xlsx; 12 rows (공식 빈칸 3쪽, 하위 39); NOKEY REVIEW; 2쪽 '연속 성질(2)' 제목 중복
 A00389 다항함수의 적분법.pdf : LOCAL_RESULT_READY — …_A00389_….xlsx; 8 rows (공식 빈칸 2쪽, 하위 25); NOKEY REVIEW 7 + HOLD 1(정적분과 미분 ⑤ lim x→a 오기 의심, x→0이면 f(a)); P5 lane 누적 213
+A00394 함수의 극한과 연속 (1).hwp : DUPLICATE_SOURCE — A00388(PDF)과 본문 동일한 HWP 원본(제목·항목·'연속 성질(2)' 중복표기까지 일치) → 신규 행 없음, A00388 행으로 대표
+A00395 수학2 시작 전 기본개념.hwpx : LOCAL_RESULT_READY — …_A00395_….xlsx; 18 rows (그래프 작도 12[REVIEW-그림] + 곱셈공식·변형·거리·직선 6, 하위 34); NOKEY REVIEW; sympy 절편·점근선 검산; 원문 곱셈공식 번호 4)·5) 누락; P5 lane 누적 231
+=== 고정 순서 목록 처리 완료(A00009~A00395). 다음: master lane=P5 ACTIONABLE 미완료 대상 A번호 오름차순 ===
