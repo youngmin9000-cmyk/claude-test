@@ -13,3 +13,4 @@ A00378 KakaoTalk jpg : NO_QUESTION — 직각삼각형 ABC(빗변 a, 밑변 b, �
 A00382 곱셉공식.pdf : LOCAL_RESULT_READY — Math_Question_DB_P5LANE_Result_A00382_20261006.xlsx; 24 rows (곱셈공식 12 + 변형 12, 공식 빈칸 워크시트); 정답지 없음 NOKEY REVIEW(표준 공식으로 독립작성)
 A00380 곱셉공식(중3).hwp : LOCAL_RESULT_READY — …_A00380_….xlsx; 12 rows (곱셈공식 5 + 변형 6 + 거듭제곱 암기표 1[하위 33]); NOKEY REVIEW
 A00381 복소수.pdf : LOCAL_RESULT_READY — …_A00381_….xlsx; 7 rows (복소수·켤레·음수제곱근·복소수제곱·이차방정식·켤레근·이차함수 공식 빈칸, 하위 28); NOKEY REVIEW; P5 lane 누적 158
+A00385 다항함수의 미분법.pdf : LOCAL_RESULT_READY — …_A00385_….xlsx; 14 rows (미분 공식 빈칸 워크시트, 하위 34); NOKEY REVIEW; P5 lane 누적 172
