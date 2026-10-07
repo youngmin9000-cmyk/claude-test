@@ -37,3 +37,5 @@ A00658 수학2(3).zip (1FUdwDd4OVbv9h_sLGMjk3THfeOOl1k9x; 풍산자 필수유형
 A00799 불모 답지.pdf (1t60dt1ATCAZvWg91oXZgT9lUz8MVeA-6; 1.8MB) : COMPANION_ONLY — 2026 불꽃 모의고사 회차별 정답표뿐(문항 없음). 문제지는 >10MB(BLOCKED-ACCESS 목록) → 행 생성 없음
 A00924 마플시너지-수학(상)-빠른정답.pdf (1ttu5nISfwexUaAtgn6aR1OYgiGFOPtYG; 1.9MB, 7p 스캔) : COMPANION_ONLY — 문항번호별 빠른정답표뿐(문항 없음) → 행 생성 없음
 A01810 1-2 중복순열.hwp (1W3pzQMcJih7_8x6XZ6FcKn1nJByjZqXA; 수악모아 확통 유형1-2, 2019 학교기출 244) : LOCAL_RESULT_READY — …_A01810_….xlsx; 244 rows; YES 233, REVIEW 4(202 그림조건, 57/59/82 원문조건), HOLD 7(14·139·235 원문손상, 131 키 1295→1296, 165 키 960→992, 206 키 52/1872→56/2016, 218 정답없음 22); P5 lane 누적 1190
+A00701 [2022]+개념+유형+대수+유형편.pdf (1Y6TT-BnMz7lbZZmhC9ToZm6h9GsXn3wb; 6.9MB) : BLOCKED-TRANSPORT — download_file_content 응답 과대로 MCP 연결 종료(전송 한계 5.1MB 성공 / 6.9MB 실패). 자격증명 우회 금지 → 건너뜀
+A02405 땅우N-1제_수2 본문.pdf (3.1MB, 138p 스캔, 텍스트층 없음) : 진행 — Part0 기출 레퍼토리(p6~25)는 기출 lane 금지로 제외, Part1~2 N-1제 001~250 시각 판독·독립풀이. 정답지 '땅우N-1제_수2 해설.pdf'(9.3MB, master UNMAPPED·drive_id 없음) 전송 불가 → 키 미연결, 전 행 REVIEW-정답지미연결 예정
