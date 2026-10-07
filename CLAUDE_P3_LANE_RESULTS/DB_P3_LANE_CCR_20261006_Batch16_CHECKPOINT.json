@@ -1,0 +1,37 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 16,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 127,
+ "PASS": 7,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 48,
+ "HOLD": 72,
+ "FAIL": 0,
+ "production_ready": {
+  "NO": 72,
+  "REVIEW": 48,
+  "YES": 7
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch16_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch16_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00352",
+   "drive_id": "1Ah-YENDIv3c1sp-cMzXSekuX5QK7mlzb",
+   "processed_range": "책 p8–80 (Ⅰ 삼각비 주제01–15, Ⅱ 원의 성질 주제01–11 문항2까지)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "책 p80 이후(Ⅱ-2 나머지, Ⅲ 통계 p90–110) 미도달: 원본 26.9MB, Drive 텍스트표현 46K자에서 절단. 분수 분자 소실 다수. 정답과 해설 미보유(일부 페이지 채워진 답만 key로 사용)",
+   "next_question_when_unblocked": "Ⅱ-2 주제11 3 (p80~)"
+  }
+ ],
+ "latest_completed": "A00352 Ⅱ-2 주제11 2 (p80)",
+ "next_start": "A00072 p140-162 / A00077 q0206-end in progress; then A00406+ (fetch running)",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
