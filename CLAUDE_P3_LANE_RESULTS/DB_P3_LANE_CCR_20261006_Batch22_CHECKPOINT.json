@@ -1,0 +1,46 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 22,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 267,
+ "PASS": 0,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 262,
+ "HOLD": 5,
+ "FAIL": 0,
+ "production_ready": {
+  "REVIEW": 262,
+  "NO": 5
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch22_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch22_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00432",
+   "drive_id": "1m7Q-6vDw04itVduv9STQBi7-yuGybhLc",
+   "processed_range": "25054-0001–0267 (p1–90)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "p90 이후(0268~, 통계, 실전 모의고사) 미도달: 원본 11.9MB, Drive 텍스트표현 절단; 정답과 풀이 미보유 → REVIEW_NO_KEY",
+   "excluded": "필수유형 기출 예제(공식 기출 원문항) 행 생성 안 함",
+   "next_question_when_unblocked": "25054-0268"
+  }
+ ],
+ "blocked_or_excluded_new": [
+  "A00630",
+  "A00640",
+  "A00642",
+  "A00647",
+  "A00652",
+  "A00657",
+  "A00650(EXCLUDE_OFFICIAL_EXAM)"
+ ],
+ "latest_completed": "A00432 25054-0267 (p90)",
+ "next_start": "A00620 in progress; A00621, A00627, A00664 next",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}

@@ -152,5 +152,54 @@
   "state": "DUPLICATE_REPRESENTATION",
   "reason": "A00409(강의용판, 정답 인쇄)와 동일 도서 학생용판(p1-89 1:1 대응) → A00409 canonical",
   "needs": ""
+ },
+ {
+  "queue_id": "A00630",
+  "drive_id": "1UBDISm4ZL3MwZp8ApMdNKt56Zqt2uGBA",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용/대용량) + 원본 >6MB → 접근 불가 (110MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00642",
+  "drive_id": "1lWS1B2xiVT-yrt8AfbuVTDncImynyhY_",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용/대용량) + 원본 >6MB → 접근 불가 (7.2MB 스캔)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00647",
+  "drive_id": "1iNcLpoIJ1EYSH6f0iDEyJ0BhupUDvq0V",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용/대용량) + 원본 >6MB → 접근 불가 (90MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00652",
+  "drive_id": "1GGL83xFWB-_QgP_baxHY8z7fV8r-EpIY",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용/대용량) + 원본 >6MB → 접근 불가 (38.5MB 스캔)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00657",
+  "drive_id": "1Ler1ACEfqD8WgU4SCiHN58fCxTC7Mnv-",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용/대용량) + 원본 >6MB → 접근 불가 (97MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00640",
+  "drive_id": "10GGMCSXK0H8UBWHhNo6HCqw3FSnoqNxd",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현이 OCR 잡음(지수·근호·분수 손상, 숫자 비보존) + 16.8MB → 신뢰 가능한 문항 재구성 불가",
+  "needs": "로컬 페이지 이미지"
+ },
+ {
+  "queue_id": "A00650",
+  "drive_id": "1ziQEu2FOdhocyznAeZFt8ZAgYG1rueaw",
+  "state": "EXCLUDE_OFFICIAL_EXAM",
+  "reason": "짱중요한유형 수학Ⅱ = 수능/모평 기출 유형별 모음(공식 기출 원문항) → 기출 작업 금지 지시에 따라 P3 lane에서 행 생성 안 함(공식기출 파이프라인 대상)",
+  "needs": ""
  }
 ]
