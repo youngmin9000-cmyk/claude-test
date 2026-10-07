@@ -5,3 +5,5 @@ A00013 2024 양승진 4점코드 수1 수2.pdf 50.9MB : BLOCKED-ACCESS(>10MB)
 A00014 맑은개념수학 수1&수2 전자책.pdf : LOCAL_RESULT_READY — Math_Question_DB_P5LANE_Result_A00014_20261006.xlsx; 22 rows(예제 단위, 하위문항 101); PASS 17 / REVIEW 3 (p238 예제2 정답지 ⑵⑶ 라벨 뒤바뀜 CONFLICT, p270 예제1·2 그래프 답 REVIEW-그림) / HOLD 2 (p295·p300 작도 예제 정답 미수록); 정답 = 부록 p338~345 동일파일; 마스터 추정 209는 예제 하위항목 포함 추정치 — 실제 문항형 예제 22개(하위 101); READY_FOR_UPLOAD
 A00015 맑은개념 중학도형 전자책.pdf : LOCAL_RESULT_READY — Math_Question_DB_P5LANE_Result_A00015_20261006.xlsx; 33 rows(증명 예제1~33, 하위 58); PASS 0 / REVIEW 33 (도형 동반 → REVIEW-그림판독 규칙; 예제1은 공리 수용 진술 REVIEW-비문항) / HOLD 0; 정답 = 각 예제 풀이쪽(동일파일 PDF p51~91); READY_FOR_UPLOAD; P5 lane 누적 55
 A00027 대영3 확률과통계.pdf 38.1MB : BLOCKED-ACCESS(>10MB)
+A00140 광휘 미적분 자료.pdf : LOCAL_RESULT_READY — Math_Question_DB_P5LANE_Result_A00140_20261006.xlsx; 60 rows (광휘고 2025 3학년 1학기 미적분 수업자료, 학평·수능·수능특강 재수록); 정답지 없음 → 전 문항 독립풀이 NOKEY REVIEW; HOLD 4 (38 극한분모 θ² 전사오류 의심, 39 (가) f′ 누락 의심, 41 조건 모순, 56 (나) f′ 의심); 수치/기호 검산 7·9·17·19·20·32~38·45·53 등; 53=283·44=64 등 알려진 기출값과 일치; READY_FOR_UPLOAD; P5 lane 누적 115
+A00250 중2-2 더블클릭.pdf 9.0MB : 다음 대상(시도)
