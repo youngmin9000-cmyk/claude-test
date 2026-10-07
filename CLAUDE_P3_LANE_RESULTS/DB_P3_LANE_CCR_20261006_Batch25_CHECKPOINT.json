@@ -1,0 +1,38 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 25,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 313,
+ "PASS": 74,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 232,
+ "HOLD": 7,
+ "FAIL": 0,
+ "production_ready": {
+  "YES": 74,
+  "REVIEW": 232,
+  "NO": 7
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch25_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch25_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00621",
+   "drive_id": "1B_f2fgd9liJxR4iqesc7cD8z67i97ACX",
+   "processed_range": "p1–124 (예제, 유제 001–248, 연습문제 044–060 등)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "p124 이후 미도달: 원본 44.6MB, Drive 텍스트표현 ~133K자 절단; 유제 정답 별책 미보유 → REVIEW_NO_KEY",
+   "label_note": "p84-124 구간만 무번호 개념예제를 행으로 포함(설명적 printed_no) — 다른 구간은 제외(정책 불일치 기록)",
+   "next_question_when_unblocked": "예제 11 (p124~) / 유제 249"
+  }
+ ],
+ "latest_completed": "A00621 유제 248 (p124)",
+ "next_start": "A00627 p101-125, A00666, A00667, A00674 in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
