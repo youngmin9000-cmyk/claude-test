@@ -1,0 +1,38 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 14,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 258,
+ "PASS": 42,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 137,
+ "HOLD": 79,
+ "FAIL": 0,
+ "production_ready": {
+  "REVIEW": 137,
+  "NO": 79,
+  "YES": 42
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch14_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch14_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00085",
+   "drive_id": "1ml1WkXBSo_aLRsZ1DO-sKB2PzFQW7k_s",
+   "processed_range": "p1–84 (Ⅰ-1 기본 도형 ~ Ⅰ-3 작도와 합동 서술형 예제1/유제1)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "p85 이후 미도달: 원본 17.0MB(다운로드 불가), Drive 텍스트표현 절단. 정답 및 풀이 미보유 → REVIEW_NO_KEY; 도형 단원 그림 비가시 → HOLD_VISUAL 다수",
+   "next_question_when_unblocked": "Ⅰ-3 서술형 대비 예제 2 (p84~)",
+   "label_checks": "서술형 유제 번호(p31, p57, p84)는 텍스트 순서 추정 → 이미지 확인 필요"
+  }
+ ],
+ "latest_completed": "A00085 p84",
+ "next_start": "A00072/A00077/A00349/A00352 in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}
