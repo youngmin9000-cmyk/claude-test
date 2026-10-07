@@ -1,0 +1,37 @@
+{
+ "stream": "P3_LANE_CCR",
+ "lane": "P3",
+ "batch": 18,
+ "date": "2026-10-06",
+ "owner": "CCR session_01G8AM1s8UGF5HC5SSzvAtDk",
+ "state": "LOCAL_RESULT_READY",
+ "upload": "READY_FOR_UPLOAD (not uploaded; separate upload session)",
+ "rows": 466,
+ "PASS": 0,
+ "PASS_WITH_DEFECT": 0,
+ "REVIEW": 205,
+ "HOLD": 261,
+ "FAIL": 0,
+ "production_ready": {
+  "REVIEW": 205,
+  "NO": 261
+ },
+ "result_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch18_Result.csv",
+ "qc_file": "Math_Question_DB_P3_LANE_CCR_20261006_Batch18_QC.csv",
+ "sources": [
+  {
+   "queue_id": "A00077",
+   "drive_id": "16UVuWUioHR6u-2idKZK_ADlj9jWZlTl9",
+   "processed_range": "책 p8–72 (Ⅰ-1 점선면 ~ Ⅰ-4 학교시험기출 17)",
+   "source_state": "PARTIAL_BLOCKED",
+   "blocked_reason": "p72 이후 미도달(원본 19.2MB, Drive 텍스트표현 OCR·절단); 정답 및 풀이 미보유 → REVIEW_NO_KEY; 그림 비가시 → HOLD_VISUAL 다수",
+   "numbering_note": "원문항번호 = 섹션별 인쇄번호(\"Ⅰ-m(ss) 개념/유형 NN\", \"Ⅰ-m 학교시험기출 NN\"); 2개 분석구간의 세부유형ID 체계 불일치(MS.M12.* vs MS.M1.*) → 정규화 필요",
+   "next_question_when_unblocked": "Ⅱ 단원 (p73~)"
+  }
+ ],
+ "latest_completed": "A00077 Ⅰ-4 학교시험기출 17 (p72)",
+ "next_start": "A00409/A00415/A00419/A00432 in progress",
+ "original_mutations": 0,
+ "drive_writes": 0,
+ "other_stream_mutations": 0
+}

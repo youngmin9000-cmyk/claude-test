@@ -96,5 +96,61 @@
   "state": "DUPLICATE_REPRESENTATION",
   "reason": "A00349(자이스토리 3-2 unlocked)와 동일 도서: p1-76 텍스트 바이트 동일 → A00349를 canonical로 처리",
   "needs": ""
+ },
+ {
+  "queue_id": "A00406",
+  "drive_id": "19Cc0KHK0yl0hlV0jLevaG8fUW1Cv92WH",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용 PDF) + 원본 >6MB → 접근 불가 (19.5MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00411",
+  "drive_id": "1JkG8vVtvKEDWGCt336eiizThQLDIm183",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용 PDF) + 원본 >6MB → 접근 불가 (34.4MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00416",
+  "drive_id": "1BNcEC8oFtyX8Yzh6Tr9WINAimDs5sR20",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용 PDF) + 원본 >6MB → 접근 불가 (12.1MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00417",
+  "drive_id": "1Om6AK755vECnTfbE2Do5C_o9Mpq0veby",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용 PDF) + 원본 >6MB → 접근 불가 (11.6MB; A00416과 동일 도서 추정)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00418",
+  "drive_id": "1BblYSanC507ZTkwQyQH1VK7SaHGaNiHz",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용 PDF) + 원본 >6MB → 접근 불가 (9.2MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00423",
+  "drive_id": "1qpWzvV83mcUDam1Qw3MxoAnYotTnO-qP",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용 PDF) + 원본 >6MB → 접근 불가 (8.7MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00431",
+  "drive_id": "12NRO-UNZINa5-5nNVa0pG1U6G0LhrO9O",
+  "state": "BLOCKED",
+  "reason": "Drive 텍스트표현 빈 응답(이미지 전용 PDF) + 원본 >6MB → 접근 불가 (6.8MB)",
+  "needs": "로컬 Python 전처리(페이지 이미지/OCR)"
+ },
+ {
+  "queue_id": "A00410",
+  "drive_id": "184jS1vqIYwsLIVBWRRMqL6iwVwMbA7p5",
+  "state": "DUPLICATE_REPRESENTATION",
+  "reason": "A00409(강의용판, 정답 인쇄)와 동일 도서 학생용판(p1-89 1:1 대응) → A00409 canonical",
+  "needs": ""
  }
 ]
